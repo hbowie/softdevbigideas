@@ -1,11 +1,5 @@
 Title:  Introduction
 
-Seq:    001
-
-Tags:   Intro
-
-Body:   
- 
 I've spent four plus decades doing software development, and over that period I've read a long series of books, articles and blogs on the topic.
  
 And, of course, the number of new words written on the topic increases daily.

@@ -1,11 +1,5 @@
 Title:  Decomposition
 
-Seq:    002
-
-Tags:   General
-
-Body:   
- 
 Large and complex things should be broken down into smaller, more manageable things. This can be done progressively, and recursively, at multiple levels of decomposition.
 
 It's best if the number of things in each group is somewhere in the range of 3 - 15, with 7 being a sweet spot. The human brain seems fairly good at dealing with sets of this size.

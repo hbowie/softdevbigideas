@@ -1,0 +1,5 @@
+Title: What's Not Done is as Important as What's Done
+
+Sometimes the stuff you leave out is as important as the stuff you put in. 
+
+Adding low-value or even unnecessary features not only wastes money spent on development, but adds to the complexity of the resulting product, making it harder to use and harder to maintain over the entire span of its remaining life. 
