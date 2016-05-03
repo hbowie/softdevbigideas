@@ -1,0 +1,33 @@
+Title:  Introduction
+
+Seq:    001
+
+Tags:   Intro
+
+Body:   
+ 
+I've spent four plus decades doing software development, and over that period I've read a long series of books, articles and blogs on the topic.
+ 
+And, of course, the number of new words written on the topic increases daily.
+
+How can a software developer keep up? 
+
+I'm a firm believer that new ideas are generated from time to time, and that it is worthwhile to read about software development as well as to do it; on the other hand, I am also beginning to suspect that the number of distinctly different ideas is not that large, and that much of what's written consists of old ideas dressed up in the fashions of the day. 
+
+And so I am setting off to test my hypothesis by trying to document the Big Ideas in Software Development in a concrete, manageable, sequential list. I'll be creating, refining and enhancing this list in public, at SoftDevBigIdeas.org, and I welcome you to follow along as I progress, and to submit your own occasional suggestions for additions and refinements. 
+
+Since I'm focused here on Software Development, ideas that are more broadly applicable to other types of product development will generally be stated in software-centric terms, although this is not meant to deny or devalue their broader applicability. 
+
+— or —
+
+I have been practicing software development for more than four decades now, and over that time, in addition to writing a lot of code, and being involved in a lot of projects in varying capacities, I've done a lot of reading on the topic. In fact, I've got shelves full of books on the topic, starting with classics like <cite>The Mythical Man Month</cite>, proceeding through the CMM period and then on into the Lean/Agile years.
+
+I'm now at the point, though, of wondering whether it wouldn't be possible to communicate the most important ideas about the field in a simpler, more concise, more easily accessible fashion.
+
+And thus was bred the idea for this site.
+
+My intent is to try to list, in ranked order, as many big ideas about software development as I can possibly capture. This will be an evolving public experiment, so check back frequently to see what's been added, and what's changed position, and be sure and let me know what you think is missing, misrepresented, or miscategorized.
+
+I look forward to your feedback.
+
+

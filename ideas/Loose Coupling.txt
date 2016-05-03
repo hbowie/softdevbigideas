@@ -1,0 +1,6 @@
+Title:  Loose Coupling
+
+Seq:    004
+
+Tags:   General
+

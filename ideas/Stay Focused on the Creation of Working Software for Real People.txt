@@ -1,0 +1,13 @@
+Title: Stay Focused on the Creation of Working Software for Real People
+
+Body:
+
+This was a major message of the Agile movement, which opened its [Manifesto][am] with the words: "We are uncovering better ways of developing software by doing it and helping others do it."
+
+To a great deal, this was a reaction to the [Capability Maturity Model][cmm] era, which often overshadowed the actual act of software coding with an emphasis on maturity levels, key process areas, process documentation, generation of artifacts and production of metrics. 
+
+The point here is that well-intentioned improvement efforts, whether initiated by management or by consultants, can all too easily prove a distraction to the actual production of working software to be used by real people, often to the detriment of everyone involved. 
+
+[am]:  http://agilemanifesto.org
+[cmm]: https://en.wikipedia.org/wiki/Capability_Maturity_Model
+
