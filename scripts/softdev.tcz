@@ -1,0 +1,11 @@
+module	action	modifier	object	value
+input	set		normalization	0
+input	open	xls		#PATH#../lists/ideas.xls
+sort	add	Ascending	Seq
+sort	set		params
+template	open	text		#PATH#../factory/home_template.html
+template	generate
+template	open	text		#PATH#../factory/nextnav_template.html
+template	generate
+template	open	text		#PATH#../factory/idea_template.html
+template	generate
