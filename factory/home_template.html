@@ -14,12 +14,12 @@
     <script type="text/javascript" src="js/pick-type-grade.js"></script>
     <!-- custom javascript for home page -->
     <script src="js/index.js"></script>
-    <title>Software Development: Big Ideas</title>
+    <title>Software Development / Big Ideas</title>
     <link rel="icon" type="image/x-icon" href="favicon.ico" />
     <link rel="icon" type="image/png" href="favicon.png" />
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <!-- Custom styles for Reason to Rock -->
+    <!-- Custom styles for SoftDevBigIdeas -->
     <link rel="stylesheet" href="fonts/concourse_t3.css" type="text/css" />
     <link rel="stylesheet" href="fonts/stylesheet.css" type="text/css" />
     <link rel="stylesheet" href="css/styles.css" />
@@ -37,7 +37,10 @@
 <!-- #bbinclude "page-header.html" -->
       <div class="page-header text-center">
           <a href="./"><img alt="light bulb" src="images/softdev.png" width="64" height="64"></a>
-          <h1>Soft<span class="sand">ware</span> <br />Dev<span class="sand">elopment</span> <br />Big <br />Ideas</h1>
+          <h1>Soft<span class="sand">ware</span> <br />
+          	  Dev<span class="sand">elopment</span> <br />
+          	  Big <br />
+          	  Ideas</h1>
       </div>
 <!-- end bbinclude -->
 
@@ -46,32 +49,7 @@
 
         <!-- Left Hand Column: Navigation -->
         <div class="col-md-2 col-lg-2 col-lg-offset-1">
-<!-- #bbinclude "navbar.html" -->
-          <div class="navbar navbar-default">
-              <div class="container-fluid">
-                  <div class="navbar-header">
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mynavbar-content">
-                      <span class="icon-bar"></span>
-                      <span class="icon-bar"></span>
-                      <span class="icon-bar"></span>
-                    </button>
-                    <a class="navbar-brand" href="./">Menu</a>
-                  </div>
-
-                  <div class="collapse navbar-collapse" id="mynavbar-content">
-                      <ul class="nav navbar-nav">
-                          <li><a href="intro/index.html">Intro</a></li>
-                          <li><a href="elements/index.html">Elements</a></li>
-                          <li><a href="artists/index.html">Artists</a></li>
-                          <li><a href="tracks/index.html">Tracks</a></li>
-                          <li><a href="closing/index.html">Closing</a></li>
-                          <li><a href="blog/index.html">Blog</a></li>
-                          <li><a href="search.html">Search</a></li>
-                      </ul>
-                  </div>
-              </div>
-          </div>
-<!-- end bbinclude -->
+<?include "../html/navbar.html" ?>
         </div>
 
         <!-- Center Column: Text -->
@@ -80,26 +58,28 @@
             <li class="active"><a href="./">Home</a></li>
           </ol>
 
-          <table id="toc">
-            <tr>
-              <th>&nbsp;</th>
-              <th>No.   </th>
-              <th>&nbsp;</th>
-              <th>Big Idea</th>
-            </tr>
-<?nextrec?>
-            <tr>
-              <td>=$message$=</td>
-              <td class="right">=$seq$=.    </td>
-              <td>&nbsp;     </td>
-              <td><a href="=$title&f$=.html">=$title$=</a></td>
-            </tr>
-<?loop?>
-          </table>
+		  <p>The topics discussed on this site are grouped into the following sections.</p>
 
-        <p class="nextnav">
-            Next: <a href="introduction.html">0. Introduction</a>
-        </p>
+		  <ol>
+<?nextrec?>
+<?definegroup 1 "=$section$=" ?>
+<?ifendgroup 1 ?>
+<?endif?>
+<?ifnewgroup 1 ?>
+
+			<li>
+			  <p><a href="=$section&f$=.html">=$section$=</a></p>
+
+<?include "../html/=$section$=.html" ?>
+			</li>
+
+<?endif?>
+<?loop?>
+		  </ol>
+
+          <p class="nextnav">
+            Next: <a href="intro.html">Intro</a>
+          </p>
 
         </div>
 

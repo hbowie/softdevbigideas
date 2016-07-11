@@ -1,18 +1,18 @@
 Title: Plan Thoughtfully But Be Prepared for Change
 
-Planning is an essential activity for any project, because it helps developers anticipate problems and prepare ways to address them. 
+Planning is an essential activity for any project, because it helps developers anticipate problems and prepare ways to address them.
 
-However, plans should never be regarded as written in stone. They are always works in progress, and always subject to further change. 
+However, plans should never be regarded as written in stone. They are always works in progress, and always subject to further change.
 
-The [Agile Manifesto][am] expresses this idea by stating that its signatories value "responding to change over following a plan."
+The [Agile Manifesto][beck-et-al-2001] expresses this idea by stating that its signatories value "responding to change over following a plan."
 
 ----
 
 > Product development by its nature is a "reactive" process, and cannot be managed as if it is "transactional".
 >
-> -- [Michael N. Kennedy][4]
-> 
-> From the book <cite>[Product Development for the Lean Enterprise][5]</cite> (2003)
+> -- [Michael N. Kennedy][mnk]
+>
+> From the book <cite>[Product Development for the Lean Enterprise][kennedy-2003]</cite> (2003)
 
 
 ----
@@ -21,23 +21,23 @@ The [Agile Manifesto][am] expresses this idea by stating that its signatories va
 >
 > -- [Dwight D. Eisenhower][0]
 >
-> From the book <cite>[Six Crises][1]</cite> (1962)
+> From the book <cite>[Six Crises][nixon-1962]</cite> (1962)
 
 ----
 
 > Plot, plan, calculate or postulate as we may, there will always be surprises in store for us. Count on it!
 >
 > -- [Henry Miller][2]
-> 
-> From the book <cite>[Stand Still Like the Hummingbird][3]</cite>
+>
+> From the book <cite>[Stand Still Like the Hummingbird][miller-1962]</cite>
 >
 >Copyright &copy; 1962 by Henry Miller
 
-[am]: http://www.agilemanifesto.org
+[beck-et-al-2001]: bibliography.html#beck-et-al-2001
 
 [0]: http://en.wikipedia.org/wiki/Dwight_D._Eisenhower
-[1]: http://www.amazon.com/exec/obidos/ASIN/B00AHE24LM/pagantuna-20
+[nixon-1962]: bibliography.html#nixon-1962
 [2]: http://en.wikipedia.org/wiki/Henry_Miller
-[3]: http://www.amazon.com/exec/obidos/ASIN/0811203220/pagantuna-20
-[4]: http://www.targetedconvergence.com/about-tcc/our-people/michael-n-kennedy-founder-.html
-[5]: http://www.amazon.com/exec/obidos/ASIN/1892538091/pagantuna-20
+[miller-1962]: bibliography.html#miller-1962
+[kennedy-2003]: bibliography.html#kennedy-2003
+[mnk]: http://www.targetedconvergence.com/about-tcc/our-people/michael-n-kennedy-founder-.html

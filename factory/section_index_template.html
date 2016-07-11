@@ -1,0 +1,26 @@
+<?nextrec?>
+<?definegroup 1 "=$section$=" ?>
+<?ifendgroup 1 ?>
+          </table>
+<?endif?>
+<?ifnewgroup 1 ?>
+<?output "../html/=$section$= index.html"?>
+<?set count = 0 ?>
+          <table id="toc">
+            <tr>
+              <th>&nbsp;</th>
+              <th>No.   </th>
+              <th>&nbsp;</th>
+              <th>Big Idea</th>
+            </tr>
+<?endif?>
+<?set count ++ ?>
+            <tr>
+              <td>=$message$=</td>
+              <td class="right">=$count$=.    </td>
+              <td>&nbsp;     </td>
+              <td><a href="=$title&f$=.html">=$title$=</a></td>
+            </tr>
+<?loop?>
+
+

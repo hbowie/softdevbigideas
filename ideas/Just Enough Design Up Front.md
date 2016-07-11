@@ -1,0 +1,43 @@
+Title: Just Enough Design Up Front
+
+When considering the question of how much design should be completed before coding starts, there are several factors to consider.
+
+1. Design changes are generally harder and more expensive to make after software code has been written.
+
+2. Architects and designers are sometimes better qualified to perform design than other team members, and it is easier to confine design tasks to these few individuals before more developers get involved.
+
+3. The wisdom of a design can only be fully validated once it is implemented in working software.
+
+4. Work done later in the effort can draw upon the skills, experience and wisdom available from the larger team.
+
+5. The team will learn more about the problem space as the work progresses, and so deferred design decisions can take advantage of these greater learnings.
+
+6. Early design decisions often turn out to have been based on mistaken assumptions, or on evolving business conditions that then change before the software is ready for delivery and use.
+
+7. When design is done early, there is a tendency to provision for features that later turn out to be unneeded. This is one reason why agile practitioners try to follow the "[YAGNI][]" dictum: until proven otherwise, assume that "You Ain't Gonna Need It".
+
+8. Developers will be more fully engaged in the work if they are focused on the overall purpose of the effort, and are allowed sufficient autonomy to make some design decisions as they work.
+
+If we consider only the first two factors, then we will do all of our design work using models and documents before writing a single line of code. This is sometimes referred to as Big Design Up Front (BDUF).
+
+If we consider only the last six factors, then we may be tempted to only do design as we code, without any up-front design. This is often referred to as "cowboy development," since we are always shooting from the hip, without ever stopping to take careful aim at our target.
+
+When we take all of these considerations into account, though, we generally find it best to do some early design work, but allow the full design to emerge as the work progresses.
+
+This is why it is usually best to practice JEDUF: Just Enough Design Up Front.
+
+The advantages of such an approach are not confined to software development.
+
+Here is an example of how Frank Gehry and his team designed and built the Peter B. Lewis Building at Case Western Reserve University, as described in <cite>[A Perfect Mess: The Hidden Benefits of Disorder][abrahamson-freeman-2006]</cite>, by Abrahamson and Freeman:.
+
+> The school approved the design and brought in a small army of contractors to build it. The contractors duly admired, in a shocked and fretful way, the model of the God-awfully complex structure they were about to undertake, and then asked for the blueprints, to which Gehry's team replied that there weren't any.
+>
+> To capture the building's emotional content, Gehry maintains, everyone working on the building should keep creating throughout the construction process.
+>
+> Freed from the constraints of a blueprint's rigid specifications… the contractors and architects were able to collaboratively rethink the design and construction techniques in any way necessary to achieve the project's goals. That led to an eruption of innovation.
+>
+> Not only was the finished building a stunning hit, completed on time and within budget, but most of the contractors were so pleased with the invention into which they had been pushed that they ended up changing the way they do business.
+
+[yagni]: https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it
+
+[abrahamson-freeman-2006]: bibliography.html#abrahamson-freeman-2006

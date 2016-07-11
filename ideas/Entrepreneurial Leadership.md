@@ -1,6 +1,6 @@
 Title: Entrepreneurial Leadership
 
-[Peter Block][pb], in <cite>[The Empowered Manager][em]</cite>, describes two different paths of leadership. 
+[Peter Block][pb], in <cite>[The Empowered Manager][block-1987]</cite>, describes two different paths of leadership.
 
 The Bureaucratic Path is characterized by:
 
@@ -18,8 +18,9 @@ The [Wikipedia article on Entrepreneurial Leadership][el] defines the attributes
 
 > The entrepreneurial leader will work within a formalized organizational structure, but use the approaches normally expected of an entrepreneur to identify opportunities to gain advantage. They also have the ability to then manage change to deliver that advantage. Key to this is the effective management of risk rather than the minimization of risk often sought within corporate environments. The entrepreneurial leader must have the ability to learn fast and within environments of ambiguity and change, while providing clarity and coherence for those around them.
 
-Software development projects almost always require entrepreneurial leadership because, by nature, they are developing something new, involve significant degrees of risk and uncertainty, and must learn quickly within environments of ambiguity and change. 
+Software development projects almost always require entrepreneurial leadership because, by nature, they are developing something new, involve significant degrees of risk and uncertainty, and must learn quickly within environments of ambiguity and change.
 
 [el]: https://en.wikipedia.org/wiki/Entrepreneurial_leadership
+[block-1987]: bibliography.html#block-1987
 [em]: http://amzn.to/1r5BRta
 [pb]: https://en.wikipedia.org/wiki/Peter_Block
