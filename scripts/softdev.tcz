@@ -22,6 +22,37 @@ filter	clear
 filter	set		params	
 template	open	text		#PATH#../factory/idea_body_template.html
 template	generate			
+<!-- Generate the index by title body -->
+input	set		normalization	0
+input	open	xls		#PATH#../lists/ideas.xls
+sort	clear			
+sort	set		params	
+filter	clear			
+filter	set		params	
+filter	add	not equal to	Index	index
+filter	clear			
+filter	set		params	
+filter	add	not equal to	Index	index
+filter	add	not equal to	Title	Index by Title
+filter	set		params	
+sort	add	Ascending	Title	
+sort	set		params	
+template	open	text		#PATH#../factory/index_by_title_template.html
+template	generate			
+<!-- Generate the Index by Keyword body -->
+input	set		normalization	0
+input	open	xls		#PATH#../lists/ideas.xls
+sort	clear			
+sort	set		params	
+filter	clear			
+filter	set		params	
+filter	add	greater than	Keyword	
+filter	set		params	
+sort	add	Ascending	Keyword	
+sort	add	Ascending	Title	
+sort	set		params	
+template	open	text		#PATH#../factory/index_by_keyword_template.html
+template	generate			
 <!-- Generate the content for the Section Index pages -->
 input	set		normalization	0
 input	open	xls		#PATH#../lists/ideas.xls

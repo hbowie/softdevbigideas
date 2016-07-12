@@ -14,9 +14,17 @@
 
 [argyris-schon-1974]: bibliography.html#argyris-schon-1974
 
+[Artful Making: What Managers Need to Know About How Artists Work][austin-devin-2003]
+
+[austin-devin-2003]: bibliography.html#austin-devin-2003
+
 [Measuring and Managing Performance in Organizations][austin-1996]
 
 [austin-1996]: bibliography.html#austin-1996
+
+[Leading Quietly: An Unorthodox Guide to Doing the Right Thing][badaracco-2002]
+
+[badaracco-2002]: bibliography.html#badaracco-2002
 
 [Manifesto for Agile Software Development][beck-et-al-2001-p]
 
@@ -25,6 +33,10 @@
 [Manifesto for Agile Software Development][beck-et-al-2001]
 
 [beck-et-al-2001]: bibliography.html#beck-et-al-2001
+
+[The Myths of Innovation][berkun-2007]
+
+[berkun-2007]: bibliography.html#berkun-2007
 
 [The Empowered Manager: Positive Political Skills at Work][block-1987]
 
@@ -42,6 +54,18 @@
 
 [brooks-1975]: bibliography.html#brooks-1975
 
+[Wired Magazine][brooks-2010]
+
+[brooks-2010]: bibliography.html#brooks-2010
+
+[AntiPatterns and Patterns in Software Configuration Management][brown-et-al-1999]
+
+[brown-et-al-1999]: bibliography.html#brown-et-al-1999
+
+[First, Break All the Rules: What the World's Greatest Managers Do Differently][buckingham-et-al-1999]
+
+[buckingham-et-al-1999]: bibliography.html#buckingham-et-al-1999
+
 [Agile Software Development][cockburn-2002]
 
 [cockburn-2002]: bibliography.html#cockburn-2002
@@ -58,25 +82,93 @@
 
 [cockburn-2006]: bibliography.html#cockburn-2006
 
+[Software for Use: A Practical Guide to the Models and Methods of Usage-Centered Design][constantine-lockwood-1999]
+
+[constantine-lockwood-1999]: bibliography.html#constantine-lockwood-1999
+
+[201 Principles of Software Development][davis-1995]
+
+[davis-1995]: bibliography.html#davis-1995
+
+[Just Enough Requirements Management: Where Software Development Meets Marketing][davis-2005]
+
+[davis-2005]: bibliography.html#davis-2005
+
+[Peopleware: Productive Projects and Teams (Second Edition)][demarco-1999]
+
+[demarco-1999]: bibliography.html#demarco-1999
+
+[Waltzing with Bears: Managing Risk on Software Projects][demarco-lister-2003]
+
+[demarco-lister-2003]: bibliography.html#demarco-lister-2003
+
+[Adrenaline Junkies and Template Zombies: Understanding Patterns of Project Behavior][demarco-et-al-2008]
+
+[demarco-et-al-2008]: bibliography.html#demarco-et-al-2008
+
+[A Guide to the CMM: Understanding the Capability Maturity Model for Software][dymond-1995]
+
+[dymond-1995]: bibliography.html#dymond-1995
+
+[On the Method of Theoretical Physics][einstein-1933]
+
+[einstein-1933]: bibliography.html#einstein-1933
+
 [Six Crises][nixon-1962]
 
 [nixon-1962]: bibliography.html#nixon-1962
+
+[Agile Adoption Patterns: A Roadmap to Organizational Success][elssamadisy-2008]
+
+[elssamadisy-2008]: bibliography.html#elssamadisy-2008
 
 [The New York Times][nytimes-2007]
 
 [nytimes-2007]: bibliography.html#nytimes-2007
 
+[The Checklist Manifesto: How to Get Things Right][gawande-2011]
+
+[gawande-2011]: bibliography.html#gawande-2011
+
+[Facts and Fallacies of Software Engineering][glass-2003]
+
+[glass-2003]: bibliography.html#glass-2003
+
 [SEI Technical Notes][sei-2008]
 
 [sei-2008]: bibliography.html#sei-2008
+
+[The Elements of Friendly Software Design][heckel-1994]
+
+[heckel-1994]: bibliography.html#heckel-1994
+
+[Adaptive Software Development: A Collaborative Approach to Managing Complex Systems][highsmith-1999]
+
+[highsmith-1999]: bibliography.html#highsmith-1999
+
+[Agile Software Development Ecosystems][highsmith-2002]
+
+[highsmith-2002]: bibliography.html#highsmith-2002
+
+[Agile Project Management: Creating Innovative Products][highsmith-2004]
+
+[highsmith-2004]: bibliography.html#highsmith-2004
 
 [Better Software Magazine][highsmith-2007-11]
 
 [highsmith-2007-11]: bibliography.html#highsmith-2007-11
 
-[Winning with Software: An Executive Strategy][humphrey-2001]
+[A Discipline for Software Engineering][humphrey-1995]
 
-[humphrey-2001]: bibliography.html#humphrey-2001
+[humphrey-1995]: bibliography.html#humphrey-1995
+
+[Managing the Software Process][humphrey-1998]
+
+[humphrey-1998]: bibliography.html#humphrey-1998
+
+[Winning with Software: An Executive Strategy][humphrey-2002]
+
+[humphrey-2002]: bibliography.html#humphrey-2002
 
 [Steve Jobs: The Lost Interview][jobs-1995]
 

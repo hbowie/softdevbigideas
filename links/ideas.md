@@ -58,6 +58,10 @@
 
 [deliver]: deliver-early-and-often.html
 
+[Do Not Place Excessive Faith in Project and Program Management][pm]
+
+[pm]: do-not-place-excessive-faith-in-project-and-program-management.html
+
 [Documentation Is Not an End Unto Itself][docs]
 
 [docs]: documentation-is-not-an-end-unto-itself.html
@@ -77,6 +81,14 @@
 [Increase Developer Engagement][engagement]
 
 [engagement]: increase-developer-engagement.html
+
+[Index by Keyword][by-keyword]
+
+[by-keyword]: index-by-keyword.html
+
+[Index by Title][by-title]
+
+[by-title]: index-by-title.html
 
 [Integrate Early and Often][integration]
 
@@ -137,6 +149,10 @@
 [Show Rather than Tell][show]
 
 [show]: show-rather-than-tell.html
+
+[Simplify and Generalize][simplify]
+
+[simplify]: simplify-and-generalize.html
 
 [Software Developers Are Not Interchangeable][interchange]
 

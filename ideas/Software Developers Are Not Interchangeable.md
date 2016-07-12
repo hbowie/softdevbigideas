@@ -22,4 +22,47 @@ When considering these differences, it's good to be somewhat familiar with the [
 
 It's also good to consider these differences when forming a team. You generally will want a good mix of skills and experience, and you will want teammates who can work together.
 
+----
+
+<blockquote>
+<p>
+Talented people are the most important element in any software organization.</p>
+
+<footer>
+<a href="http://en.wikipedia.org/wiki/Watts_Humphrey">Watts Humphrey</a> from the book <cite><a href="bibliography.html#humphrey-1998">Managing the Software Process</a></cite> Copyright &copy; 1998 by Addison-Wesley Publishing Company, Inc.
+</footer>
+</blockquote>
+
+----
+
+<blockquote>
+<p>
+Counterintuitively, employees already performing above average have the greatest room for growth. Great managers also know that it is hard work helping a talented person hone his talents. If a manager is preoccupied by the burden of transforming strugglers into survivors by helping them squeak above average, he will have little time left over for the truly difficult work of guiding the good towards the great.</p>
+
+<footer>
+<a href="http://en.wikipedia.org/wiki/Marcus_Buckingham">Marcus Buckingham</a> and <a href="http://en.wikipedia.org/wiki/Curt_Coffman">Curt Coffman</a> from the book <cite><a href="bibliography.html#buckingham-et-al-1999">First, Break All the Rules: What the World&#8217;s Greatest Managers Do Differently</a></cite> Copyright &copy; 1999 by The Gallup Organization
+</footer>
+</blockquote>
+
+----
+
+<blockquote>
+<p>&ldquo;First, he writes down the question on a blackboard or a yellow pad of paper. </p>
+
+<p>
+&ldquo;Next, he thinks real hard.... </p>
+
+<p>
+&ldquo;Then, he writes down the answer.&rdquo; </p>
+
+<p>
+One Nobel Prize winner describing the process another, Richard Feynman, used to solve the most difficult scientific problems</p>
+
+<footer>
+<a href="http://en.wikipedia.org/wiki/Ken_Dymond">Ken Dymond</a> from the book <cite><a href="bibliography.html#dymond-1995">A Guide to the CMM: Understanding the Capability Maturity Model for Software</a></cite>
+</footer>
+</blockquote>
+
+
+
 [dreyfus]: https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition

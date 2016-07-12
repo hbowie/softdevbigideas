@@ -23,4 +23,15 @@ Be careful as well to make sure that the practices you choose are actually effec
 
 In general, even if developers don't all naturally follow such practices without some forethought and direction, a development team will happily accept such practices if they can see that they are resulting in better code being produced by the team. On the other hand, if a development team is dragging its feet and showing continued reluctance to follow some quality practices, this is generally an indication that the practices should be evaluated to see if they are really effective in achieving the project's desired quality goals at a reasonable cost.
 
+----
+
+<blockquote>
+<p>
+Fact 37: Rigorous inspections can remove up to 90% of errors from a software product before the first test case is run.</p>
+
+<footer>
+<a href="http://en.wikipedia.org/wiki/Robert_L._Glass">Robert L. Glass</a> from the book <cite><a href="bibliography.html#glass-2003">Facts and Fallacies of Software Engineering</a></cite> Copyright &copy; 2003 by Pearson Education, Inc
+</footer>
+</blockquote>
+
 

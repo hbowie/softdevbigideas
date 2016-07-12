@@ -1,6 +1,6 @@
 Title: Make Problems Visible
 
-Any software development project can be thought of as a series of problems to be solved. [Planning][] can help a [team][] anticipate problems, but the discovery and solving of problems is a process that continues over the life of the project.
+Any software development project can be thought of as a series of problems to be solved. [Planning][plan] can help a [team][teams] anticipate problems, but the discovery and solving of problems is a process that continues over the life of the project.
 
 As new problems are discovered, it's best to avoid the following sorts of dysfunctional behavior:
 
@@ -30,3 +30,5 @@ Note that making problems visible is a central tenet of Lean, as indicated in th
 As indicated in this quotation, people will not make problems visible if this results in them being punished for making mistakes. In order to surface problems, the organizational culture must support mutual ownership of problems, and focus on fixing the problem rather than assigning blame.
 
 [nytimes-2007]: bibliography.html#nytimes-2007
+[plan]: plan-thoughtfully-but-be-prepared-for-change.html
+[teams]: build-great-teams.html

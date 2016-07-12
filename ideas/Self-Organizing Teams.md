@@ -27,3 +27,25 @@ Progress of such a team, especially when delivering early and often, will genera
 The advantage of such a team is that, by leveraging the skills and wisdom of the team as a whole, and by leveraging peer-to-peer communication, the detailed work can be more quickly and effectively managed than could be done by the traditional hierarchical arrangement of communicating through a project manager.
 
 A self-organizing team also tends to produce higher levels of developer engagement, since it tends to maximize feelings of purpose (meeting team goals), autonomy (freedom to accept team commitments and to move work and resources around to meet those commitments), and mastery (ability to complete challenging tasks on a frequent and regular basis).
+
+----
+
+<blockquote>
+<p>
+It&#8217;s no use saying, &#8216;We are doing our best.&#8217; You have got to succeed in doing what is necessary. </p>
+
+<footer>
+<a href="http://en.wikipedia.org/wiki/Winston_Churchill">Winston Churchill</a>
+</footer>
+</blockquote>
+
+----
+
+<blockquote>
+<p>
+The vast majority of difficult, important human problems &#8212; both inside and outside organizations &#8212; are not solved by a swift, decisive stroke from someone at the top. What usually matters are careful, thoughtful, small, practical efforts by people working far from the limelight.</p>
+
+<footer>
+<a href="http://en.wikipedia.org/wiki/Joseph_L._Badaracco%2C_Jr.">Joseph L. Badaracco, Jr.</a> from the book <cite><a href="bibliography.html#badaracco-2002">Leading Quietly: An Unorthodox Guide to Doing the Right Thing</a></cite> Copyright &copy; 2002 by Joseph L. Badaracco, Jr
+</footer>
+</blockquote>

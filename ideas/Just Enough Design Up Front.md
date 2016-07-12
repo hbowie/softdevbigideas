@@ -38,6 +38,19 @@ Here is an example of how Frank Gehry and his team designed and built the Peter 
 >
 > Not only was the finished building a stunning hit, completed on time and within budget, but most of the contractors were so pleased with the invention into which they had been pushed that they ended up changing the way they do business.
 
+----
+
+<blockquote>
+<p>
+Prototypes and prototyping are not substitutes for analysis and design, not excuses for sloppy thinking.</p>
+
+<footer>
+<a href="http://en.wikipedia.org/wiki/Larry_Constantine">Larry Constantine</a> and <a href="http://en.wikipedia.org/wiki/Lucy_Lockwood">Lucy Lockwood</a> from the book <cite><a href="http://www.amazon.com/exec/obidos/ASIN/0201924781/pagantuna-20">Software for Use: A Practical Guide to the Models and Methods of Usage-Centered Design</a></cite> Copyright &copy; 1999 by the ACM Press
+</footer>
+</blockquote>
+
+
+
 [yagni]: https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it
 
 [abrahamson-freeman-2006]: bibliography.html#abrahamson-freeman-2006

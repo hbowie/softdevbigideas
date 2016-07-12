@@ -1,0 +1,10 @@
+module	action	modifier	object	value
+input	set		normalization	0
+input	open	xls		#PATH#../lists/ideas.xls
+filter	add	greater than	Keyword	
+filter	set		params	
+sort	add	Ascending	Keyword	
+sort	add	Ascending	Title	
+sort	set		params	
+template	open	text		#PATH#../factory/index_by_keyword_template.html
+template	generate			

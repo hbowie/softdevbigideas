@@ -93,7 +93,7 @@ As [Wernher Von Braun][wvb], famed rocket scientist, once said:
 
 > One test result is worth one thousand expert opinions.
 
-And, as Alan Mulally said to his team, when leading development of the Boing 777 airliner:
+And, as Alan Mulally said to his team, when leading development of the Boeing 777 airliner:
 
 > Test early and fail fast.
 
