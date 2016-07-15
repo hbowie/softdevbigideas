@@ -28,6 +28,64 @@ Note that a software development team organized in this fashion has many similar
 ----
 
 <blockquote>
+<p>
+As a manager, you are responsible for making great decisions and the best way to do that is to involve as much of the team as possible in every decision. </p>
+
+<p>
+Your team is collectively smarter than you simply because there are more of them. More importantly, by including them in the decision process and creating a team where they feel they can say no, you&#8217;re creating trust.</p>
+
+<footer>
+<a href="http://en.wikipedia.org/wiki/Michael_Lopp">Michael Lopp</a> from the book <cite><a href="bibliography.html#lopp-2007">Managing Humans: Biting and Humorous Tales of a Software Engineering Manager</a></cite> Copyright &copy; 2007 by Michael Lopp
+</footer>
+</blockquote>
+
+----
+
+<blockquote>
+<p>
+With smaller teams doing more for less, removing yourself from the code strikes me as a bad career move. Even in a monstrous company laded with policy, process, and politics, you can&#8217;t forget how to develop software. And how to develop software is changing. Now. Right under your feet, this very second. </p>
+
+<p>
+How in the world are you going to scale if you&#8217;re slowly forgetting how software is made? </p>
+
+<p>
+I&#8217;m happy you&#8217;re about to confuse your team by swimming in the developer pool. The simple fact is that well-defined roles in software development are fading. </p>
+
+<p>
+Everybody is talking to everybody else and they&#8217;re learning from each other&#8217;s mistakes ... and there&#8217;s no reason that a manager shouldn&#8217;t be participating in this massive global cross-pollination.... </p>
+
+<p>
+Besides, you want to be a part of a team of interchangeable parts. Not only does this make your team more nimble, it presents each person with the opportunity to see the product and the company from a vastly different perspective.</p>
+
+<footer>
+<a href="http://en.wikipedia.org/wiki/Michael_Lopp">Michael Lopp</a> from the book <cite><a href="bibliography.html#lopp-2007">Managing Humans: Biting and Humorous Tales of a Software Engineering Manager</a></cite> Copyright &copy; 2007 by Michael Lopp
+</footer>
+</blockquote>
+
+
+
+----
+
+<blockquote>
+<p>
+Prior to Steve Jobs&#8217; return to Apple, there was a decent centralized usability team equipped with those fancy rooms with one-way mirrors and video cameras. I&#8217;m certain these folks did significant work, but when Jobs returned, he shut it down and he cast the design teams to the wind. Each product team inherited part of the former usability team. </p>
+
+<p>
+Now, I arrived after this reorganization occurred, so I don&#8217;t know the actual reasoning, but I do know I never saw those usability labs used once and I would argue that in the past decade Apple has created some of the most usable products out there. My opinion is that the choice to spread the usability design function across the engineering team was intended to send a clear message: engineer and designer need to party more… together. </p>
+
+<p>
+I can&#8217;t imagine building a team responsible for consumer products where engineers and designers weren&#8217;t constantly meddling in each other&#8217;s business. Yes, they often argue from completely opposite sides of the brain. Yes, it is often a battle of art and science, but engineering and design want exactly the same thing. They want the intense satisfaction of knowing they successfully built something that matters.</p>
+
+<footer>
+<a href="http://en.wikipedia.org/wiki/Michael_Lopp">Michael Lopp</a> from the book <cite><a href="bibliography.html#lopp-2007">Managing Humans: Biting and Humorous Tales of a Software Engineering Manager</a></cite> Copyright &copy; 2007 by Michael Lopp
+</footer>
+</blockquote>
+
+
+
+----
+
+<blockquote>
 <p>Share early and share often.</p>
 <footer><a href="http://en.wikipedia.org/wiki/Alan_Mulally">Alan Mulally</a> from the book <cite><a href="bibliography.html#poppendieck-2006">Implementing Lean Software Development: From Concept to Cash</a></cite> (2006)</footer>
 </blockquote>

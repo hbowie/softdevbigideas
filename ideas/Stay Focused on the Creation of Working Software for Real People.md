@@ -28,6 +28,19 @@ Brooks: Great design does not come from great processes; it comes from great des
 </footer>
 </blockquote>
 
+----
+
+<blockquote>
+<p>
+He continues, &#8220;Remember, outcomes are what matter—not the process, not controls, or, for that matter, what work you complete.&#8221;</p>
+
+<footer>
+<a href="http://en.wikipedia.org/wiki/Gene_Kim">Gene Kim</a>, <a href="http://en.wikipedia.org/wiki/Kevin_Behr">Kevin Behr</a> and <a href="http://en.wikipedia.org/wiki/George_Spafford">George Spafford</a> from the book <cite><a href="bibliography.html#kim-et-al-2013">The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win</a></cite> (2013)
+</footer>
+</blockquote>
+
+
+
 
 [beck-et-al-2001]: bibliography.html#beck-et-al-2001
 [cmm]: https://en.wikipedia.org/wiki/Capability_Maturity_Model

@@ -19,3 +19,39 @@ At the governance level, this idea can be applied by using existing software rat
 At the design level, this idea can be applied by making use of existing application frameworks and component packages, rather than letting development teams "roll their own" solutions.
 
 And at the execution level, this idea can be applied by ensuring that logic needed in more than one place is coded once by one team and made available as a reusable class, module or function.
+
+----
+
+<blockquote>
+<p>
+Just as possessing a rich vocabulary of words enables you to write well, possessing a rich vocabulary of design patterns enables you to design well.</p>
+
+<footer>
+<a href="http://en.wikipedia.org/wiki/Benjamin_L._Kovitz">Benjamin L. Kovitz</a> from the book <cite><a href="bibliography.html#kovitz-1999">Practical Software Requirements: A Manual of Content and Style</a></cite> Copyright &copy; 1999 by Manning Publications Co.
+</footer>
+</blockquote>
+
+----
+
+<blockquote>
+<p>
+The following is an exhaustive list of<em>all</em> problem-solving techniques, arranged in order of decreasing effectiveness: </p>
+
+<ol>
+<li>Already knowing the solution; </li>
+
+<li>Already knowing the solution to a similar problem; </li>
+
+<li>All other techniques. </li>
+</ol>
+
+<p>
+The third &#8212; enormous &#8212; category lumps functional decomposition together with whacks on the side of the head, thinking outside the box, and all the others because, compared to the first two techniques, they are nearly worthless.</p>
+
+<footer>
+<a href="http://en.wikipedia.org/wiki/Benjamin_L._Kovitz">Benjamin L. Kovitz</a> from the book <cite><a href="bibliography.html#kovitz-1999">Practical Software Requirements: A Manual of Content and Style</a></cite> Copyright &copy; 1999 by Manning Publications Co.
+</footer>
+</blockquote>
+
+
+

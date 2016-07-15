@@ -34,4 +34,17 @@ Fact 37: Rigorous inspections can remove up to 90% of errors from a software pro
 </footer>
 </blockquote>
 
+----
+
+<blockquote>
+<p>
+&#8220;You get what you design for. Chester, your peer in Development, is spending all his cycles on features, instead of stability, security, scalability, manageability, operability, continuity, and all those other beautiful &#8216;itties.&#8221; </p>
+
+<footer>
+<a href="http://en.wikipedia.org/wiki/Gene_Kim">Gene Kim</a>, <a href="http://en.wikipedia.org/wiki/Kevin_Behr">Kevin Behr</a> and <a href="http://en.wikipedia.org/wiki/George_Spafford">George Spafford</a> from the book <cite><a href="bibliography.html#kim-et-al-2013">The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win</a></cite> (2013)
+</footer>
+</blockquote>
+
+
+
 

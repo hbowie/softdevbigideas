@@ -26,3 +26,16 @@ It's useful to consider the total cycle time required for your team to deliver a
 
 [loops]: shorten-feedback-loops.html
 [beck-et-al-2001-p]: bibliography.html#beck-et-al-2001-p
+
+----
+
+<blockquote>
+<p>
+Your goals [when designing a system] shouldn&#8217;t be to achieve perfection. They should be to create as small a system as you can that works usefully and is built to be extensible.</p>
+
+<footer>
+<a href="http://en.wikipedia.org/wiki/Bob_Lewis">Bob Lewis</a> from the book <cite><a href="bibliography.html#lewis-1999">IS Survival Guide</a></cite> Copyright &copy; 1999 by Sams Publishing
+</footer>
+</blockquote>
+
+

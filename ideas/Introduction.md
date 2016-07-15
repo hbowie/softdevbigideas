@@ -14,6 +14,19 @@ I look forward to your feedback.
 
 ----
 
+<blockquote>
+<p>
+With the exception of a few hysterical CASE vendors and religious zealots, most software professionals would agree that there is no single silver bullet that will exorcise our software demons.</p>
+
+<footer>
+<a href="http://en.wikipedia.org/wiki/Edward_Yourdon">Edward Yourdon</a> from the book <cite><a href="bibliography.html#yourdon-1992">Decline and Fall of the American Programmer</a></cite> Copyright &copy; 1992 by PTR Prentice-Hall, Inc.
+</footer>
+</blockquote>
+
+
+
+----
+
 > Great minds discuss ideas, average ones discuss events, and small minds discuss people.
 >
 > -- [Eleanor Roosevelt][0]
@@ -21,6 +34,39 @@ I look forward to your feedback.
 [0]: http://en.wikipedia.org/wiki/Eleanor_Roosevelt
 
 ----
+
+<blockquote>
+<p>
+Those of us who have been true readers all our life seldom fully realize the enormous extension of our being which we owe to authors. We realize it best when we talk with an unliterary friend. He may be full of goodness and good sense but he inhabits a tiny world. In it, we should be suffocated. The man who is contented to be only himself, and therefore less a self, is in prison. My own eyes are not enough for me, I will see through those of others.</p>
+
+<footer>
+<a href="http://en.wikipedia.org/wiki/C._S._Lewis">C. S. Lewis</a> from the book <cite><a href="bibliography.html#lewis-1961">An Experiment in Criticism</a></cite> (1961)
+</footer>
+</blockquote>
+
+----
+
+<blockquote>
+<p>
+To anyone who finds that linguistic study is a worthless finicking with trifles, I would reply that life consists of little things; the important matter is to see them largely. </p>
+
+<footer>
+<a href="http://en.wikipedia.org/wiki/Otto_Jespersen">Otto Jespersen</a> from the speech <cite>Retirement address</cite> (1925)
+</footer>
+</blockquote>
+
+----
+
+<blockquote>
+<p>
+Progress, far from consisting in change, depends on retentiveness. When change is absolute there remains no being to improve and no direction is set for possible improvement: and when experience is not retained, as among savages, infancy is perpetual. Those who cannot remember the past are condemned to repeat it.</p>
+
+<footer>
+<a href="http://en.wikipedia.org/wiki/George_Santayana">George Santayana</a> from the book <cite><a href="bibliography.html#santayana-1906">The Life of Reason: Reason in Common Sense</a></cite> (1906)
+</footer>
+</blockquote>
+
+
 
 ## Notes
 

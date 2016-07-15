@@ -42,12 +42,35 @@ Here is an example of how Frank Gehry and his team designed and built the Peter 
 
 <blockquote>
 <p>
+We need to adopt the attitude that the internal structure of a system will require continuous improvement as the system evolves. Refactoring &#8212; improving the design as the system develops &#8212; is not just for commercial software. Without continuous improvement, any software system will suffer. Internal structures will become calcified and fragile. In a surprisingly short time, the system will cease to be useful.</p>
+
+<footer>
+<a href="http://en.wikipedia.org/wiki/Mary_Poppendieck">Mary Poppendieck</a> and <a href="http://en.wikipedia.org/wiki/Tom_Poppendieck">Tom Poppendieck</a> from the book <cite><a href="bibliography.html#poppendieck-2003">Lean Software Development: An Agile Toolkit</a></cite>
+</footer>
+</blockquote>
+
+----
+
+<blockquote>
+<p>
 Prototypes and prototyping are not substitutes for analysis and design, not excuses for sloppy thinking.</p>
 
 <footer>
 <a href="http://en.wikipedia.org/wiki/Larry_Constantine">Larry Constantine</a> and <a href="http://en.wikipedia.org/wiki/Lucy_Lockwood">Lucy Lockwood</a> from the book <cite><a href="http://www.amazon.com/exec/obidos/ASIN/0201924781/pagantuna-20">Software for Use: A Practical Guide to the Models and Methods of Usage-Centered Design</a></cite> Copyright &copy; 1999 by the ACM Press
 </footer>
 </blockquote>
+
+----
+
+<blockquote>
+<p>
+The final goal of any engineering activity is some type of documentation. When a design effort is complete, the design documentation is turned over to the manufacturing team. This is a completely different group with completely different skills from the design team. If the design documents truly represent a complete design, the manufacturing team can proceed to build the product. In fact, they can proceed to build lots of the product, all without any further intervention of the designers. After reviewing the software development life cycle as I understood it, I concluded that the only software documentation that actually seems to satisfy the criteria of an engineering design is the source code listings.</p>
+
+<footer>
+<a href="http://en.wikipedia.org/wiki/Jack_W._Reeves">Jack W. Reeves</a> from the essay <cite><a href="bibliography.html#reeves-1992">Code as Design</a></cite>, &#8221;What is Software Design?&#8221; Copyright &copy; Fall 1992 by Jack W. Reeves
+</footer>
+</blockquote>
+
 
 
 

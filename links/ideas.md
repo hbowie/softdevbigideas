@@ -10,6 +10,10 @@
 
 [economic]: a-long-term-economic-perspective-is-essential.html
 
+[About the Author][author]
+
+[author]: about-the-author.html
+
 [Agree on a Concise, Coherent, Meaningful Product Vision][vision]
 
 [vision]: agree-on-a-concise-coherent-meaningful-product-vision.html
@@ -101,6 +105,10 @@
 [Just Enough Design Up Front][jeduf]
 
 [jeduf]: just-enough-design-up-front.html
+
+[Let the Buyer Beware][buyer]
+
+[buyer]: let-the-buyer-beware.html
 
 [Limit Work in Progress][wip]
 

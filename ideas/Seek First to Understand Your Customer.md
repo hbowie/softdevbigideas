@@ -16,6 +16,17 @@ As [Henry Ford][hf] once said, "If I had asked people what they wanted, they wou
 
 <blockquote>
 <p>
+The requirements analyst has to inject something new into the process: his vision of what the product might be. In other words, the requirements are not simply the passive interpretation of an existing piece of work, but contain inventions that will make the work easier, better, more interesting and more pleasant.</p>
+
+<footer>
+<a href="http://en.wikipedia.org/wiki/Suzanne_Robertson">Suzanne Robertson</a> and <a href="http://en.wikipedia.org/wiki/James_Robertson">James Robertson</a> from the book <cite><a href="bibliography.html#robertson-1999">Mastering the Requirements Process</a></cite> Copyright &copy; 1999 by ACM Press
+</footer>
+</blockquote>
+
+----
+
+<blockquote>
+<p>
 Requirements are hard to understand and harder to specify. The wrong solution to this problem is to do a slipshod job of requirements specification, and rush ahead to design and code.... The right solution is to do whatever it takes to learn as many of the requirements as possible <em>now</em>. Do prototyping. Talk with more customers. Work for a month with a customer to get to know his or her job firsthand. Collect data. Do whatever it takes.</p>
 
 <footer>

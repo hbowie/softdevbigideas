@@ -17,3 +17,14 @@ These shorter timescales allow for frequent, iterative learning about customer r
 
 [beck-et-al-2001-p]: bibliography.html#beck-et-al-2001-p
 [pdca]: https://en.wikipedia.org/wiki/PDCA
+
+<blockquote>
+<p>
+The most powerful learning comes from direct experience. But what happens when we can no longer observe the consequences of our actions? Herein lies the core <em>learning dilemma</em> that confronts organizations:<em> we learn best from experience but we never directly experience the consequences of many of our most important decisions.</em> The most critical decisions made in organizations have systemwide consequences that stretch over years or decades.</p>
+
+<footer>
+<a href="http://en.wikipedia.org/wiki/Peter_Senge">Peter Senge</a> from the book <cite><a href="bibliography.html#senge-1990">The Fifth Discipline: The Art and Practice of the Learning Organization</a></cite> Copyright &copy; 1990 by Peter M. Senge.
+</footer>
+</blockquote>
+
+

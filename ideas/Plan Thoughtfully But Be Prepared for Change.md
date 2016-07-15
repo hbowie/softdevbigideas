@@ -8,12 +8,14 @@ The [Agile Manifesto][beck-et-al-2001] expresses this idea by stating that its s
 
 ----
 
-> Product development by its nature is a "reactive" process, and cannot be managed as if it is "transactional".
->
-> -- [Michael N. Kennedy][mnk]
->
-> From the book <cite>[Product Development for the Lean Enterprise][kennedy-2003]</cite> (2003)
+<blockquote>
+<p>
+Product development by its nature is a &#8220;reactive&#8221; process, and cannot be managed as if it is &#8220;transactional&#8221;.</p>
 
+<footer>
+<a href="http://en.wikipedia.org/wiki/Michael_N._Kennedy">Michael N. Kennedy</a> from the book <cite><a href="bibliography.html#kennedy-2003">Product Development for the Lean Enterprise</a></cite> (2003)
+</footer>
+</blockquote>
 
 ----
 
@@ -25,13 +27,16 @@ The [Agile Manifesto][beck-et-al-2001] expresses this idea by stating that its s
 
 ----
 
-> Plot, plan, calculate or postulate as we may, there will always be surprises in store for us. Count on it!
->
-> -- [Henry Miller][2]
->
-> From the book <cite>[Stand Still Like the Hummingbird][miller-1962]</cite>
->
->Copyright &copy; 1962 by Henry Miller
+<blockquote>
+<p>
+Plot, plan, calculate or postulate as we may, there will always be surprises in store for us. Count on it!</p>
+
+<footer>
+<a href="http://en.wikipedia.org/wiki/Henry_Miller">Henry Miller</a> from the book <cite><a href="bibliography.html#miller-1962">Stand Still Like the Hummingbird</a></cite> Copyright &copy; 1962 by Henry Miller
+</footer>
+</blockquote>
+
+
 
 [beck-et-al-2001]: bibliography.html#beck-et-al-2001
 

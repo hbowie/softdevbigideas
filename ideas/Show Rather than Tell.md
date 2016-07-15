@@ -14,5 +14,18 @@ Incremental development means that the completed product is delivered in smaller
 
 Iterative development, on the other hand, means that a partially completed feature is shown to the customer, with the intent of eliciting further feedback before finalizing the feature. As Cockburn points out, this is a means of planning some amount of time for some degree of rework.
 
+----
+
+<blockquote>
+<p>
+It&#8217;s really hard to design products by focus groups. A lot of times, people don&#8217;t know what they want until you show it to them.</p>
+
+<footer>
+<a href="http://en.wikipedia.org/wiki/Steve_Jobs">Steve Jobs</a> from the article <cite><a href="bibliography.html#jobs-1998">Business Week</a></cite> (May 25, 1998)
+</footer>
+</blockquote>
+
+
+
 [cockburn-2007]: bibliography.html#cockburn-2007
 [decomposition]: decomposition.html

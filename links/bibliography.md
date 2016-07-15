@@ -170,6 +170,14 @@
 
 [humphrey-2002]: bibliography.html#humphrey-2002
 
+[Bit Literacy: Productivity in the Age of Information and E-mail Overload][hurst-2007]
+
+[hurst-2007]: bibliography.html#hurst-2007
+
+[The Simplicity Shift: Innovative Design Tactics in a Corporate World][jenson-2002]
+
+[jenson-2002]: bibliography.html#jenson-2002
+
 [Steve Jobs: The Lost Interview][jobs-1995]
 
 [jobs-1995]: bibliography.html#jobs-1995
@@ -178,17 +186,69 @@
 
 [jobs-2000]: bibliography.html#jobs-2000
 
+[Insanely Great: The Life and Times of Macintosh, the Computer that Changed Everything][jobs-2000-insanely]
+
+[jobs-2000-insanely]: bibliography.html#jobs-2000-insanely
+
+[Macworld Keynote][jobs-2007]
+
+[jobs-2007]: bibliography.html#jobs-2007
+
+[Harvard Business Review][jobs-2011]
+
+[jobs-2011]: bibliography.html#jobs-2011
+
+[D8 Conference][jobs-2010]
+
+[jobs-2010]: bibliography.html#jobs-2010
+
+[Business Week][jobs-1998]
+
+[jobs-1998]: bibliography.html#jobs-1998
+
+[Brent Schlender's Conversations with Steve Jobs][jobs-2004]
+
+[jobs-2004]: bibliography.html#jobs-2004
+
 [Product Development for the Lean Enterprise][kennedy-2003]
 
 [kennedy-2003]: bibliography.html#kennedy-2003
+
+[The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win][kim-et-al-2013]
+
+[kim-et-al-2013]: bibliography.html#kim-et-al-2013
+
+[Practical Software Requirements: A Manual of Content and Style][kovitz-1999]
+
+[kovitz-1999]: bibliography.html#kovitz-1999
+
+[Don't Make Me Think: A Common Sense Approach to Web Usability, 2nd Edition][krug-2005]
+
+[krug-2005]: bibliography.html#krug-2005
 
 [Scaling Software Agility: Best Practices for Large Enterprises][leffingwell-2007]
 
 [leffingwell-2007]: bibliography.html#leffingwell-2007
 
+[Bob Lewis's IS Survival Guide][lewis-1999]
+
+[lewis-1999]: bibliography.html#lewis-1999
+
+[An Experiment in Criticism][lewis-1961]
+
+[lewis-1961]: bibliography.html#lewis-1961
+
 [The Toyota Way: 14 Management Principles from the World's Greatest Manufacturer][liker-2003]
 
 [liker-2003]: bibliography.html#liker-2003
+
+[Go To][lohr-2002]
+
+[lohr-2002]: bibliography.html#lohr-2002
+
+[Managing Humans: Biting and Humorous Tales of a Software Engineering Manager][lopp-2007]
+
+[lopp-2007]: bibliography.html#lopp-2007
 
 [Opposable Mind: Winning Through Integrative Thinking][martin-2009]
 
@@ -214,10 +274,46 @@
 
 [poppendieck-2006]: bibliography.html#poppendieck-2006
 
+[Code as Design][reeves-1992]
+
+[reeves-1992]: bibliography.html#reeves-1992
+
+[The Principles of Product Development Flow: Second Generation Lean Product Development][reinertsen-2012]
+
+[reinertsen-2012]: bibliography.html#reinertsen-2012
+
+[Mastering the Requirements Process][robertson-1999]
+
+[robertson-1999]: bibliography.html#robertson-1999
+
+[The Life of Reason: Reason in Common Sense][santayana-1906]
+
+[santayana-1906]: bibliography.html#santayana-1906
+
 [The Team][schembechler-1983]
 
 [schembechler-1983]: bibliography.html#schembechler-1983
 
+[The Fifth Discipline: The Art and Practice of the Learning Organization][senge-1990]
+
+[senge-1990]: bibliography.html#senge-1990
+
 [infed.org][smith-2013]
 
 [smith-2013]: bibliography.html#smith-2013
+
+[Joel on Software][spolsky-2004]
+
+[spolsky-2004]: bibliography.html#spolsky-2004
+
+[The Psychology of Computer Programming][weinberg-1971]
+
+[weinberg-1971]: bibliography.html#weinberg-1971
+
+[Techniques of Program Structure and Design][yourdon-1976]
+
+[yourdon-1976]: bibliography.html#yourdon-1976
+
+[Decline and Fall of the American Programmer][yourdon-1992]
+
+[yourdon-1992]: bibliography.html#yourdon-1992

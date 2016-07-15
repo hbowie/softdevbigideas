@@ -2,6 +2,46 @@ Title: Agree on a Concise, Coherent, Meaningful Product Vision
 
 It's best for all major stakeholders to reach agreement on some sort of vision for the product you will be creating for them.
 
+Although your product vision should be concise, it should be specific and meaningful. Avoid the sort of trap Bob Lewis warns you about when it comes to Mission Statements:
+
+<blockquote>
+<p>
+Good missions, and Mission Statements, exclude alternatives. Useless ones try to express everything you might ever want to do. </p>
+
+<p>
+We develop or install high-quality software , has no place in a Mission Statement, for example, because what other choice might you have expressed? The alternatives: </p>
+
+<ul>
+<li>We develop or install mediocre software.</li>
+
+<li>We develop or install awful software.</li>
+
+<li>We refuse to develop or install any kind of software.</li>
+
+<li>We&#8217;d really like to develop and install software, only we&#8217;ve forgotten how.</li>
+</ul>
+
+<p>
+All are non-starters. Because the only statement you can make about software is that it will be high quality, don&#8217;t waste the paper and toner. </p>
+
+<footer>
+<a href="http://en.wikipedia.org/wiki/Bob_Lewis">Bob Lewis</a> from the book <cite><a href="bibliography.html#lewis-1999">IS Survival Guide</a></cite>Copyright &copy; 1999 by Sams Publishing
+</footer>
+</blockquote>
+
+
+
+----
+
+<blockquote>
+<p>
+In most people&#8217;s vocabularies, design means veneer. It&#8217;s interior decorating. It&#8217;s the fabric of the curtains and the sofa. But to me, nothing could be further from the meaning of design. Design is the fundamental soul of a man-made creation that ends up expressing itself in successive outer layers of the product or service.</p>
+
+<footer>
+<a href="http://en.wikipedia.org/wiki/Steve_Jobs">Steve Jobs</a> from the interview <cite><a href="bibliography.html#jobs-2000">Fortune Magazine</a></cite>, &#8221;Apple&#8217;s One-Dollar-a-Year Man&#8221; (Jan 24, 2000)
+</footer>
+</blockquote>
+
 ----
 
 <blockquote>
