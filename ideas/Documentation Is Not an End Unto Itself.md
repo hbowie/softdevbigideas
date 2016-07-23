@@ -17,6 +17,10 @@ The following forms of waste are all frequently associated with software documen
 
 Concise, well-written documentation can be useful, but one must remember that it is only a means to an end, and one must avoid the various common forms of waste listed above.
 
+Watch out for those who tend to polarize this discussion into document everything vs. document nothing, since both of those extremes are generally disastrous. Also watch out for ceremonial approvals of documents. When 10 people have to approve everything that's been written down, that's a sure sign that no one understands any of it and no one trusts anyone else.
+
+Consider alternatives to the traditional Victorian Novel style of project documents as well. Modeling tools, databases, spreadsheets, diagrams, [wikis][wiki], and systematically formatted comments (such as those produced by [Javadoc][] all often offer better forms of documentation.
+
 ----
 
 <blockquote>
@@ -48,14 +52,6 @@ In a paper mill, every activity is marked by the production of a document, and p
 </footer>
 </blockquote>
 
-----
 
-<blockquote>
-<p>
-The bulleted list of requirements is by far the most cost-effective and beneficial approach. It is simple to create; it is simple to read, regardless of background; and, when stored in a spreadsheet, database, or requirements management tool and augmented with annotations, it has incredible benefits to project management.</p>
-
-<footer>
-<a href="http://en.wikipedia.org/wiki/Alan_M._Davis">Alan M. Davis</a> from the book <cite><a href="bibliography.html#davis-2005">Just Enough Requirements Management: Where Software Development Meets Marketing</a></cite> Copyright &copy; 2005 by Alan M. Davis
-</footer>
-</blockquote>
-
+[javadoc]: https://en.wikipedia.org/wiki/Javadoc
+[wiki]: https://en.wikipedia.org/wiki/Wiki

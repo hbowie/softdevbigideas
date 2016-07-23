@@ -4,16 +4,28 @@ Most software developers enjoy programming. And most software developers enjoy p
 
 The problem here is that some attributes of high-quality software are not immediately visible to customers. And so, left to their own devices, many developers will tend to give short shrift to these quality factors.
 
-This generally means that a project must exert some extra effort to ensure adequate levels of quality.
+Many of these quality attributes are often collectively referred to as the "-ilities". Following is a list of some of these attributes:
+
+* Maintainability
+* Recoverability
+* Scalability
+* Security
+* Survivability
+* Usability
+* Graceful Failures
+
+Since developers often have little natural motivation to focus on these attributes, a project must generally exert some extra effort to ensure adequate levels of quality.
 
 Such extra effort could include any or all of the following:
 
+* definition and implementation of [non-functional requirements][nfr] (NFRs)
 * peer reviews
 * pair programming
 * coding standards
-* non-functional requirements (NFRs)
+* architecture reviews
 * code analysis tools
 * automated tests
+* performance and scalability testing
 * dedicated testers
 * defect metrics
 
@@ -21,7 +33,7 @@ Establishing the right sort of quality program for a project is a matter of judg
 
 Be careful as well to make sure that the practices you choose are actually effective. None of these practices should simply be implemented on faith, or because someone outside of the project says you should do them.
 
-In general, even if developers don't all naturally follow such practices without some forethought and direction, a development team will happily accept such practices if they can see that they are resulting in better code being produced by the team. On the other hand, if a development team is dragging its feet and showing continued reluctance to follow some quality practices, this is generally an indication that the practices should be evaluated to see if they are really effective in achieving the project's desired quality goals at a reasonable cost.
+You will probably need to assign someone the responsibility of [ensuring that these quality practices are not neglected][wrong].
 
 ----
 
@@ -45,6 +57,8 @@ Fact 37: Rigorous inspections can remove up to 90% of errors from a software pro
 </footer>
 </blockquote>
 
+[nfr]: https://en.wikipedia.org/wiki/Non-functional_requirement
+[wrong]: consider-what-might-go-wrong.html
 
 
 

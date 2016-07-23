@@ -59,7 +59,7 @@ Furthermore, it is impossible for a consultant to walk into your office, examine
 
 
 
-]hf]: http://en.wikipedia.org/wiki/Henry_Ford
+[hf]: http://en.wikipedia.org/wiki/Henry_Ford
 [jm]: http://en.wikipedia.org/wiki/James_M._Morgan
 [jl]: http://en.wikipedia.org/wiki/Jeffrey_K._Liker
 [morgan-liker-2006]: bibliography.html#morgan-liker-2006

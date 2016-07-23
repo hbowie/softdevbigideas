@@ -6,29 +6,29 @@ When considering the question of how much design should be completed before codi
 
 2. Architects and designers are sometimes better qualified to perform design than other team members, and it is easier to confine design tasks to these few individuals before more developers get involved.
 
-3. The wisdom of a design can only be fully validated once it is implemented in working software.
+3. Some overarching design decisions need to be made in order to enable more detailed work to proceed.
 
-4. Work done later in the effort can draw upon the skills, experience and wisdom available from the larger team.
+4. The wisdom of a design can only be fully validated once it is implemented in working software.
 
-5. The team will learn more about the problem space as the work progresses, and so deferred design decisions can take advantage of these greater learnings.
+5. Work done later in the effort can draw upon the skills, experience and wisdom available from the larger [team][teams].
 
-6. Early design decisions often turn out to have been based on mistaken assumptions, or on evolving business conditions that then change before the software is ready for delivery and use.
+6. The team will learn more about the problem space as the work progresses, and so deferred design decisions can take advantage of these greater learnings.
 
-7. When design is done early, there is a tendency to provision for features that later turn out to be unneeded. This is one reason why agile practitioners try to follow the "[YAGNI][]" dictum: until proven otherwise, assume that "You Ain't Gonna Need It".
+7. Early design decisions often turn out to have been based on mistaken assumptions, or on evolving business conditions that then change before the software is ready for delivery and use.
 
-8. Developers will be more fully engaged in the work if they are focused on the overall purpose of the effort, and are allowed sufficient autonomy to make some design decisions as they work.
+8. When design is done early, there is a tendency to provision for features that later turn out to be unneeded. This is one reason why agile practitioners try to follow the "[YAGNI][]" dictum: until proven otherwise, assume that "You Ain't Gonna Need It".
 
-If we consider only the first two factors, then we will do all of our design work using models and documents before writing a single line of code. This is sometimes referred to as Big Design Up Front (BDUF).
+9. Developers will be more fully [engaged][engagement] in the work if they are focused on the overall purpose of the effort, and are allowed sufficient autonomy to make some design decisions as they work.
 
-If we consider only the last six factors, then we may be tempted to only do design as we code, without any up-front design. This is often referred to as "cowboy development," since we are always shooting from the hip, without ever stopping to take careful aim at our target.
+If we consider only the first three factors, then we will do all of our design work using models and documents before writing a single line of code. This is sometimes referred to as Big Design Up Front (BDUF).
+
+If we consider only the last six factors, then we may be tempted to rely entirely upon emergent design, without any up-front architecture. This is often referred to as "cowboy development," since we are always shooting from the hip, without ever stopping to take careful aim at our target.
 
 When we take all of these considerations into account, though, we generally find it best to do some early design work, but allow the full design to emerge as the work progresses.
 
 This is why it is usually best to practice JEDUF: Just Enough Design Up Front.
 
-The advantages of such an approach are not confined to software development.
-
-Here is an example of how Frank Gehry and his team designed and built the Peter B. Lewis Building at Case Western Reserve University, as described in <cite>[A Perfect Mess: The Hidden Benefits of Disorder][abrahamson-freeman-2006]</cite>, by Abrahamson and Freeman:.
+The advantages of such an approach are not confined to software development. Here is an example of how Frank Gehry and his team designed and built the Peter B. Lewis Building at Case Western Reserve University, as described in <cite>[A Perfect Mess: The Hidden Benefits of Disorder][abrahamson-freeman-2006]</cite>, by Abrahamson and Freeman:.
 
 > The school approved the design and brought in a small army of contractors to build it. The contractors duly admired, in a shocked and fretful way, the model of the God-awfully complex structure they were about to undertake, and then asked for the blueprints, to which Gehry's team replied that there weren't any.
 >
@@ -37,6 +37,22 @@ Here is an example of how Frank Gehry and his team designed and built the Peter 
 > Freed from the constraints of a blueprint's rigid specifications… the contractors and architects were able to collaboratively rethink the design and construction techniques in any way necessary to achieve the project's goals. That led to an eruption of innovation.
 >
 > Not only was the finished building a stunning hit, completed on time and within budget, but most of the contractors were so pleased with the invention into which they had been pushed that they ended up changing the way they do business.
+
+Early stages of design are often referred to as architecture.  When we discuss the architecture of a system, there are at least five different (albeit related) areas that must be considered.
+
+* Information: What are the major entities/objects/facets to be considered by the system, and how will each of these things be identified?
+
+* Functional: What business functions will be performed, and how do they relate to each other, and to other functions that are out of scope?
+
+* User Interface: How will the user navigate through the system, what will the system look like, and what sort of special controls or other UI elements may be needed?
+
+* Technology/Infrastructure: What are the technologies to be used by the project, and what roles will those technologies play? On what infrastructure (both hardware and software) will the application run? What development tools will be used?
+
+* Software: What software modules, or types of modules, will be written, and how will they relate to each other?
+
+Note that, even with some upfront architecture, development teams may still need to schedule some periods of concentrated architectural work later in the project. This is sometimes referred to as extending the architectural runway, with the idea that the architecture is necessary to support the user functionality, and so as the functional development proceeds, it gets closer to the end of the existing runway, necessitating the dedication of resources to further building out the architecture in order to allow the continued functional work to proceed smoothly.
+
+For additional details on this topic, see "[Agile Architecture][aa]" on the [PaganTuna][pt] site.
 
 ----
 
@@ -71,8 +87,13 @@ The final goal of any engineering activity is some type of documentation. When a
 </footer>
 </blockquote>
 
+[aa]: http://www.pagantuna.com/posts/agile-architecture.html
 
+[pt]: http://www.pagantuna.com/
 
+[engagement]: increase-developer-engagement.html
+
+[teams]: build-great-teams.html
 
 [yagni]: https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it
 

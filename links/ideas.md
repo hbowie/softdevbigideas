@@ -6,17 +6,13 @@
 
 [decisions]: a-deliberate-approach-to-decision-making.html
 
-[A Long-Term Economic Perspective is Essential][economic]
-
-[economic]: a-long-term-economic-perspective-is-essential.html
-
 [About the Author][author]
 
 [author]: about-the-author.html
 
-[Agree on a Concise, Coherent, Meaningful Product Vision][vision]
+[Agree on Terms of Engagement][terms-of-engagement]
 
-[vision]: agree-on-a-concise-coherent-meaningful-product-vision.html
+[terms-of-engagement]: agree-on-terms-of-engagement.html
 
 [Always Remember that Software Development is an Adventure][adventure]
 
@@ -50,9 +46,21 @@
 
 [alternatives]: consider-alternatives.html
 
+[Consider What Might Go Wrong][wrong]
+
+[wrong]: consider-what-might-go-wrong.html
+
 [Copyrights][copyrights]
 
 [copyrights]: copyrights.html
+
+[Craft a Product Vision][vision]
+
+[vision]: craft-a-product-vision.html
+
+[Create Value for Customers][value]
+
+[value]: create-value-for-customers.html
 
 [Decomposition][decomposition]
 
@@ -89,6 +97,10 @@
 [Index by Keyword][by-keyword]
 
 [by-keyword]: index-by-keyword.html
+
+[Index by Term][by-term]
+
+[by-term]: index-by-term.html
 
 [Index by Title][by-title]
 
@@ -133,10 +145,6 @@
 [Quality Requires Extra Effort][quality]
 
 [quality]: quality-requires-extra-effort.html
-
-[Reach Explicit Agreement with Customers on Terms of Engagement][terms-of-engagement]
-
-[terms-of-engagement]: reach-explicit-agreement-with-customers-on-terms-of-engagement.html
 
 [Remain Open to Fresh Learning][learning]
 
@@ -194,13 +202,9 @@
 
 [tailor]: tailor-thoughtfully.html
 
-[Term Index][terms-of-engagement]
+[Take a Long-Term Economic Perspective][economic]
 
-[terms-of-engagement]: term-index.html
-
-[The Value of Software is Determined by its Customers][value]
-
-[value]: the-value-of-software-is-determined-by-its-customers.html
+[economic]: take-a-long-term-economic-perspective.html
 
 [Use Things Already Known to Work][reuse]
 

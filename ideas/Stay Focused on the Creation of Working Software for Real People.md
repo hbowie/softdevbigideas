@@ -14,6 +14,8 @@ It would be wise to pay heed to the advice on this subject from <cite>[Steve Job
 
 > People get confused... companies get confused. When they start getting bigger they want to replicate their initial success. And a lot of them think, well somehow there's some magic in the process of how that success was created. So they start to try to institutionalize process across the company. And before very long, people get very confused that the process is the content. That's ultimately the downfall of IBM. IBM has the best process people in the world. They just forgot about the content. And that's a little what happened at Apple too [which led to the Apple Lisa, a market failure in the 1980s]. We had a lot of people who were great at management process, they just didn't have a clue as to the content. In my career, I've found that the best people are the ones that really understand the content -- and they are a pain in the butt to manage, but you put up with it because they are so great at the content. That's what makes good products: it's not process, it's content.
 
+It's ok to learn from the various software development gurus and movements you will find around you, but it's best not to declare absolute allegiance to any of them. Remember that many consultants, speakers and authors are primarily interested in creating reliable revenue streams, and that their interests will not always coincide with yours. Also, I've worked with teams devoted to the [CMMI][] as well as teams devoted to [Agile][] and, in both cases, I've found mindless conformance to a set of precepts to be more harmful than any of the practices either of these movements was intended to correct.
+
 ----
 
 <blockquote>
@@ -41,8 +43,10 @@ He continues, &#8220;Remember, outcomes are what matter—not the process, not c
 
 
 
-
+[agile]: https://en.wikipedia.org/wiki/Agile_software_development
 [beck-et-al-2001]: bibliography.html#beck-et-al-2001
 [cmm]: https://en.wikipedia.org/wiki/Capability_Maturity_Model
+[cmmi]: https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration
 [jobs-1995]: bibliography.html#jobs-1995
+
 

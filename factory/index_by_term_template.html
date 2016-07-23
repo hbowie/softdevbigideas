@@ -1,0 +1,25 @@
+<?output "../html/Index by Term.html"?>
+<dl>
+<?nextrec?>
+<?definegroup 1 =$term$= ?>
+<?ifendgroup 1 ?>
+<?endif?>
+<?ifnewgroup 1 ?>
+	<dt>
+<?if "=$link$=" ?>
+		<a href="=$link$=" target="ref">
+<?endif?>
+			=$term$=
+<?if "=$link$=" ?>
+		</a>
+<?endif?>
+	</dt>
+<?endif?>
+		<dd>
+			<a href="=$pagetitle&f$=.html">
+				=$pagetitle$=
+			</a>
+		</dd>
+<?loop?>
+</dl>
+

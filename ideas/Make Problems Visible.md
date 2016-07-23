@@ -7,7 +7,7 @@ As new problems are discovered, it's best to avoid the following sorts of dysfun
 * Shoot the messengers who report them;
 * Ignore the problems in hopes they will go away;
 * Stick your head in the sand and wait until someone else notices the problems;
-* Find someone you can blame for causing the problems.
+* Find someone else you can blame for causing the problems.
 
 As new problems are discovered, instead of falling back on any of these behaviors, it is important to accept the problems as part of the work that needs to be done.
 
@@ -15,20 +15,40 @@ The longer software problems fester, the more expensive they will be to solve, s
 
 This is one reason why code reviews, automated testing, user demos and frequent releases are all good ideas: all of these practices tend to make problems visible before they become more serious, and more difficult to rectify.
 
-Another benefit of early discovery of problems is that it is generally easier for team members at this point to understand how and why the problem occurred, and to figure out how to reduce the likelihood of similar problems in the future.
+Another benefit of early discovery of problems is that it is generally easier for team members at this point to understand how and why they occurred, and to figure out how to reduce the likelihood of similar problems in the future.
 
-Note that making problems visible is a central tenet of Lean, as indicated in this New York Times article from 2007:
+Note that making problems visible is a central tenet of [Lean][], as indicated in this New York Times article from 2007:
 
-> "For Americans and anyone, it can be a shock to the system to be actually expected to make problems visible," said Ms. Newton, a 38-year-old Indiana native who joined Toyota after college 15 years ago and now works at the North American headquarters in Erlanger, Ky. "Other corporate environments tend to hide problems from bosses."
->
-> "Mutual ownership of problems," is one slogan. Other tenets include "genchi genbutsu," or solving problems at the source instead of behind desks, and the "kaizen mind," an unending sense of crisis behind the company's constant drive to improve.
->
-> …some executives like Mr. Konishi complain of managers at Toyota factories who have not adhered to some of the company's most basic creeds, like allowing workers to stop factory lines when they spot defects. Empowering factory workers has long been central to Toyota's quality control.
->
-> -- <cite>[The New York Times][nytimes-2007]</cite>, "The 'Toyota Way' Is Translated for a New Generation of Foreign Managers" (Feb 15, 2007)
+<blockquote>
+<p>
+&#8220;For Americans and anyone, it can be a shock to the system to be actually expected to make problems visible,&#8221; said Ms. Newton, a 38-year-old Indiana native who joined Toyota after college 15 years ago and now works at the North American headquarters in Erlanger, Ky. &#8220;Other corporate environments tend to hide problems from bosses.&#8221; </p>
 
-As indicated in this quotation, people will not make problems visible if this results in them being punished for making mistakes. In order to surface problems, the organizational culture must support mutual ownership of problems, and focus on fixing the problem rather than assigning blame.
+<p>
+&#8220;Mutual ownership of problems,&#8221; is one slogan. Other tenets include &#8220;genchi genbutsu,&#8221; or solving problems at the source instead of behind desks, and the &#8220;kaizen mind,&#8221; an unending sense of crisis behind the company&#8217;s constant drive to improve. </p>
 
+<p>
+…some executives like Mr. Konishi complain of managers at Toyota factories who have not adhered to some of the company&#8217;s most basic creeds, like allowing workers to stop factory lines when they spot defects. Empowering factory workers has long been central to Toyota&#8217;s quality control.</p>
+
+<footer>
+Martin Fackler from <cite><a href="bibliography.html#nytimes-2007">The New York Times</a></cite>, &#8221;The ‘Toyota Way’ Is Translated for a New Generation of Foreign Managers&#8221; (Feb 15, 2007)
+</footer>
+</blockquote>
+
+As indicated in this quotation, people will not make problems visible if this results in them being punished for making mistakes. In order to surface problems, the organizational culture must support mutual ownership of problems, and focus on fixing the problems rather than assigning blame.
+
+In some ways, this can be thought of as a reversal of the perspective adopted by most organizations.
+
+![Lean Model Diagram](images/a-new-model-for-lean-culture.jpg "Traditional vs. Lean Cultures")
+
+In traditional thinking, the emphasis is first and foremost on putting various organizational structures in place -- tools, systems, org charts, budgets, plans, performance objectives, etc. -- then on coaching people for conformance to those structures, with problems viewed primarily as issues of non-conformance to the structures: mistakes that would not have happened if people had just been following the instructions they had been given.
+
+In lean thinking, this emphasis is reversed. Solving problems is viewed as a primary function for all workers, people are coached to enhance their problem-solving skills, and fluid structures are created and modified to adapt to emergent problems and their solutions.
+
+For more on this model, see "[A New Model for Lean Culture][lc]".
+
+[lc]: http://www.pagantuna.com/posts/a-new-model-for-lean-culture.html
+
+[lean]: https://en.wikipedia.org/wiki/Lean_manufacturing
 [nytimes-2007]: bibliography.html#nytimes-2007
 [plan]: plan-thoughtfully-but-be-prepared-for-change.html
 [teams]: build-great-teams.html

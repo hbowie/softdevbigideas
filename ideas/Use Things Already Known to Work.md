@@ -12,13 +12,13 @@ This can also be thought of as reuse. But there are a number of different ways t
 
 Use of things already known to work is a great way to increase both productivity and quality.
 
-Note that this idea can be applied at any level within a project.
+Note that this idea can be applied at any phase within a project.
 
-At the governance level, this idea can be applied by using existing software rather than developing new software, including the idea of buying software rather than building new software.
+At the governance stage, this idea can be applied by using existing software rather than developing new software, including the idea of buying software rather than building new software.
 
-At the design level, this idea can be applied by making use of existing application frameworks and component packages, rather than letting development teams "roll their own" solutions.
+At the design stage, this idea can be applied by making use of existing application frameworks, component packages and [design patterns][patterns], rather than letting development teams "roll their own" solutions.
 
-And at the execution level, this idea can be applied by ensuring that logic needed in more than one place is coded once by one team and made available as a reusable class, module or function.
+And at the execution stage, this idea can be applied by ensuring that data or logic needed in more than one place is created once by one team and made available as a reusable class, module, function or configuration file to others.
 
 ----
 
@@ -35,7 +35,7 @@ Just as possessing a rich vocabulary of words enables you to write well, possess
 
 <blockquote>
 <p>
-The following is an exhaustive list of<em>all</em> problem-solving techniques, arranged in order of decreasing effectiveness: </p>
+The following is an exhaustive list of <em>all</em> problem-solving techniques, arranged in order of decreasing effectiveness: </p>
 
 <ol>
 <li>Already knowing the solution; </li>
@@ -53,5 +53,6 @@ The third &#8212; enormous &#8212; category lumps functional decomposition toget
 </footer>
 </blockquote>
 
+[patterns]: https://en.wikipedia.org/wiki/Software_design_pattern
 
 

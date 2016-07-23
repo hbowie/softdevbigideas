@@ -2,6 +2,9 @@ Title:  Glossary
 
 Body:
 
+architecture
+:	The terms architecture and design have very similar definitions, so in many contexts they are used to denote the same thing, and are used interchangeably. If we are to try to make a distinction, though, then architecture usually refers to a more elevated level of design, expressed at a higher level of abstraction, and/or an earlier stage of design.
+
 customer
 :	Someone who is paying for the software development, and/or will be a presumed beneficiary of the development, and/or has been designated to represent the interests of other presumed beneficiaries (such as a product owner or product manager). Note that the term "customer" is intended to include users of the software, but is not necessarily limited to those who directly use the software.
 

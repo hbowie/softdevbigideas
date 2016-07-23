@@ -1,0 +1,8 @@
+module	action	modifier	object	value
+input	set		normalization	0
+input	open	xls		#PATH#../lists/terms.xls
+sort	add	Ascending	Term	
+sort	add	Ascending	Page Title	
+sort	set		params	
+template	open	text		#PATH#../factory/index_by_term_template.html
+template	generate			

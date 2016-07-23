@@ -1,4 +1,4 @@
-Title: Reach Explicit Agreement with Customers on Terms of Engagement
+Title: Agree on Terms of Engagement
 
 At the inception of any project, the development team and their customers should spend some time discussing and reviewing how they will work together over the course of the effort.
 

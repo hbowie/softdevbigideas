@@ -12,18 +12,32 @@ And so it is often difficult for even the best-intentioned managers and coaches 
 
 It turns out, however, that there is a better way.
 
-1. Organize developers into teams.
+1. Organize developers into mid-sized teams, with somewhere around 8 - 12 devs per team.
 2. Decompose larger pieces of work into smaller, more manageable pieces.
-3. Deliver working software in short, regularly timed development cycles.
-4. Encourage joint ownership of software code, and joint responsibility for team results.
-5. Have the team jointly define a set of common expectations about what it means for a developer to say that their work on a task is "done."
-6. Bring the developers together briefly on a daily basis to talk about their work, their accomplishments and their challenges.
-7. Allow the team to figure out how to best manage its work in order to meet its commitments.
-8. Give the team access to a coach who can point out ways in which the team can improve its performance.
+3. Remember to apply the ideas of [Cohesion][cohesion] and [Loose Coupling][loose] when forming teams.
+4. Give each team line-of-sight access to its key customers, including clear channels of communication, rapid, unambiguous feedback, and availability.
+5. Deliver working software in short, regularly timed development cycles.
+6. Encourage joint ownership of software code, and joint responsibility for team results.
+7. Have the team jointly define a set of common expectations about what it means for a developer to say that their work on a task is "done."
+8. Give each team the resources it needs to succeed: tools, skills, training, outside consulting and the necessary hardware and software infrastructure.
+9. Bring the developers together briefly on a daily basis to talk about their work, their accomplishments and their challenges.
+10. Allow the team to figure out how to best manage its work in order to meet its commitments.
+11. Give the team access to a coach who can point out ways in which the team can improve its performance.
 
-Teams like this can be largely self-managing, and will define and implement team norms more effectively than would be possible by intervention of a manager or a standards group.
+These sorts of teams have wonderful qualities. People learn from each other. People challenge each other. Communication tends to happen quickly and effectively. The teams organize themselves in order to get their work done most effectively. Performance standards tend to be embraced and enforced by the teams themselves, in a much more effective way than would ever be possible through the intervention of management or a central process group.
 
 Note that a software development team organized in this fashion has many similarities to a [lean manufacturing cell][cell].
+
+When assembling and managing such teams, it's important to consider the role of diversity. Research has demonstrated that teams with diverse perspectives and backgrounds tend to produce better results, even if the discussions within such a team tend to be a bit messier and less straightforward.
+
+<blockquote>
+<p>
+In one of our studies, we compared homogeneous and diverse groups trying to solve a murder mystery. The diverse groups reported that they didn&#8217;t work together very effectively, and they were less confident about their decisions than the homogeneous groups, yet they consistently outperformed those homogeneous groups.</p>
+
+<footer>
+<a href="http://www8.gsb.columbia.edu/cbs-directory/detail/kp2447">Katherine Phillips</a> from the article <cite><a href="bibliography.html#phillips-2009">Forbes</a></cite>, &#8221;Diversity Helps Your Business &#8212; But Not The Way You Think&#8221; (June 2, 2009)
+</footer>
+</blockquote>
 
 ----
 
@@ -104,3 +118,6 @@ I can&#8217;t imagine building a team responsible for consumer products where en
 [humphrey-2001]: bibliography.html#humphrey-2001
 [poppendieck-2006]: bibliography.html#poppendieck-2006
 [schembechler-1983]: bibliography.html#schembechler-1983
+
+[cohesion]: cohesion.html
+[loose]: loose-coupling.html

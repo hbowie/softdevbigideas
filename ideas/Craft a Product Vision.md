@@ -1,6 +1,12 @@
-Title: Agree on a Concise, Coherent, Meaningful Product Vision
+Title: Craft a Product Vision
 
-It's best for all major stakeholders to reach agreement on some sort of vision for the product you will be creating for them.
+Make sure you have a well-defined [vision][] to start with. What are you trying to accomplish? What are the key benefits to be delivered to stakeholders? Are there certain critical dates you must hit, in order to achieve benefits realization? Your vision should be succinct enough to be read in five minutes or so, but should be concrete enough to provide real guidance to the project team about what moves you towards the vision vs. what moves you away from it, or simply leaves you treading water.
+
+Once you have a draft vision, interview key stakeholders individually and ask them what the project visions means to them. Make sure you receive consistent answers. If you don't, then you need to get the group back together to iron out inconsistencies and sharpen your vision.
+
+The product vision need not be fancy, but it should be documented. Without some sort of overall vision for the product and its evolution, the project can too easily devolve into a simple aggregation of unrelated change requests, and the product can quickly become a victim of feature bloat. A product vision provides the cohesion necessary to make both the project team and the features being implemented more than just the sums of their respective parts.
+
+As you are defining your vision, consider its implications. There will likely be elements that will need to be considered in other areas as you prepare to start your development project.
 
 Although your product vision should be concise, it should be specific and meaningful. Avoid the sort of trap Bob Lewis warns you about when it comes to Mission Statements:
 
@@ -87,7 +93,7 @@ The whole difference between construction and creation is exactly this: that a t
 </footer>
 </blockquote>
 
-
+[vision]:   http://www.scaledagileframework.com/vision/
 
 
 

@@ -126,6 +126,10 @@
 
 [nytimes-2007]: bibliography.html#nytimes-2007
 
+[Design Patterns: Elements of Reusable Object-Oriented Software][gamma-et-al-1994]
+
+[gamma-et-al-1994]: bibliography.html#gamma-et-al-1994
+
 [The Checklist Manifesto: How to Get Things Right][gawande-2011]
 
 [gawande-2011]: bibliography.html#gawande-2011
@@ -137,6 +141,14 @@
 [SEI Technical Notes][sei-2008]
 
 [sei-2008]: bibliography.html#sei-2008
+
+[Forrester Blogs][gualtieri-2009]
+
+[gualtieri-2009]: bibliography.html#gualtieri-2009
+
+[The Dain Curse][hammett-1929]
+
+[hammett-1929]: bibliography.html#hammett-1929
 
 [The Elements of Friendly Software Design][heckel-1994]
 
@@ -262,6 +274,10 @@
 
 [morgan-liker-2006]: bibliography.html#morgan-liker-2006
 
+[Forbes][phillips-2009]
+
+[phillips-2009]: bibliography.html#phillips-2009
+
 [Drive: The Surprising Truth About What Motivates Us][pink-2009]
 
 [pink-2009]: bibliography.html#pink-2009
@@ -305,6 +321,10 @@
 [Joel on Software][spolsky-2004]
 
 [spolsky-2004]: bibliography.html#spolsky-2004
+
+[Smart & Gets Things Done][spolsky-2007]
+
+[spolsky-2007]: bibliography.html#spolsky-2007
 
 [The Psychology of Computer Programming][weinberg-1971]
 

@@ -22,6 +22,10 @@ When considering these differences, it's good to be somewhat familiar with the [
 
 It's also good to consider these differences when forming a team. You generally will want a good mix of skills and experience, and you will want teammates who can work together.
 
+And, of course, you need to maintain certain minimum requirements for your organization. You need people who are [smart, who get things done][spolsky-2007], who enjoy learning, and who interact constructively with customers, management and teammates. I don't mean to imply that these sorts of people are hard to find. Most of the people I've worked with in my career fit this description on a good day, and almost everyone I've known (myself included) fails to meet one or more of these standards on a bad day. And certainly all of us have room for development in these areas, and do indeed develop in positive ways over time.
+
+On the other hand, there are situations where not everyone lives up to these standards consistently, where people are progressing slowly if at all, and where you can't afford to wait for a long-term turnaround plan. These situations are unfortunate for all involved, but ignoring them doesn't make them go away.
+
 ----
 
 <blockquote>
@@ -64,5 +68,5 @@ One Nobel Prize winner describing the process another, Richard Feynman, used to 
 </blockquote>
 
 
-
 [dreyfus]: https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition
+[spolsky-2007]: bibliography.html#spolsky-2007
