@@ -44,7 +44,7 @@ In traditional thinking, the emphasis is first and foremost on putting various o
 
 In lean thinking, this emphasis is reversed. Solving problems is viewed as a primary function for all workers, people are coached to enhance their problem-solving skills, and fluid structures are created and modified to adapt to emergent problems and their solutions.
 
-For more on this model, see "[A New Model for Lean Culture][lc]".
+For more on this topic, see the Pagan Tuna post, &ldquo;<a href="http://www.pagantuna.com/posts/a-new-model-for-lean-culture.html" target="ref">A New Model for Lean Culture</a>.&rdquo;
 
 [lc]: http://www.pagantuna.com/posts/a-new-model-for-lean-culture.html
 

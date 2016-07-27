@@ -22,6 +22,10 @@
 
 [austin-1996]: bibliography.html#austin-1996
 
+[Adventures of an IT Leader][austin-et-al-2009]
+
+[austin-et-al-2009]: bibliography.html#austin-et-al-2009
+
 [Leading Quietly: An Unorthodox Guide to Doing the Right Thing][badaracco-2002]
 
 [badaracco-2002]: bibliography.html#badaracco-2002
@@ -222,6 +226,10 @@
 
 [jobs-2004]: bibliography.html#jobs-2004
 
+[Polarity Management: Identifying and Managing Unsolvable Problems][johnson-1992]
+
+[johnson-1992]: bibliography.html#johnson-1992
+
 [Product Development for the Lean Enterprise][kennedy-2003]
 
 [kennedy-2003]: bibliography.html#kennedy-2003
@@ -274,6 +282,10 @@
 
 [morgan-liker-2006]: bibliography.html#morgan-liker-2006
 
+[The Seven Stages of Expertise in Software Engineering][page-jones-1998]
+
+[page-jones-1998]: bibliography.html#page-jones-1998
+
 [Forbes][phillips-2009]
 
 [phillips-2009]: bibliography.html#phillips-2009
@@ -325,6 +337,10 @@
 [Smart & Gets Things Done][spolsky-2007]
 
 [spolsky-2007]: bibliography.html#spolsky-2007
+
+[Chaos Manifesto 2013][standish-2013]
+
+[standish-2013]: bibliography.html#standish-2013
 
 [The Psychology of Computer Programming][weinberg-1971]
 

@@ -4,11 +4,13 @@ This was a major message of the Agile movement, which opened its [Manifesto][bec
 
 To a great deal, this was a reaction to the [Capability Maturity Model][cmm] era, in which the actual act of software coding was often overshadowed by achievement of maturity levels, implementation of key process areas, documentation of processes, generation of artifacts and tallying of metrics.
 
-As noted in the SEI paper, "CMMI(&reg;) or Agile: Why Not Embrace Both?":
+As noted in the SEI paper, "[CMMI&reg; or Agile: Why Not Embrace Both?][sei-2008]":
 
 >... if CMMI is used in the pursuit of maturity level numbers, the resulting process improvement efforts can sometimes lose sight of customer value, product, project value, and practical business goals.
 
 The point here is that well-intentioned improvement efforts, whether initiated by management or by consultants, can all too easily prove a distraction to the actual production of working software to be used by real people, often to the detriment of everyone involved.
+
+In particular, you would do well to avoid any sort of zealotry concerning any particular model being peddled by management consultants: while most such models can be useful, all are imperfect representations of reality, and most tend to take on a life of their own after a certain period of time. For more on this topic, see the Pagan Tuna post, &ldquo;<a href="http://www.pagantuna.com/posts/model-mania.html" target="ref">Model Mania</a>.&rdquo;
 
 It would be wise to pay heed to the advice on this subject from <cite>[Steve Jobs: The Lost Interview][jobs-1995]</cite>:
 
@@ -48,5 +50,4 @@ He continues, &#8220;Remember, outcomes are what matter—not the process, not c
 [cmm]: https://en.wikipedia.org/wiki/Capability_Maturity_Model
 [cmmi]: https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration
 [jobs-1995]: bibliography.html#jobs-1995
-
-
+[sei-2008]: bibliography.html#sei-2008

@@ -34,9 +34,9 @@
 
 [cohesion]: cohesion.html
 
-[Communicate Effectively][communicate]
+[Communicate Clearly][communicate]
 
-[communicate]: communicate-effectively.html
+[communicate]: communicate-clearly.html
 
 [Configuration Management][cm]
 

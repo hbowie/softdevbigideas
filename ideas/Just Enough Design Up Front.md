@@ -52,7 +52,7 @@ Early stages of design are often referred to as architecture.  When we discuss t
 
 Note that, even with some upfront architecture, development teams may still need to schedule some periods of concentrated architectural work later in the project. This is sometimes referred to as extending the architectural runway, with the idea that the architecture is necessary to support the user functionality, and so as the functional development proceeds, it gets closer to the end of the existing runway, necessitating the dedication of resources to further building out the architecture in order to allow the continued functional work to proceed smoothly.
 
-For additional details on this topic, see "[Agile Architecture][aa]" on the [PaganTuna][pt] site.
+For additional details on this topic, see the Pagan Tuna post, &ldquo;<a href="http://www.pagantuna.com/posts/agile-architecture.html" target="ref">Agile Architecture</a>.&rdquo;
 
 ----
 
@@ -86,10 +86,6 @@ The final goal of any engineering activity is some type of documentation. When a
 <a href="http://en.wikipedia.org/wiki/Jack_W._Reeves">Jack W. Reeves</a> from the essay <cite><a href="bibliography.html#reeves-1992">Code as Design</a></cite>, &#8221;What is Software Design?&#8221; Copyright &copy; Fall 1992 by Jack W. Reeves
 </footer>
 </blockquote>
-
-[aa]: http://www.pagantuna.com/posts/agile-architecture.html
-
-[pt]: http://www.pagantuna.com/
 
 [engagement]: increase-developer-engagement.html
 

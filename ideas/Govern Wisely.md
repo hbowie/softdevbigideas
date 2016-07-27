@@ -18,7 +18,7 @@ Another important governance function is to ensure that initial project estimate
 
 Of course, at this point, you will be doing rough-order-of-magnitude (ROM) estimates, so you will want to make sure you have some reasonable amount of management reserve -- in terms of both budget and schedule -- available to cover risks that cannot be completely known to the project at this early stage of the game. You should also make sure you have a way of defending that reserve so that it is not squandered on non-essential items.
 
-Another important function of governance is to select and implement appropriate progress measures for each project. How will you know if the project is on track to meet its key milestones? A formal [earned value measurement][evm] (EVM) system won't always be necessary, but some equivalent will be needed.
+Another important function of governance is to select and implement appropriate progress measures for each project. How will you know if the project is on track to meet its key milestones? A formal Earned Value Management system won't always be necessary, but some equivalent will be needed. For more on this topic, see the Pagan Tuna post, &ldquo;<a href="http://www.pagantuna.com/posts/evm-for-mere-mortals.html" target="ref">EVM for Mere Mortals</a>.&rdquo;
 
 [OpenDoc]: https://en.wikipedia.org/wiki/OpenDoc
 
@@ -47,6 +47,5 @@ There&#8217;s an old Wayne Gretzky quote that I love. &#8216;I skate to where th
 </blockquote>
 
 [death-march]: http://en.wikipedia.org/wiki/Death_march_(project_management)
-[evm]:      http://www.pagantuna.com/posts/evm-for-mere-mortals.html
 [gov]:		http://en.wikipedia.org/wiki/Corporate_governance_of_information_technology
 [shark-tank]: http://www.cnbcprime.com/shark-tank
