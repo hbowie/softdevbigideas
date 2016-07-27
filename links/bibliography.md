@@ -174,13 +174,13 @@
 
 [highsmith-2007-11]: bibliography.html#highsmith-2007-11
 
+[Managing the Software Process][humphrey-1989]
+
+[humphrey-1989]: bibliography.html#humphrey-1989
+
 [A Discipline for Software Engineering][humphrey-1995]
 
 [humphrey-1995]: bibliography.html#humphrey-1995
-
-[Managing the Software Process][humphrey-1998]
-
-[humphrey-1998]: bibliography.html#humphrey-1998
 
 [Winning with Software: An Executive Strategy][humphrey-2002]
 
