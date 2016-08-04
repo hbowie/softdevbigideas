@@ -16,7 +16,7 @@ Following is a list of some of the most commonly identified software quality att
 * Availability
 * Compliance with Standards
 * Continuity
-* Correctness of Results, even under extreme or unusual conditions
+* Correctness of Results, even under extreme or unusual or novel conditions
 * Extensibility
 * Graceful Failure
 * Maintainability
@@ -49,9 +49,13 @@ Such extra effort could include any or all of the following:
 * audits
 * checklists
 
-In many cases just asking people whether they have done something, or asking them to fill out a form attesting that they have done something, or asking for evidence that they have done something, often has an almost magical ability to influence behavior. Because, as much as we hate to admit it, if leadership does not invest the time and effort to perform such oversight, the implicit message is that they don't really want people to take the time to do these things. This impression is not the result of some vast conspiracy, or a colossal misunderstanding of management's true intentions. It is simply the case that all the very real pressures to maximize short-term benefits will inevitably influence practitioners to reduce long-term benefits, unless there is some effective counterweight.  
+How many of these practices you want or need, and in what measure, are questions that will require some judgment on the part of leadership and the development team. As with many of these Big Ideas, getting the right [balance][] is not an exact science. 
 
-Much of what I'm saying here is confirmed by a fascinating book by Atul Gawande called <cite>[The Checklist Manifesto: How to Get Things Right][gawande-2011]</cite>. (An <a href="http://www.npr.org/templates/story/story.php?storyId=122226184" target="ref">interview with Gawande</a> on the subject of his book is available from NPR.) Gawande is a surgeon, and his book is based on data from doctors and hospitals, but it turns out that surgeons are a lot like software developers: highly trained, highly experienced, and performing highly complex work in which no two problems turn out to be exactly alike. 
+One thing that might help is to have at least a conceptual discussion about the <a href="http://en.wikipedia.org/wiki/Quality_costs" target="ref">Cost of Quality</a>. Although it is not often practical to calculate such a cost with any precision, the idea of trying to minimize the overall "COQ" is still a useful concept for consideration by teams and organizations. Introducing elements of a quality program may prove controversial, but people should be able to reach some common ground once they agree that the overall goal is to reduce the total cost of quality, including both costs of appraisal and prevention, as well as direct and indirect costs associated with software failures. 
+
+Preventive practices need not be time-consuming or costly. In many cases just asking people whether they have done something, or asking them to fill out a form attesting that they have done something, or asking for evidence that they have done something, often has an almost magical ability to influence behavior. Because, as much as we hate to admit it, if leadership does not invest the time and effort to perform such oversight, the implicit message is that they don't really want people to take the time to do these things. This impression is not the result of some vast conspiracy, or a colossal misunderstanding of management's true intentions. It is simply the case that all the very real pressures to maximize short-term benefits will inevitably influence practitioners to reduce long-term benefits, unless there is some effective counterweight.  
+
+Much of what I'm saying here is confirmed by a fascinating book by Atul Gawande called <cite>[The Checklist Manifesto: How to Get Things Right][gawande-2011]</cite>. (An <a href="http://www.npr.org/templates/story/story.php?storyId=122226184" target="ref">interview with Gawande</a> on the subject of his book is available from NPR.) Gawande is a surgeon, and his book is based on data from doctors and hospitals, but it turns out that surgeons are a lot like software developers: highly trained, highly experienced, and performing complex work in which no two problems turn out to be exactly alike. 
 
 When asked to consider the use of simple checklists, Gawande reports that most surgeons felt that such things were beneath them, constituted meaningless paperwork, and were a waste of time. 
 
@@ -63,7 +67,24 @@ So it turns out that <a href="http://en.wikipedia.org/wiki/Watts_Humphrey" targe
 
 Gawande's book confirms Humphrey's analysis. Before running his tests, most surgeons thought the checklists were a waste of time. After having a chance to use them and see the results, 80% of the doctors thought they were something they wanted to continue to use. The other 20%, though, remained strongly against it. 
 
-But then the researchers asked one more question. "If you were to have an operation, would you want the checklist?" Ninety-four percent of the doctors then answered in the affirmative.
+But then the researchers asked one more question:
+
+"If you were to have an operation, would you want the checklist?"
+
+Ninety-four percent of the doctors then answered in the affirmative.
+
+For further discussion on the topic of software quality, see the Pagan Tuna post, &ldquo;<a href="http://www.pagantuna.com/posts/software-defects.html" target="ref">Software Defects</a>.&rdquo; 
+
+----
+
+<blockquote>
+<p>
+Let&#8217;s make toast the American way: I&#8217;ll burn, you scrape.</p>
+
+<footer>
+<a href="http://en.wikipedia.org/wiki/W._Edwards_Deming" target="ref">W. Edwards Deming</a> from the article <cite>Harvard Business Review</cite>, &#8221;Quality Comes to City Hall&#8221; (March-April 1991)
+</footer>
+</blockquote>
 
 ----
 
@@ -80,13 +101,14 @@ Fact 37: Rigorous inspections can remove up to 90% of errors from a software pro
 
 <blockquote>
 <p>
-&#8220;You get what you design for. Chester, your peer in Development, is spending all his cycles on features, instead of stability, security, scalability, manageability, operability, continuity, and all those other beautiful &#8216;itties.&#8221; </p>
+&#8220;You get what you design for. Chester, your peer in Development, is spending all his cycles on features, instead of stability, security, scalability, manageability, operability, continuity, and all those other beautiful &#8216;ilities.&#8217;&#8221; </p>
 
 <footer>
 <a href="http://en.wikipedia.org/wiki/Gene_Kim">Gene Kim</a>, <a href="http://en.wikipedia.org/wiki/Kevin_Behr">Kevin Behr</a> and <a href="http://en.wikipedia.org/wiki/George_Spafford">George Spafford</a> from the book <cite><a href="bibliography.html#kim-et-al-2013">The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win</a></cite> (2013)
 </footer>
 </blockquote>
 
+[balance]: software-development-is-a-balancing-act.html
 [gawande-2011]: bibliography.html#gawande-2011
 [humphrey-1989]: bibliography.html#humphrey-1989
 [wrong]: consider-what-might-go-wrong.html

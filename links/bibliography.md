@@ -26,6 +26,10 @@
 
 [austin-et-al-2009]: bibliography.html#austin-et-al-2009
 
+[The Graphing Calculator Story][avitzur-2004]
+
+[avitzur-2004]: bibliography.html#avitzur-2004
+
 [Leading Quietly: An Unorthodox Guide to Doing the Right Thing][badaracco-2002]
 
 [badaracco-2002]: bibliography.html#badaracco-2002
@@ -53,6 +57,10 @@
 [Programming As If People Mattered: Friendly Programs, Software Engineering, and Other Noble Delusions][borenstein-1991]
 
 [borenstein-1991]: bibliography.html#borenstein-1991
+
+[Virtuoso Teams: The extraordinary stories of extraordinary teams][boynton-fischer-2009]
+
+[boynton-fischer-2009]: bibliography.html#boynton-fischer-2009
 
 [The Mythical Man-Month: Essays on Software Engineering][brooks-1975]
 
@@ -250,6 +258,10 @@
 
 [leffingwell-2007]: bibliography.html#leffingwell-2007
 
+[The Beatles Anthology][beatles-2000]
+
+[beatles-2000]: bibliography.html#beatles-2000
+
 [Bob Lewis's IS Survival Guide][lewis-1999]
 
 [lewis-1999]: bibliography.html#lewis-1999
@@ -269,6 +281,10 @@
 [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager][lopp-2007]
 
 [lopp-2007]: bibliography.html#lopp-2007
+
+[Moving to Higher Ground: How Jazz Can Change Your Life][marsalis-2008]
+
+[marsalis-2008]: bibliography.html#marsalis-2008
 
 [Opposable Mind: Winning Through Integrative Thinking][martin-2009]
 

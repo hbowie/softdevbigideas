@@ -186,10 +186,6 @@
 
 [craft]: software-development-is-a-craft.html
 
-[Software Development is a Journey of Discovery][journey]
-
-[journey]: software-development-is-a-journey-of-discovery.html
-
 [Software is Different][different]
 
 [different]: software-is-different.html
@@ -206,6 +202,10 @@
 
 [economic]: take-a-long-term-economic-perspective.html
 
+[Understand the Arc of Your Project][arc]
+
+[arc]: understand-the-arc-of-your-project.html
+
 [Use Things Already Known to Work][reuse]
 
 [reuse]: use-things-already-known-to-work.html
@@ -213,6 +213,10 @@
 [Use the Best Tools Available][tools]
 
 [tools]: use-the-best-tools-available.html
+
+[Version History][versions]
+
+[versions]: version-history.html
 
 [What's Not Done is as Important as What's Done][not-done]
 

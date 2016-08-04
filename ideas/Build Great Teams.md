@@ -1,5 +1,54 @@
 Title: Build Great Teams
 
+At the core of most of the important work done in this world you will find a small, multi-skilled team with effective leadership focused on delivering a product of value to a customer. 
+
+Note that teams such as these are found in contexts as different as [Jazz bands][boynton-fischer-2009], <a href="http://www.reasontorock.com/elements/collaboration.html" target="ref">Rock groups</a>, <a href="https://www.filmandmusic.com/articles/7-perspectives-on-the-absolute-importance-of-collaboration/19" target="ref">filmmaking</a>, [Agile Software Development][beck-et-al-2001] and <a href="https://en.wikipedia.org/wiki/Cellular_manufacturing" target="ref">Lean Manufacturing</a>, to name just a few obvious examples. 
+
+It's now commonplace in business to take the work of teams for granted, but passive acceptance doesn't always translate into active support.
+
+Let me break my opening assertion down, and explain the significance of each of its components. 
+
+### "A Small Team"
+
+I mean something in the range of 3 - 15 members. Such a team, if organized well, has the following advantages.
+
+* Diversity of knowledge, abilities and perspectives. 
+* Joint decision-making following joint discussion and consideration of alternatives. 
+* Bonding and cohesion of team members, including reinforcement of shared team norms. 
+* Social motivations for completing important work. 
+* Direct communication between team members.
+
+What's magic about the size? Less than three, and you have a duet rather than a group: it's more about the individuals and their relationship, and less about a team identity. More than fifteen, and it's hard to maintain direct communication between team members. (And fifteen, by the way is an upper limit: for some sorts of teams, that may be too large a number.) 
+
+And note that the ideas of [decomposition][], [cohesion][] and [loose coupling][loose] should be employed in order to break down larger groups into these sorts of teams, and to break down larger problems into ones small enough to be assigned to these sorts of teams. 
+
+### "Multi-Skilled"
+
+For the sort of team I'm talking about, it's important for the team to be relatively self-sufficient, which means that all or most of the skills important to the team need to be available within the team. This is different from the <a href="http://cache3.asset-cache.net/gc/488831-oboe-section-of-symphony-orchestra-gettyimages.jpg?v=1&c=IWSAsset&k=2&d=IiGirUeIzJ8wi3f90FPuI98CoL0wZP6rTCu2aRcHxwrY9mrAweEJgX8Wb2%2FKWjqZ" target="ref">oboe section</a> within an orchestra, or a <a href="http://gunsandburgers.com/wp-content/uploads/2015/04/Steno-pool-in-office-1959-Seattle-Municipal-Archives-CC-BY-2.0-1200x400.gif" target="ref">steno pool</a>, or any sort of pool of resources sharing similar skills. A multi-skilled team is empowered to act as a collective. A group of people with similar skills will not achieve the sorts of benefits I've listed above for a small team. 
+
+### "With Effective Leadership"
+
+A team can be self-organizing, but it cannot generally be self-governing. Some leadership can be internal to the team, and some of it can come from outside the team, but [effective leadership][govern] is generally required in order for a team to be consistently productive. The product development team needs its Steve Jobs. The jazz band needs its Miles Davis. 
+
+Ineffective leadership comes in several common forms. It can be too passive. It can be too self-absorbed, ignoring signals from the team itself, from its customers or from its partners. It can be too diffuse, consisting of too many leaders, from different functions and/or levels, who are not in alignment with each other. 
+
+Certainly one of the important functions of leadership is to make difficult decisions concerning the team's direction. Sometime this involves saying "no" to some options that the team might otherwise pursue, if left to its own devices. 
+
+### "Focused on Delivering a Product of Value to a Customer"
+
+There are four important but closely related elements that I'm grouping together here:
+
+* *Focus:* the entire team must be focused on a [common goal][vision]. 
+* *Product:* A concrete [product][focus] forces hard decisions to be made, and forces the team to actually produce a tangible result. 
+* *Delivery:* The team must [deliver][] something in a limited timeframe, again enforcing a degree of discipline. 
+* *Customer:* The product must be something of [value to a real customer][value]. Without the ability to visualize such a recipient, it is hard for the team to make the sort of often difficult trade-off decisions involved in any important work. 
+
+### Important Team Characteristics
+
+Let me give further emphasis to a couple of important team characteristics. 
+
+First is the cultivation of and adherence to team norms. 
+
 Software development is by its nature a particularly solitary activity. Much of the work involves one programmer, one keyboard and one computer. And the quality and quantity of the work being done in this way is often hard to observe directly.
 
 This is one reason why [Watts Humphrey][wh] commented:
@@ -10,25 +59,9 @@ This is one reason why [Watts Humphrey][wh] commented:
 
 And so it is often difficult for even the best-intentioned managers and coaches to influence the working habits of individual developers.
 
-It turns out, however, that there is a better way.
+However, when a small team is working together to achieve a common goal, and when they are committed to delivering working software within a short period of time, and when they are allowed to [self-organize][self-organizing], and when the idea of joint ownership of the software code is promoted, and when they agree on a definition of what it means to say they are "done" with a piece of software, then it turns out that the team itself is much more effective at enforcing common norms than is any outside agency. 
 
-1. Organize developers into mid-sized teams, with somewhere around 8 - 12 devs per team.
-2. Decompose larger pieces of work into smaller, more manageable pieces.
-3. Remember to apply the ideas of [Cohesion][cohesion] and [Loose Coupling][loose] when forming teams.
-4. Give each team line-of-sight access to its key customers, including clear channels of communication, rapid, unambiguous feedback, and availability.
-5. Deliver working software in short, regularly timed development cycles.
-6. Encourage joint ownership of software code, and joint responsibility for team results.
-7. Have the team jointly define a set of common expectations about what it means for a developer to say that their work on a task is "done."
-8. Give each team the resources it needs to succeed: tools, skills, training, outside consulting and the necessary hardware and software infrastructure.
-9. Bring the developers together briefly on a daily basis to talk about their work, their accomplishments and their challenges.
-10. Allow the team to figure out how to best manage its work in order to meet its commitments.
-11. Give the team access to a coach who can point out ways in which the team can improve its performance.
-
-These sorts of teams have wonderful qualities. People learn from each other. People challenge each other. Communication tends to happen quickly and effectively. The teams organize themselves in order to get their work done most effectively. Performance standards tend to be embraced and enforced by the teams themselves, in a much more effective way than would ever be possible through the intervention of management or a central process group.
-
-Note that a software development team organized in this fashion has many similarities to a [lean manufacturing cell][cell].
-
-When assembling and managing such teams, it's important to consider the role of diversity. Research has demonstrated that teams with diverse perspectives and backgrounds tend to produce better results, even if the discussions within such a team tend to be a bit messier and less straightforward.
+Another important team characteristic deserving of further emphasis is that of diversity. Research has demonstrated that teams with diverse perspectives and backgrounds tend to produce better results, even if the discussions within such a team tend to be a bit messier and less straightforward.
 
 <blockquote>
 <p>
@@ -38,6 +71,44 @@ In one of our studies, we compared homogeneous and diverse groups trying to solv
 <a href="http://www8.gsb.columbia.edu/cbs-directory/detail/kp2447">Katherine Phillips</a> from the article <cite><a href="bibliography.html#phillips-2009">Forbes</a></cite>, &#8221;Diversity Helps Your Business &#8212; But Not The Way You Think&#8221; (June 2, 2009)
 </footer>
 </blockquote>
+
+### What Can Be Debated
+
+I've tried to summarize above many of the key learnings about effective teams that I've gleaned over several decades, based on my experience working as a team member and team leader, and also based on my observations and broad study of the topic in multiple contexts. 
+
+But, of course, in this brief overview I've just scratched the surface of the subject. Whole books have been written on the topic of teams. There is lots of room for discussion and debate on the various elements of teams and team building. 
+
+### What Cannot Be Debated
+
+At this late date, it's probably not useful to waste time debating whether teams like these are important. 
+
+Some would say that there is "magic" in such teams, but I think it's probably fairer to say that there's not much of lasting value produced *without* such teams. 
+
+Wherever we look today, especially when we dig beneath the surface of any of our modern success stories, we find abundant evidence of the operation of teams that fit the description I've provided above. 
+
+Heck, I've so far avoided any mention of sports, but I think much of our obsession with this endeavor can be traced back to the importance of teams in our society. Every game day we see this fundamental reality played out on the field in front of us -- with all of the corporate and societal trappings stripped away -- laying bare the workings of two teams, with their members, their diverse skills, their leaders, their activities, their collaboration and, ultimately, their results, all there for us to observe and discuss.
+
+### Implications for Your Organization
+
+Much of what I've said above is probably fairly non-controversial. 
+
+And yet...
+
+What are the implications for the larger organization?
+
+It is probably not too much of a leap to say that successful organizations will be those who do the most to foster, sustain and nurture such teams. 
+
+Yet how many organizations embrace this truth as one of their core operating principles? 
+
+Instead leaders of large organizations often seem to lose grasp of what's going on within their teams, and as a result lose track of the effects their decisions may have on the operation of these teams. After all, if leaders observe the business norms of interacting only with those immediately above, below or adjacent to them in the organization, with only occasional ceremonial contact with any working teams, it is all to easy for them to insulate themselves from first-hand knowledge of what's happening at this level of their organizations.  
+
+I think this is one reason why the the <a href="https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/" target="ref">videos on Spotify Engineering Culture</a> have been so popular. There are a lot of great ideas here, but many team members simply seem to like the fact that a major company thinks their teams are so important that they will release content entirely focused on the way their teams function.   
+
+Let me return to my original assertion:
+
+> At the core of most of the important work done in this world you will find a small, multi-skilled team with effective leadership focused on delivering a product of value to a customer.
+
+If this is true, then you need to ask yourself: what is your organization doing today to create, nurture and sustain these sorts of teams? 
 
 ----
 
@@ -49,34 +120,9 @@ As a manager, you are responsible for making great decisions and the best way to
 Your team is collectively smarter than you simply because there are more of them. More importantly, by including them in the decision process and creating a team where they feel they can say no, you&#8217;re creating trust.</p>
 
 <footer>
-<a href="http://en.wikipedia.org/wiki/Michael_Lopp">Michael Lopp</a> from the book <cite><a href="bibliography.html#lopp-2007">Managing Humans: Biting and Humorous Tales of a Software Engineering Manager</a></cite> Copyright &copy; 2007 by Michael Lopp
+<a href="http://en.wikipedia.org/wiki/Michael_Lopp" target="ref">Michael Lopp</a> from the book <cite><a href="bibliography.html#lopp-2007">Managing Humans: Biting and Humorous Tales of a Software Engineering Manager</a></cite> Copyright &copy; 2007 by Michael Lopp
 </footer>
 </blockquote>
-
-----
-
-<blockquote>
-<p>
-With smaller teams doing more for less, removing yourself from the code strikes me as a bad career move. Even in a monstrous company laded with policy, process, and politics, you can&#8217;t forget how to develop software. And how to develop software is changing. Now. Right under your feet, this very second. </p>
-
-<p>
-How in the world are you going to scale if you&#8217;re slowly forgetting how software is made? </p>
-
-<p>
-I&#8217;m happy you&#8217;re about to confuse your team by swimming in the developer pool. The simple fact is that well-defined roles in software development are fading. </p>
-
-<p>
-Everybody is talking to everybody else and they&#8217;re learning from each other&#8217;s mistakes ... and there&#8217;s no reason that a manager shouldn&#8217;t be participating in this massive global cross-pollination.... </p>
-
-<p>
-Besides, you want to be a part of a team of interchangeable parts. Not only does this make your team more nimble, it presents each person with the opportunity to see the product and the company from a vastly different perspective.</p>
-
-<footer>
-<a href="http://en.wikipedia.org/wiki/Michael_Lopp">Michael Lopp</a> from the book <cite><a href="bibliography.html#lopp-2007">Managing Humans: Biting and Humorous Tales of a Software Engineering Manager</a></cite> Copyright &copy; 2007 by Michael Lopp
-</footer>
-</blockquote>
-
-
 
 ----
 
@@ -91,28 +137,24 @@ Now, I arrived after this reorganization occurred, so I don&#8217;t know the act
 I can&#8217;t imagine building a team responsible for consumer products where engineers and designers weren&#8217;t constantly meddling in each other&#8217;s business. Yes, they often argue from completely opposite sides of the brain. Yes, it is often a battle of art and science, but engineering and design want exactly the same thing. They want the intense satisfaction of knowing they successfully built something that matters.</p>
 
 <footer>
-<a href="http://en.wikipedia.org/wiki/Michael_Lopp">Michael Lopp</a> from the book <cite><a href="bibliography.html#lopp-2007">Managing Humans: Biting and Humorous Tales of a Software Engineering Manager</a></cite> Copyright &copy; 2007 by Michael Lopp
+<a href="http://en.wikipedia.org/wiki/Michael_Lopp" target="ref">Michael Lopp</a> from the book <cite><a href="bibliography.html#lopp-2007">Managing Humans: Biting and Humorous Tales of a Software Engineering Manager</a></cite> Copyright &copy; 2007 by Michael Lopp
 </footer>
 </blockquote>
-
-
 
 ----
 
 <blockquote>
 <p>Share early and share often.</p>
-<footer><a href="http://en.wikipedia.org/wiki/Alan_Mulally">Alan Mulally</a> from the book <cite><a href="bibliography.html#poppendieck-2006">Implementing Lean Software Development: From Concept to Cash</a></cite> (2006)</footer>
+<footer><a href="http://en.wikipedia.org/wiki/Alan_Mulally" target="ref">Alan Mulally</a> from the book <cite><a href="bibliography.html#poppendieck-2006">Implementing Lean Software Development: From Concept to Cash</a></cite> (2006)</footer>
 </blockquote>
 
 ----
 
 > No man is more important than The Team. No coach is more important than The Team. The Team, The Team, The Team, and if we think that way, all of us, everything that you do, you take into consideration what effect does it have on my Team? We're gonna believe in each other, we're not gonna criticize each other, we're not gonna talk about each other, we're gonna encourage each other.
 >
-> -- [Bo Schembechler][bo], Legendary University of Michigan Football Coach, [addressing his team in 1983][schembechler-1983]
+> -- <a href="https://en.wikipedia.org/wiki/Bo_Schembechler" target="ref">Bo Schembechler</a>, Legendary University of Michigan Football Coach, [addressing his team in 1983][schembechler-1983]
 
 [0]: http://en.wikipedia.org/wiki/Alan_Mulally
-[bo]: https://en.wikipedia.org/wiki/Bo_Schembechler
-[cell]: https://en.wikipedia.org/wiki/Cellular_manufacturing
 [wh]:   https://en.wikipedia.org/wiki/Watts_Humphrey
 
 [humphrey-2001]: bibliography.html#humphrey-2001
@@ -120,4 +162,15 @@ I can&#8217;t imagine building a team responsible for consumer products where en
 [schembechler-1983]: bibliography.html#schembechler-1983
 
 [cohesion]: cohesion.html
+[decomposition]: decomposition.html
+[deliver]: deliver-early-and-often.html
+[focus]: stay-focused-on-the-creation-of-working-software-for-real-people.html
+[govern]: govern-wisely.html
 [loose]: loose-coupling.html
+[self-organizing]: self-organizing-teams.html
+[value]: create-value-for-customers.html
+[vision]: craft-a-product-vision.html
+
+
+[beck-et-al-2001]: bibliography.html#beck-et-al-2001
+[boynton-fischer-2009]: bibliography.html#boynton-fischer-2009

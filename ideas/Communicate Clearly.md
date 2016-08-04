@@ -14,6 +14,13 @@ Consider the following factors:
 
 3. Customer communication: be sure to communicate regularly and proactively with your key project stakeholders, to avoid any surprises or misunderstanding. For more on this topic, see the Pagan Tuna post, &ldquo;<a href="http://www.pagantuna.com/posts/customer-communication.html" target="ref">Customer Communication</a>.&rdquo;
 
-4. Storage and retrieval of project documents: many projects rely on PowerPoint presentations stored in multiple places, exchanged via e-mail, with no easy way to find the latest version of a particular piece of information when you need it. Instead, try to emulate a site like Wikipedia. For more on this topic, see the Pagan Tuna post, &ldquo;<a href="http://www.pagantuna.com/posts/lessons-we-should-have-learned-from-the-web.html" target="ref">Lessons We (Should) Have Learned from the Web</a>.&rdquo;
+4. Document formats: Lightweight markup languages such as <a href="https://daringfireball.net/projects/markdown/" target="ref">Markdown</a> and Web content management systems such as <a href="https://en.wikipedia.org/wiki/Wiki" target="ref">wikis</a> offer significant advantages over the usual word processing alternatives. For more on this topic, see the Pagan Tuna post, &ldquo;<a href="http://www.pagantuna.com/posts/ten-reasons-to-ditch-your-word-documents.html" target="ref">Ten Reasons to Ditch Your Word Documents</a>.&rdquo; 
+
+5. Storage and retrieval of project documents: many projects rely on PowerPoint presentations stored in multiple places, exchanged via e-mail, with no easy way to find the latest version of a particular piece of information when you need it. Instead, try to emulate a site like Wikipedia. For more on this topic, see the Pagan Tuna post, &ldquo;<a href="http://www.pagantuna.com/posts/lessons-we-should-have-learned-from-the-web.html" target="ref">Lessons We (Should) Have Learned from the Web</a>.&rdquo;
+
+6. Effective use of E-mail: this can be an effective means of communication, but it is often used poorly. For more on this topic, see the Pagan Tuna post, &ldquo;<a href="http://www.pagantuna.com/posts/taming-the-e-mail-monster.html" target="ref">Taming the E–mail Monster</a>.&rdquo; 
 
 [cockburn-2001]: bibliography#cockburn-2001
+
+
+

@@ -35,17 +35,6 @@ July, 2016
 
 <blockquote>
 <p>
-With the exception of a few hysterical CASE vendors and religious zealots, most software professionals would agree that there is no single silver bullet that will exorcise our software demons.</p>
-
-<footer>
-<a href="http://en.wikipedia.org/wiki/Edward_Yourdon">Edward Yourdon</a> from the book <cite><a href="bibliography.html#yourdon-1992">Decline and Fall of the American Programmer</a></cite> Copyright &copy; 1992 by PTR Prentice-Hall, Inc.
-</footer>
-</blockquote>
-
-----
-
-<blockquote>
-<p>
 Great minds discuss ideas, average ones discuss events, and small minds discuss people.</p>
 
 <footer>
@@ -61,6 +50,17 @@ Those of us who have been true readers all our life seldom fully realize the eno
 
 <footer>
 <a href="http://en.wikipedia.org/wiki/C._S._Lewis">C. S. Lewis</a> from the book <cite><a href="bibliography.html#lewis-1961">An Experiment in Criticism</a></cite> (1961)
+</footer>
+</blockquote>
+
+----
+
+<blockquote>
+<p>
+With the exception of a few hysterical CASE vendors and religious zealots, most software professionals would agree that there is no single silver bullet that will exorcise our software demons.</p>
+
+<footer>
+<a href="http://en.wikipedia.org/wiki/Edward_Yourdon">Edward Yourdon</a> from the book <cite><a href="bibliography.html#yourdon-1992">Decline and Fall of the American Programmer</a></cite> Copyright &copy; 1992 by PTR Prentice-Hall, Inc.
 </footer>
 </blockquote>
 
