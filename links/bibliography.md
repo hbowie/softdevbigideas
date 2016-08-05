@@ -302,6 +302,10 @@
 
 [page-jones-1998]: bibliography.html#page-jones-1998
 
+[The New Yorker][parker-2015]
+
+[parker-2015]: bibliography.html#parker-2015
+
 [Forbes][phillips-2009]
 
 [phillips-2009]: bibliography.html#phillips-2009

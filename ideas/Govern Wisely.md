@@ -1,8 +1,12 @@
 Title: Govern Wisely
 
-Even if your software development team is self-managing, it is not self-governing. Someone needs to point it at a worthy goal. Even the best software developers won't experience success if they spend their time developing something that is not needed.
+Even if your software development team is self-organizing, it is not self-governing. Someone needs to point it at a worthy goal. Even the best software developers won't experience success if they spend their time developing something that is not needed.
 
-You need to pick the right sorts of problems for your developers to solve. Many projects are doomed from the start, either because they are too large, because stakeholder expectations are unrealistic, because the chosen technology is too immature, because organizational politics present insurmountable problems, because you are automating a fundamentally poor process, or for a whole host of other reasons. These projects generally proceed, not because these problems are unknown, or their impact is underestimated, but because people are afraid to speak up, or are not listened to when they do.
+Your software development projects need to be in <a href="http://www.pagantuna.com/posts/the-primary-functions-of-management.html" target="ref">alignment with your organizational strategy</a>. If you don't know what that strategy is, or if your project is not contributing to it in some way, then it's not likely to be a rousing success. 
+
+In general, you should only be developing new software in areas that provide your organization with some degree of competitive differentiation. 
+
+You need to pick projects that have reasonable chances of success. Many projects are doomed from the start, either because they are too large, because stakeholder expectations are unrealistic, because the chosen technology is too immature, because organizational politics present insurmountable problems, because you are automating a fundamentally poor process, or for a whole host of other reasons. These projects generally proceed, not because these problems are unknown, or their impact is underestimated, but because people are afraid to speak up, or are not listened to when they do.
 
 If stakeholder expectations are unrealistic, then now is the time to confront that reality, rather than launching into development hoping that things will work themselves out later. If time, money and patience are likely to run out before you reach key objectives, then better to adjust expectations now -- or cancel the project outright -- rather than launch out on a [death march][death-march].
 

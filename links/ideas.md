@@ -202,6 +202,10 @@
 
 [economic]: take-a-long-term-economic-perspective.html
 
+[The Inconvenient Nature of Software Development][inconvenient]
+
+[inconvenient]: the-inconvenient-nature-of-software-development.html
+
 [Understand the Arc of Your Project][arc]
 
 [arc]: understand-the-arc-of-your-project.html
