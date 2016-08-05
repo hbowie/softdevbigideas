@@ -4,7 +4,7 @@ This project contains the original text for *Big Ideas in Software Development,*
 
 ### Rights ###
 
-The original text of <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type"><cite>Software Development Big Ideas</cite></span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.herbbowie.com" property="cc:attributionName" rel="cc:attributionURL">Herb Bowie</a> is copyright &copy; 2016 and licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+The original text of *Big Ideas in Software Development* by Herb Bowie is copyright (c) 2016 and licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 ### Folder Structure ###
 
