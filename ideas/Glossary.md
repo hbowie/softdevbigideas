@@ -2,6 +2,8 @@ Title:  Glossary
 
 Body:
 
+Some guidance on what I mean by a few terms that might otherwise cause some confusion. For help with other terms not appearing below, see the [Alphabetical Index](alphabetical-index.html).
+
 architecture
 :	The terms architecture and design have very similar definitions, so in many contexts they are used to denote the same thing, and are used interchangeably. If we are to try to make a distinction, though, then architecture usually refers to a more elevated level of design, expressed at a higher level of abstraction, and/or an earlier stage of design.
 
@@ -13,6 +15,9 @@ developer
 
 feature
 :	One element of a product that can be described, developed and demonstrated with some degree of independence from other such elements.
+
+iteration
+:	A short, regular cycle (usually 1 - 4 weeks) for producing working software; also known as a "sprint".
 
 process
 :	The regular, repeated steps followed by a development team as they engage in their work.

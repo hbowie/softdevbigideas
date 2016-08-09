@@ -16,6 +16,7 @@ template	generate
 <!-- Generate the HTML content for the Index by Term -->
 input	set		normalization	0
 input	open	xls		#PATH#../lists/terms.xls
+sort	add	Ascending	Lower Case Term	
 sort	add	Ascending	Term	
 sort	add	Ascending	Page Title	
 sort	set		params	
@@ -37,11 +38,7 @@ sort	clear
 sort	set		params	
 filter	clear			
 filter	set		params	
-filter	add	not equal to	Index	index
-filter	clear			
-filter	set		params	
-filter	add	not equal to	Index	index
-filter	add	not equal to	Title	Index by Title
+filter	add	equal to	Idea	Yes
 filter	set		params	
 sort	add	Ascending	Title	
 sort	set		params	

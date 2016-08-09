@@ -14,6 +14,14 @@
 
 [terms-of-engagement]: agree-on-terms-of-engagement.html
 
+[Alphabetical Index][index]
+
+[index]: alphabetical-index.html
+
+[Alphabetical List of All Ideas][all-ideas]
+
+[all-ideas]: alphabetical-list-of-all-ideas.html
+
 [Always Remember that Software Development is an Adventure][adventure]
 
 [adventure]: always-remember-that-software-development-is-an-adventure.html
@@ -98,18 +106,6 @@
 
 [engagement]: increase-developer-engagement.html
 
-[Index by Keyword][by-keyword]
-
-[by-keyword]: index-by-keyword.html
-
-[Index by Term][by-term]
-
-[by-term]: index-by-term.html
-
-[Index by Title][by-title]
-
-[by-title]: index-by-title.html
-
 [Integrate Early and Often][integration]
 
 [integration]: integrate-early-and-often.html
@@ -165,6 +161,10 @@
 [Self-Organizing Teams][self-organizing]
 
 [self-organizing]: self-organizing-teams.html
+
+[Sharpen Your Axe][tools]
+
+[tools]: sharpen-your-axe.html
 
 [Shorten Feedback Loops][loops]
 
@@ -225,10 +225,6 @@
 [Use Things Already Known to Work][reuse]
 
 [reuse]: use-things-already-known-to-work.html
-
-[Use the Best Tools Available][tools]
-
-[tools]: use-the-best-tools-available.html
 
 [Version History][versions]
 

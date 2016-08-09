@@ -28,8 +28,8 @@ In any case, though, I'd be happy to hear your feedback on the site. Corresponde
 
 -- [Herb Bowie](about-the-author.html)
 
-Seattle, Washington
-July, 2016
+Seattle, Washington  <br />
+August, 2016
 
 ----
 

@@ -1,16 +1,16 @@
-<?output "../html/Index by Term.html"?>
-<dl>
+<?output "../html/Alphabetical Index.html"?>
+<dl class="index">
 <?nextrec?>
 <?definegroup 1 =$term$= ?>
 <?ifendgroup 1 ?>
 <?endif?>
 <?ifnewgroup 1 ?>
 	<dt>
-<?if "=$link$=" ?>
-		<a href="=$link$=" target="ref">
+<?if "=$reflink$=" ?>
+		<a href="=$reflink$=" target="ref">
 <?endif?>
 			=$term$=
-<?if "=$link$=" ?>
+<?if "=$reflink$=" ?>
 		</a>
 <?endif?>
 	</dt>
@@ -22,4 +22,3 @@
 		</dd>
 <?loop?>
 </dl>
-

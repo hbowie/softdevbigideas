@@ -1,0 +1,14 @@
+module	action	modifier	object	value
+<!-- Generate the index by title body -->
+input	set		normalization	0
+input	open	xls		#PATH#../lists/ideas.xls
+sort	clear			
+sort	set		params	
+filter	clear			
+filter	set		params	
+filter	add	equal to	Idea	Yes
+filter	set		params	
+sort	add	Ascending	Title	
+sort	set		params	
+template	open	text		#PATH#../factory/index_by_title_template.html
+template	generate			
