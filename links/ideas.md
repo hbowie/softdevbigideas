@@ -66,6 +66,10 @@
 
 [decomposition]: decomposition.html
 
+[Decrease Friction, Increase Flow][flow]
+
+[flow]: decrease-friction-increase-flow.html
+
 [Deliver Early and Often][deliver]
 
 [deliver]: deliver-early-and-often.html
@@ -133,6 +137,10 @@
 [Make Problems Visible][problems]
 
 [problems]: make-problems-visible.html
+
+[Pick the Right Sort of Customer Proxy][proxy]
+
+[proxy]: pick-the-right-sort-of-customer-proxy.html
 
 [Plan Thoughtfully But Be Prepared for Change][plan]
 
@@ -205,6 +213,10 @@
 [The Inconvenient Nature of Software Development][inconvenient]
 
 [inconvenient]: the-inconvenient-nature-of-software-development.html
+
+[This Thinking Business][thinking]
+
+[thinking]: this-thinking-business.html
 
 [Understand the Arc of Your Project][arc]
 

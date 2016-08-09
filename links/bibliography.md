@@ -198,6 +198,10 @@
 
 [hurst-2007]: bibliography.html#hurst-2007
 
+[Seven Suspects][innes-1936]
+
+[innes-1936]: bibliography.html#innes-1936
+
 [The Simplicity Shift: Innovative Design Tactics in a Corporate World][jenson-2002]
 
 [jenson-2002]: bibliography.html#jenson-2002

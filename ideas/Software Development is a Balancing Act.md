@@ -72,6 +72,8 @@ Long-term strategic visions can offer compelling, sweeping changes, but achievem
 
 Higher level languages such as Java often offer greater programmer productivity. On the other hand, low-level languages such as C can sometimes offer improved software execution speed. 
 
+For more IT issues that often need a balanced approach, see the Pagan Tuna post, &ldquo;<a href="http://www.pagantuna.com/posts/what-does-it-mean-to-be-world-class-it.html" target="ref">What does it mean to be World Class IT?</a>.&rdquo; 
+
 ## Implications
 
 Each of these polarities requires a project's leadership to strike a balance that maximizes the advantages for their particular project, and minimizes the disadvantages. All of these decisions involve trade-offs. There are no perfect answers. If you can approach polarities with this understanding, then you have a decent chance of coming up with reasonable answers that will allow your project to succeed. On the other hand, if you insist on making some of these poles sacred cows that can't be questioned, then your project is likely to run into problems.  
@@ -83,6 +85,8 @@ I have also found that traditional risk management often fails to help achieve a
 While Barry Goldwater may have famously said that "extremism in defense of liberty is no vice," I am strongly suggesting that extremism in defense of any of these poles on a software development project is very likely to be a vice. This is not to say that it's best to always proceed down the middle of the road, but that it's best to always have an informed, open-minded approach to achieving appropriate balance of all these polarities, in light of the characteristics of a particular project. 
 
 Software development is difficult enough under the best of circumstances. Turning any of these poles into absolute principles, to be defended as fundamental articles of faith, is likely to burden your software development project with more problems than it can handle. 
+
+
 
 [boehm-turner-2003]: bibliography.html#boehm-turner-2003
 [davis-2005]: bibliography.html#davis-2005
