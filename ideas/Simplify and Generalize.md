@@ -13,7 +13,7 @@ To counteract this growing complexity, the developer must look for similar patte
 Simplicity goes beyond a term like &#8216;good user interface,&#8217; which has become so broad, it has little clear meaning. Simplicity is a goal with precision. <em>Simplicity</em> means streamlining, pruning clutter, cleaning up presentation, and improving the initial experience with a product. But Simplicity is more than just making a cute product for technophobes. Simplicity streamlines and optimizes use, as well.</p>
 
 <footer>
-<a href="http://en.wikipedia.org/wiki/Scott_Jenson">Scott Jenson</a> from the book <cite><a href="bibliography.html#jenson-2002">The Simplicity Shift: Innovative Design Tactics in a Corporate World</a></cite> Copyright &copy; 2002 by Scott Jenson
+<a href="http://en.wikipedia.org/wiki/Scott_Jenson" target="ref">Scott Jenson</a> from the book <cite><a href="bibliography.html#jenson-2002">The Simplicity Shift: Innovative Design Tactics in a Corporate World</a></cite> Copyright &copy; 2002 by Scott Jenson
 </footer>
 </blockquote>
 
@@ -24,7 +24,7 @@ Simplicity goes beyond a term like &#8216;good user interface,&#8217; which has 
 Developers who return again and again to their work, simplifying it and making it more general-purpose, produce smaller, simpler systems that deliver more to users.</p>
 
 <footer>
-<a href="http://en.wikipedia.org/wiki/Larry_Constantine">Larry Constantine</a> and <a href="http://en.wikipedia.org/wiki/Lucy_Lockwood">Lucy Lockwood</a> from the book <cite><a href="bibliography.html#constantine-lockwood-1999">Software for Use: A Practical Guide to the Models and Methods of Usage-Centered Design</a></cite> Copyright &copy; 1999 by the ACM Press
+<a href="http://en.wikipedia.org/wiki/Larry_Constantine" target="ref">Larry Constantine</a> and <a href="http://en.wikipedia.org/wiki/Lucy_Lockwood" target="ref">Lucy Lockwood</a> from the book <cite><a href="bibliography.html#constantine-lockwood-1999">Software for Use: A Practical Guide to the Models and Methods of Usage-Centered Design</a></cite> Copyright &copy; 1999 by the ACM Press
 </footer>
 </blockquote>
 
@@ -35,7 +35,7 @@ Developers who return again and again to their work, simplifying it and making i
 ...the supreme goal of all theory is to make the irreducible basic elements as simple and as few as possible without having to surrender the adequate representation of a single datum of experience.</p>
 
 <footer>
-<a href="http://en.wikipedia.org/wiki/Albert_Einstein">Albert Einstein</a> from the lecture <cite><a href="bibliography.html#einstein-1933">On the Method of Theoretical Physics</a></cite> (1933)
+<a href="http://en.wikipedia.org/wiki/Albert_Einstein" target="ref">Albert Einstein</a> from the lecture <cite><a href="bibliography.html#einstein-1933">On the Method of Theoretical Physics</a></cite> (1933)
 </footer>
 </blockquote>
 
@@ -46,7 +46,7 @@ Developers who return again and again to their work, simplifying it and making i
 I would not give a fig for the simplicity this side of complexity, but I would give my life for the simplicity on the other side of complexity.</p>
 
 <footer>
-<a href="http://en.wikipedia.org/wiki/Oliver_Wendell_Holmes">Oliver Wendell Holmes</a>
+<a href="http://en.wikipedia.org/wiki/Oliver_Wendell_Holmes" target="ref">Oliver Wendell Holmes</a>
 </footer>
 </blockquote>
 
@@ -58,7 +58,7 @@ I would not give a fig for the simplicity this side of complexity, but I would g
 When you start looking at a problem and it seems really simple, you don&#8217;t really understand the complexity of the problem. Then you get into the problem, and you see that it&#8217;s really complicated, and you come up with all these convoluted solutions. That&#8217;s sort of the middle, and that&#8217;s where most people stop.... But the really great person will keep on going and find the key, the underlying principle of the problem &#8212; and come up with an elegant, really beautiful solution that works. That&#8217;s what we wanted to do with Mac.</p>
 
 <footer>
-<a href="http://en.wikipedia.org/wiki/Steve_Jobs">Steve Jobs</a> from the book <cite><a href="bibliography.html#jobs-2000-insanely">Insanely Great: The Life and Times of Macintosh, the Computer that Changed Everything</a></cite> (2000)
+<a href="http://en.wikipedia.org/wiki/Steve_Jobs" target="ref">Steve Jobs</a> from the book <cite><a href="bibliography.html#jobs-2000-insanely">Insanely Great: The Life and Times of Macintosh, the Computer that Changed Everything</a></cite> (2000)
 </footer>
 </blockquote>
 
@@ -69,7 +69,7 @@ When you start looking at a problem and it seems really simple, you don&#8217;t 
 Simple things should be simple and complex things should be possible.</p>
 
 <footer>
-<a href="http://en.wikipedia.org/wiki/Alan_Kay">Alan Kay</a> from the book <cite><a href="bibliography.html#jenson-2002">The Simplicity Shift: Innovative Design Tactics in a Corporate World</a></cite> Copyright &copy; 2002 by Scott Jenson
+<a href="http://en.wikipedia.org/wiki/Alan_Kay" target="ref">Alan Kay</a> from the book <cite><a href="bibliography.html#jenson-2002">The Simplicity Shift: Innovative Design Tactics in a Corporate World</a></cite> Copyright &copy; 2002 by Scott Jenson
 </footer>
 </blockquote>
 
