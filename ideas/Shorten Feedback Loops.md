@@ -1,27 +1,62 @@
 Title: Shorten Feedback Loops
 
-These can also be thought of as learning loops. Each loop should consist of [Plan-Do-Check-Act][pdca] steps.
+As <a href="https://en.wikipedia.org/wiki/Alan_Mulally" target="ref">Alan Mulally</a> said to his team, when leading development of the Boeing 777 airliner:
 
-Practices such as continuous build integration, automated testing, software prototyping, daily stand-up meetings, and short software delivery cycles are all variations on this theme.
+> Test early and fail fast.
 
-Note that, in agile development, process feedback is considered during a retrospective, while product feedback is considered as part of a customer demo.
+The feedback loops we are shortening can also be thought of as learning loops. Each loop should consist of [Plan-Do-Check-Act][pdca] steps.
 
-In waterfall style development, it can take the entire length of your project to obtain feedback on your product and your processes. Agile, on the other hand, states as its third [principle][beck-et-al-2001-p]:
+Such loops can provide feedback on the product being built, or on the process being used. In Agile, process feedback is considered during a <a href="https://www.scrumalliance.org/community/articles/2014/april/key-elements-of-sprint-retrospective" target="ref">retrospective</a>, while product feedback is considered as part of a <a href="http://agileforall.com/how-to-give-a-great-sprint-demo/" target="ref">software demo</a>.
+
+In waterfall style development, it can take the entire length of your project to obtain feedback on your product and your processes.
+
+Agile, on the other hand, states as its third [principle][beck-et-al-2001-p]:
 
 > Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
 
-These shorter timescales allow for frequent, iterative learning about customer requirements and preferences, product successes and shortcomings, as well as processes, tools and methods.
+This practice of [delivering early and often][deliver] allows for frequent, iterative learning about customer requirements and preferences, product successes and shortcomings, as well as processes, tools and methods.
 
-[beck-et-al-2001-p]: bibliography.html#beck-et-al-2001-p
-[pdca]: plan-do-check-act.html
+When considering feedback loops, we must be careful to make a distinction between meaningful feedback and the other kind.
+
+Meaningful feedback on a software development project might include evaluation of results from the following activities:
+
+* developer reports on the progress of a task, and any problems encountered;
+* build of an entire system, including new code recently added;
+* execution of code;
+* completion of a suite of validation tests;
+* demonstration of working software;
+* disposition (approval or rejection) of working software by a customer;
+* usage of a system by representative users attempting to perform some common tasks;
+* results from completion of a coding effort, in terms of items completed; vs. items planned, and actual schedule vs. planned schedule;
+* actual usage of software by real users for real tasks.
+
+I call these items meaningful because they all should produce fairly clear and unambiguous results.
+
+Practices such as continuous build integration, automated testing, software prototyping, daily stand-up meetings, and short rapid delivery cycles are all ways to shorten loops that produce meaningful feedback.
+
+The other sort of feedback frequently sought on development projects comes from reviews of documents by management, management delegates, and/or professed experts. Before attempting to defend the significance of such reviews, you may wish to consider this text from <a href="http://en.wikipedia.org/wiki/Daniel_Kahneman" target="ref">Daniel Kahneman</a>&#8217;s 2011 book <cite><a href="bibliography.html#kahneman-2011">Thinking, Fast and Slow</a>:
+
+> In the slim volume that he later called &#8216;my disturbing little book,&#8217; [Paul] Meehl reviewed the results of 20 studies that had analyzed whether clinical predictions based on the subjective impressions of trained professionals were more accurate than statistical predictions made by combining a few scores or ratings according to a rule. In a typical study, trained counselors predicted the grades of freshmen at the end of the school year. The counselors interviewed each student for forty-five minutes. They also had access to high school grades, several aptitude tests, and a four-page personal statement. The statistical algorithm used only a fraction of this information; high school grades and one aptitude test. Nevertheless, the formula was more accurate than 11 of the 14 counselors. Meehl reported generally similar results across a variety of other forecast outcomes, including violations of parole, success in pilot training, and criminal recidivism.</p>
+
+Kahneman goes on to point out that:
+
+> Another reason for the inferiority of expert judgment is that humans are incorrigibly inconsistent in making summary judgments of complex information. When asked to evaluate the same information twice, they frequently give different answers.
+
+
+----
 
 <blockquote>
 <p>
-The most powerful learning comes from direct experience. But what happens when we can no longer observe the consequences of our actions? Herein lies the core <em>learning dilemma</em> that confronts organizations:<em> we learn best from experience but we never directly experience the consequences of many of our most important decisions.</em> The most critical decisions made in organizations have systemwide consequences that stretch over years or decades.</p>
+The most powerful learning comes from direct experience. But what happens when we can no longer observe the consequences of our actions? Herein lies the core <em>learning dilemma</em> that confronts organizations:<em> we learn best from experience but we never directly experience the consequences of many of our most important decisions.</em> </p>
 
 <footer>
-<a href="http://en.wikipedia.org/wiki/Peter_Senge">Peter Senge</a> from the book <cite><a href="bibliography.html#senge-1990">The Fifth Discipline: The Art and Practice of the Learning Organization</a></cite> Copyright &copy; 1990 by Peter M. Senge.
+<a href="http://en.wikipedia.org/wiki/Peter_Senge" target="ref">Peter Senge</a> from the book <cite><a href="bibliography.html#senge-1990">The Fifth Discipline: The Art and Practice of the Learning Organization</a></cite> Copyright &copy; 1990 by Peter M. Senge.
 </footer>
 </blockquote>
 
+
+
+[beck-et-al-2001-p]: bibliography.html#beck-et-al-2001-p
+[deliver]: deliver-early-and-often.html
+[pdca]: plan-do-check-act.html
 

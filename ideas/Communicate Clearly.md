@@ -8,7 +8,7 @@ Consider the following factors:
 
 	So make sure that your team communications are rich with important information, and light on administrivia and management-speak.
 
-2. Warmth of communication types: As Alistair Cockburn has pointed out in his <cite>Agile Software Development</cite> Chapter 3 excerpt on "[Communicating, cooperating teams][cockburn-2001]," the effectiveness of communication generally increases as the warmth of the communication method increases, where two people working together at a whiteboard is at one extreme, and a number of people exchanging written information via pieces of paper is at the other end of the spectrum.
+2. Warmth of communication types: As <a href="https://en.wikipedia.org/wiki/Alistair_Cockburn" target="ref">Alistair Cockburn</a> pointed out in his <cite>Agile Software Development</cite> Chapter 3 excerpt on "[Communicating, cooperating teams][cockburn-2001]," the effectiveness of communication generally increases as the warmth of the communication method increases, where two people working together at a whiteboard is at the warm end, and a number of people exchanging written information via pieces of paper is at the cool end of the spectrum.
 
 	It's best to use warmer methods for the most critical exchanges of information.
 

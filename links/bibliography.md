@@ -106,6 +106,10 @@
 
 [davis-2005]: bibliography.html#davis-2005
 
+[What is Design Thinking?][daylight-2014]
+
+[daylight-2014]: bibliography.html#daylight-2014
+
 [Peopleware: Productive Projects and Teams (Second Edition)][demarco-1999]
 
 [demarco-1999]: bibliography.html#demarco-1999
@@ -242,6 +246,10 @@
 
 [johnson-1992]: bibliography.html#johnson-1992
 
+[Thinking, Fast and Slow][kahneman-2011]
+
+[kahneman-2011]: bibliography.html#kahneman-2011
+
 [Product Development for the Lean Enterprise][kennedy-2003]
 
 [kennedy-2003]: bibliography.html#kennedy-2003
@@ -365,6 +373,10 @@
 [Chaos Manifesto 2013][standish-2013]
 
 [standish-2013]: bibliography.html#standish-2013
+
+[Conversational Capacity: The Secret to Building Successful Teams That Perform When the Pressure Is On][weber-2013]
+
+[weber-2013]: bibliography.html#weber-2013
 
 [The Psychology of Computer Programming][weinberg-1971]
 

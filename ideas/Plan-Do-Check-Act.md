@@ -2,28 +2,28 @@ Title: Plan-Do-Check-Act
 
 How do we learn what works?
 
-One way is to use things already proven to work.
+One way is to [use things already proven to work][reuse].
 
 But most significant development efforts will also involve some innovation. And when we try new things, they may not always work as well as we first thought they might.
 
-One proven approach to learn what works is known as the Plan-Do-Check-Act cycle, often abbreviated as [PDCA][].
+One proven approach to learn what works is known as the <a href="https://en.wikipedia.org/wiki/PDCA" target="ref">Plan-Do-Check-Act</a> cycle, often abbreviated as PDCA.
 
 It goes like this:
 
 1. **Plan** to do something (develop features, reduce defects, etc.) The plan should involve a goal, as well as a means of achieving that goal.
 2. **Do** the thing you planned.
 3. **Check** the results. Did you meet your goal? Did your plan work as expected?
-4. Take **act**ion, as needed, to accept your results into a new baseline, or to propose modifications to be input into the next Plan-Do-Check-Act (aka PDCA) cycle.
+4. Take **Act**ion, as needed, to accept your results into a new baseline, or to propose modifications to be input into the next Plan-Do-Check-Act (aka PDCA) cycle.
 
 Note that the PDCA cycle can be used on elements of a product design, but also on attempts to improve development processes. The same basic cycle applies equally well to both.
 
-The PDCA cycle can also be thought of as a compressed version of the [Scientific Method][sm].
+The PDCA cycle can also be thought of as a compressed version of the <a href="https://en.wikipedia.org/wiki/Scientific_method" target="ref">Scientific Method</a>, as indicated in the following table.
 
-<table>
+<table class="table table-bordered table-condensed table-dense">
 	<thead>
 	<tr>
-		<th>PDCA</th>
-		<th>Scientific Method</th>
+		<th>PDCA Step</th>
+		<th>Equivalent Scientific Method Step(s)</th>
 		<th>Other Terms</th>
 		<th>Example</th>
 	</tr>
@@ -36,17 +36,17 @@ The PDCA cycle can also be thought of as a compressed version of the [Scientific
 		<td>How can our users best navigate through our new web app?
 	</tr>
 	<tr>
-		<th>Conduct Background Research</td>
+		<td>Conduct Background Research</td>
 		<td>See what others have done in similar circumstances</td>
 		<td>Review other successful web apps to see what they have done</td>
 	</tr>
 	<tr>
-		<th>Formulate a Hypothesis</td>
+		<td>Formulate a Hypothesis</td>
 		<td>Propose a Design</td>
 		<td>A Main Menu with one level of drop-downs</td>
 	</tr>
 	<tr>
-		<th>Design an Experiment</td>
+		<td>Design an Experiment</td>
 		<td>Construct a Test to validate or disprove the hypethesis</td>
 		<td>Let's perform a usability test and ask the users to perform these five key tasks</td>
 	</tr>
@@ -73,6 +73,8 @@ The PDCA cycle can also be thought of as a compressed version of the [Scientific
 
 Note that the typical waterfall cycle of requirements-design-code-test is not a healthy adaptation of the PDCA cycle, because all testing is generally left to the end, without any provision to Act on the learnings gained from the tests. This is one reason why projects organized like this tend to finish late or fail altogether.
 
+Note also that simply trying the first thing that pops into your head, and then proceeding with it if it's not an immediate disaster, is not an example of plan-do-check-act.
+
 Let's review some important success factors for each step of this cycle.
 
 ## Plan
@@ -85,17 +87,17 @@ For each area of innovation, you must allow enough time to conduct one or more e
 
 Note that this step requires the project leaders to admit that they don't already know everything, and further note that many organizational environments view such an admission as a sign of weakness or inadequacy, and thus discourage this process from ever getting started.
 
+As part of the plan step, it is important to formulate a testable hypothesis that can be proven or disproven.
+
+Note that the plan-do-check-act cycle can be used to evaluate [alternatives][].
+
 ## Do
 
 You must test in such a way that you can clearly see how well your plan is working.
 
-As [Wernher Von Braun][wvb], famed rocket scientist, once said:
+As <a href="http://en.wikipedia.org/wiki/Wernher_Von_Braun" target="ref">Wernher Von Braun</a>, famed rocket scientist, once said:
 
 > One test result is worth one thousand expert opinions.
-
-And, as Alan Mulally said to his team, when leading development of the Boeing 777 airliner:
-
-> Test early and fail fast.
 
 ## Check
 
@@ -109,10 +111,9 @@ If a test was unsuccessful, then you will need to go back to the drawing board, 
 
 If you've conducted multiple tests in parallel (as in a Design Thinking exercise), then you may wish to combine the elements from multiple prototypes into a new hybrid design that tries to incorporate the best elements of multiple alternatives.
 
+[alternatives]: consider-alternatives.html
 
-[pdca]: https://en.wikipedia.org/wiki/PDCA
-[sm]: https://en.wikipedia.org/wiki/Scientific_method
-[wvb]: http://en.wikipedia.org/wiki/Wernher_Von_Braun
+[reuse]: use-things-already-known-to-work.html
 
 
 

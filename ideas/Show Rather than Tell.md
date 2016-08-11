@@ -8,7 +8,7 @@ This is not to say that words don't have their place. But interactive dialogue a
 
 Frequent interactive demonstrations of working software still in development are particularly important as a means of showing your customers what you are up to. Customers are never more attentive and engaged than when they can see working software in action, and yet still have a chance to provide feedback that will either validate or help further refine the product.
 
-Note that such demos require you to practice "iterative development," possibly in addition to "incremental development." Many authors and consultants blur the distinctions between these two different things, but Alistair Cockburn in particular makes the point that [they are different][cockburn-2007], even if they may both involve software development done in frequent, short sprints.
+Note that such demos require you to practice "iterative development," possibly in addition to "incremental development." Many authors and consultants blur the distinctions between these two different things, but <a href="https://en.wikipedia.org/wiki/Alistair_Cockburn" target="ref">Alistair Cockburn</a> in particular makes the point that [they are different][cockburn-2007], even if they may both involve software development done in frequent, short sprints.
 
 Incremental development means that the completed product is delivered in smaller increments, and is really the result of [decomposing][decomposition] the overall product delivery into a number of smaller deliveries.
 
@@ -21,7 +21,7 @@ Iterative development, on the other hand, means that a partially completed featu
 It&#8217;s really hard to design products by focus groups. A lot of times, people don&#8217;t know what they want until you show it to them.</p>
 
 <footer>
-<a href="http://en.wikipedia.org/wiki/Steve_Jobs">Steve Jobs</a> from the article <cite><a href="bibliography.html#jobs-1998">Business Week</a></cite> (May 25, 1998)
+<a href="http://en.wikipedia.org/wiki/Steve_Jobs" target="ref">Steve Jobs</a> from the article <cite><a href="bibliography.html#jobs-1998">Business Week</a></cite> (May 25, 1998)
 </footer>
 </blockquote>
 
