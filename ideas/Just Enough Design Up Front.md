@@ -1,5 +1,10 @@
 Title: Just Enough Design Up Front
 
+Index: design
+Index: JEDUF
+
+Body:
+
 When considering the question of how much design should be completed before coding starts, there are several factors to consider.
 
 1. Design changes are generally harder and more expensive to make after software code has been written.

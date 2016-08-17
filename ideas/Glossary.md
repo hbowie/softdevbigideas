@@ -1,5 +1,9 @@
 Title:  Glossary
 
+Index: glossary
+Index: dictionary
+Index: definitions
+
 Body:
 
 Some guidance on what I mean by a few terms that might otherwise cause some confusion. For help with other terms not appearing below, see the [Alphabetical Index](alphabetical-index.html).

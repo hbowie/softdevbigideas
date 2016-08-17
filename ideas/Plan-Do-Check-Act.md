@@ -1,5 +1,15 @@
 Title: Plan-Do-Check-Act
 
+Index: design thinking
+Index: experiment
+Index: PDCA
+Index: plan-do-check-act
+Index: scientific method (https://en.wikipedia.org/wiki/Scientific_method)
+Index: Von Braun, Wernher
+Index: waterfall
+
+Body:
+
 How do we learn what works?
 
 One way is to [use things already proven to work][reuse].
@@ -47,7 +57,7 @@ The PDCA cycle can also be thought of as a compressed version of the <a href="ht
 	</tr>
 	<tr>
 		<td>Design an Experiment</td>
-		<td>Construct a Test to validate or disprove the hypethesis</td>
+		<td>Construct a Test to validate or disprove the hypothesis</td>
 		<td>Let's perform a usability test and ask the users to perform these five key tasks</td>
 	</tr>
 	<tr>

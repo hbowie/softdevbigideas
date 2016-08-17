@@ -1,5 +1,9 @@
 Title: Software Development is a Craft
 
+Index: craftsmanship
+
+Body:
+
 Every once in a while, someone gets the bright idea that the job of a software developer can be eliminated through automation.
 
 The fundamental problem with this idea is that software developers are already continuously [automating the repetitive tasks][automate] within their jobs through the creation of new and better tools, so that the tasks remaining to the developer generally involve a significant degree of creativity and craftsmanship.

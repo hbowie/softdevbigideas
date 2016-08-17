@@ -1,5 +1,18 @@
 Title:  Software Development is a Balancing Act
 
+Index: absolutes
+Index: balance
+Index: Boehm, Barry
+Index: Davis, Alan M.
+Index: extremism
+Index: Goldwater, Barry
+Index: polarities
+Index: Polarity Management (http://www.polaritypartnerships.com/)
+Index: risk management
+Index: Robertson, Suzanne and James
+Index: sacred cows
+Index: Turner, Richard
+
 Body:
 
 All software development involves trade-offs. This is equally true whether we're talking about development processes or software products. Trying to adhere to absolutes -- or to maximize one quality or performance factor while ignoring others -- will generally require you to pretend that these trade-offs don't exist, and sticking your head in this sort of sand is never a good idea.

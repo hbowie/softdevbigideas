@@ -1,5 +1,9 @@
 Title: Software Developers are Always Growing
 
+Index: growth
+
+Body:
+
 Software developers are always learning new languages, frameworks, techniques and practices, and they are always getting better at those they have already started to learn. Such continual growth is made possible, as well as necessary, by the unremitting pace of growth in the field. In essence, there is no such thing as staying in the same place for very long -- if you are not growing, then you are falling behind.
 
 This idea of continual growth may at first sound like an empty platitude, but it actually leads directly to a number of critical insights.
@@ -14,7 +18,7 @@ Fourth, and perhaps most profoundly, the implication for an organization is that
 
 In order to ensure that developers are growing, it's important for leadership to allow them adequate time to explore, learn and try new things, which means finding an appropriate balance between short-term productivity and longer terms goals of organizational growth. In general, it's reasonable to expect that developers will spend 5 - 20% of their time -- day after day, week after week -- in some form of learning not directly required by their immediate job assignments.
 
-Another important element of developer growth is to [form teams][teams] with diverse skill sets and levels of expertise, so that developers can learn from one another as part of their work assignments. 
+Another important element of developer growth is to [form teams][teams] with diverse skill sets and levels of expertise, so that developers can learn from one another as part of their work assignments.
 
 
 [dreyfus]: https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition

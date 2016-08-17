@@ -1,5 +1,9 @@
 Title: A Deliberate Approach to Decision-Making
 
+Index: decisions
+
+Body:
+
 I've said that software development can be viewed as a journey of discovery, but it can also be viewed as a series of decisions to be made.
 
 As you consider this stream of decisions on your project, it's important to keep a few things in mind.

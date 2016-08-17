@@ -1,6 +1,11 @@
 Title:  Cohesion
 
-Tags:   1) Fundamental
+Index: Brooks, Fred
+Index: cohesion
+Index: Community of Practice (https://en.wikipedia.org/wiki/Community_of_practice)
+Index: CoP (https://en.wikipedia.org/wiki/Community_of_practice)
+Index: Jobs, Steve
+Index: guild
 
 Body:
 

@@ -1,5 +1,9 @@
 Title: Entrepreneurial Leadership
 
+Index: entrepreneurial
+
+Body:
+
 The <a href="https://en.wikipedia.org/wiki/Entrepreneurial_leadership" target="ref">Wikipedia article on Entrepreneurial Leadership</a> defines the attributes of an entrepreneurial leader in this way:
 
 > The entrepreneurial leader will work within a formalized organizational structure, but use the approaches normally expected of an entrepreneur to identify opportunities to gain advantage. They also have the ability to then manage change to deliver that advantage. Key to this is the effective management of risk rather than the minimization of risk often sought within corporate environments. The entrepreneurial leader must have the ability to learn fast and within environments of ambiguity and change, while providing clarity and coherence for those around them.
@@ -28,12 +32,12 @@ Let's look at each of these three areas in more detail.
 
 * **Autonomy** vs. Dependency: A software development team and its leader should be able to make most important decisions without constantly having to go back to a Program Management Office or a project Steering Committee for direction.
 
-Note that for a leader to exercise these three traits -- Greatness, Courage and Autonomy -- he or she must be willing to engage meaningfully with the development team, and not just stay comfortably above the fray. 
+Note that for a leader to exercise these three traits -- Greatness, Courage and Autonomy -- he or she must be willing to engage meaningfully with the development team, and not just stay comfortably above the fray.
 
 <a href="https://www.lean.org/LeanPost/Author.cfm?LeanPostAuthorId=22" target="ref">Morgan</a> and <a href="http://www.jeffliker.com" target="ref">Liker</a> describe the leader's role this way, in their book the book <cite><a href="bibliography.html#morgan-liker-2006">The Toyota Product Development System: Integrating People, Process and Technology</a></cite>:
 
 > Unfortunately, many modern-day engineering managers believe their role in an organization is to attend meetings, keep abreast of the latest organizational policies, make the tough decisions about the big problems in the company, and generally look upward and outward. The philosophy seems to be that a good manager is good at delegating, and good engineers should work autonomously. </p>
-> 
+>
 > In the United States, &#8216;nosing around&#8217; is being a busy body. It is a form of micromanagement. An effective manager should delegate and then stay out of the engineer&#8217;s way. For a Toyota manager, this is abdicating responsibility. How can you consult and advise if you do not know what is going on? If you have no more information about what is going on across the organization than any other engineer, then what is your value?</p>
 
 <a href="https://en.wikipedia.org/wiki/Rands"  target="ref">Michael Lopp</a> says something similar in his book <cite><a href="bibliography.html#lopp-2007">Managing Humans: Biting and Humorous Tales of a Software Engineering Manager</a></cite>

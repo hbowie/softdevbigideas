@@ -1,5 +1,11 @@
 Title:  Self-Organizing Teams
 
+Index: organization
+Index: team organization
+Index: self-organizing
+
+Body:
+
 A certain amount of hierarchical control is necessary in almost every development project. After all, some sort of direction must come from above in order to start and direct a development effort. And, by its very nature, the process of decomposition is itself hierarchical: large items on the top are decomposed into smaller items below.
 
 Traditional project management approaches are also hierarchical in nature. Project managers assign work to developers, and developers report status to project managers. Information flows up and down the tree.

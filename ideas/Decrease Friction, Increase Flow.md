@@ -1,5 +1,12 @@
 Title: Decrease Friction, Increase Flow
 
+Index: flow
+Index: friction
+Index: value
+Index: waste
+
+Body:
+
 Do your developers feel like they are doing good work each day and going home with a solid feeling of accomplishment? Or do they feel like they're spending too much time spinning their wheels?
 
 In other words, are most of your developers' actions adding value to the product being developed, or are they working on tasks that take up their time, but add no real value?
@@ -17,11 +24,11 @@ Here are some common organizational impediments that can slow the flow of work t
 * Dependence on outside organizations that are resistant to change and modernization;
 * Attachment to impediments, confusion about which actions are adding value, belief that hard work struggling against impediments confers some sort of honor or nobility.
 
-Most organizations become stagnant and bureaucratic over time, spending more energy defending their current structures than they do on changing and improving them. 
+Most organizations become stagnant and bureaucratic over time, spending more energy defending their current structures than they do on changing and improving them.
 
-Leadership will generally be required to keep your organization progressing forward. 
+Leadership will generally be required to keep your organization progressing forward.
 
-Note that [delivering early and often][deliver] can help to [make these sorts of problems more visible][problems], since long cycle times can often serve to hide these sorts of issues. 
+Note that [delivering early and often][deliver] can help to [make these sorts of problems more visible][problems], since long cycle times can often serve to hide these sorts of issues.
 
 
 

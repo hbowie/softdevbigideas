@@ -6,7 +6,9 @@ Tags:   One or more tags, separated by commas
 
 Link:   http://anyurl.com
 
-Body:   
- 
+Index:  One or more index terms
+
+Body:
+
 The body of the note
 

@@ -1,5 +1,9 @@
 Title: Tailor Thoughtfully
 
+Index: tailoring
+
+Body:
+
 Many teams start off with some sort of cookbook approach to their development processes: [Scrum][], or [SAFe][] or perhaps some sort of proprietary methodology, such as [Macroscope][].
 
 While all of these have much to offer, each project is somewhat unique, and so it pays to thoughtfully tailor your prescribed approach to fit the needs of your particular endeavor.

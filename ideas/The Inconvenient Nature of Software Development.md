@@ -1,8 +1,18 @@
 Title: The Inconvenient Nature of Software Development
 
+Index: adaptive
+Index: Austin, Robert D.
+Index: inconvenient
+Index: models
+Index: Newtonian Physics
+Index: planning
+Index: predictive
+
+Body:
+
 Software development is often viewed from two completely different mindsets.
 
-Let's consider first what we might call the Predictive Planning Model.
+Let's consider first the assumptions made by what we might call...
 
 ### The Predictive Planning Model
 
@@ -42,7 +52,7 @@ Wouldn't it be nice if they were actually true?
 
 However, many view software development from a completely different mindset.
 
-Let's call this one the Adaptive Model.
+Let's call this one...
 
 ### The Adaptive Model
 

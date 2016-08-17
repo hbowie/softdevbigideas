@@ -1,5 +1,9 @@
 Title: Deliver Early and Often
 
+Index: deliver
+
+Body:
+
 The first [Principle behind the Agile Manifesto][beck-et-al-2001-p] states
 
 > Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.

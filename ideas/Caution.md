@@ -1,3 +1,7 @@
 Title: Caution
 
-This section contains a few important cautionary notes. 
+Index: caution
+
+Body:
+
+This section contains a few important cautionary notes.

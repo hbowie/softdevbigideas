@@ -1,5 +1,9 @@
 Title: Integrate Early and Often
 
+Index: integration
+
+Body:
+
 Although developers can and should [decompose][] large problems into a series of smaller ones, at some point they must integrate everything back into a single working whole.
 
 Some experts recommend Continuous Integration ("CI"), but at the very least we can say that development teams should integrate early and often.

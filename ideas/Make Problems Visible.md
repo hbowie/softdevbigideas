@@ -1,5 +1,9 @@
 Title: Make Problems Visible
 
+Index: problems
+
+Body:
+
 Any software development project can be thought of as a series of problems to be solved. [Planning][plan] can help a [team][teams] anticipate problems, but the discovery and solving of problems is a process that continues over the life of the project.
 
 As new problems are discovered, it's best to avoid the following sorts of dysfunctional behavior:

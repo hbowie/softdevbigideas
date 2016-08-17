@@ -1,5 +1,10 @@
 Title: Plan Thoughtfully But Be Prepared for Change
 
+Index: change
+Index: planning
+
+Body:
+
 <blockquote>
 <p>
 In preparing for battle, I have always found that plans are useless but planning is indispensable.</p>

@@ -1,5 +1,14 @@
 Title: Create Value for Customers
 
+Index: Borenstein, Nathaniel
+Index: customer
+Index: Gualtieri, Mike
+Index: Heckel, Paul
+Index: usability
+Index: value
+
+Body:
+
 Developers must be focused, not just on writing code, but on creating value for their customers.
 
 Let me clarify what I mean by this injunction.
@@ -20,11 +29,11 @@ Let me clarify what I mean by this injunction.
 
 * Although value can be discussed without reference to monetary measures, a discussion of how much a customer might be willing to pay for an item is ultimately necessary to give a discussion of value some grounding in reality.
 
-It is not enough to develop software that reliably performs a given task: the software must also be easy and reasonably pleasant to use.  This is more than just a matter of "gussying up" the user interface -- the developer must understand how his users think, and communicate to them using words and graphics that are consistent and effective. Most fundamentally, the software must be built around a mental model with which the user is already familiar, or that seems intuitive once learned.
+Value means more than just the ability to reliably perform  a given task: the software must also be easy and reasonably pleasant to use.  This is more than just a matter of "gussying up" the user interface -- the developer must understand how his users think, and communicate to them using words and graphics that are consistent and effective. Most fundamentally, the software must be built around a mental model with which the user is already familiar, or that seems intuitive once learned.
 
 Although developers need to form ideas about what will be useful to a set of users before developing software, those ideas can never be fully validated without actually developing the software and seeing what real users actually do with it. This is one reason why <a href="https://en.wikipedia.org/wiki/Usability_testing" target="ref">usability testing</a> is so important.
 
-For more on this topic, see the Pagan Tuna post, &ldquo;<a href="http://www.pagantuna.com/posts/broken-field-running.html" target="ref">Broken FIeld Running</a>.&rdquo;
+For more on this topic, see the Pagan Tuna post, &ldquo;<a href="http://www.pagantuna.com/posts/broken-field-running.html" target="ref">Broken Field Running</a>.&rdquo;
 
 ----
 

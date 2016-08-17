@@ -1,5 +1,9 @@
 Title: Always Remember that Software Development is an Adventure
 
+Index: adventure
+
+Body:
+
 There are a great many who have tried to turn software development into a repeatable process. However each new project is like a new book from a favorite author: you expect some recurring elements, but if there's nothing new, then you have to wonder why it's worth the effort. So there is always an element of mystery, an element of surprise, in any good software development project -- if there isn't, then you're probably doing it wrong!
 
 

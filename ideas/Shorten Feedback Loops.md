@@ -1,5 +1,15 @@
 Title: Shorten Feedback Loops
 
+Index: demos
+Index: feedback
+Index: learning loops
+Index: retrospective (https://www.scrumalliance.org/community/articles/2014/april/key-elements-of-sprint-retrospective)
+Index: retrospective (https://www.scrumalliance.org/community/articles/2014/april/key-elements-of-sprint-retrospective)
+Index: Senge, Peter
+Index: Agile Manifesto
+
+Body:
+
 As <a href="https://en.wikipedia.org/wiki/Alan_Mulally" target="ref">Alan Mulally</a> said to his team, when leading development of the Boeing 777 airliner:
 
 > Test early and fail fast.

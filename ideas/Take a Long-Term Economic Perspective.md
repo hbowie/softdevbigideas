@@ -1,5 +1,9 @@
 Title: Take a Long-Term Economic Perspective
 
+Index: economic
+
+Body:
+
 Creating a new piece of software, or adding a new feature to some existing software, can often be done fairly quickly and inexpensively. And so the benefits of a new feature often seem to easily outweigh the costs of development.
 
 In the grander scheme of things, however, all of the following economic factors need to be considered.

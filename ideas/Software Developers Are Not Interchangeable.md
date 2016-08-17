@@ -1,5 +1,9 @@
 Title: Software Developers Are Not Interchangeable
 
+Index: interchangeable
+
+Body:
+
 Aptitude, skills and experience all make a difference.
 
 This is one reason why, as Fred Brooks pointed out long ago in the "[Mythical Man-Month][brooks-1975]," estimates for software development can be entirely misleading.

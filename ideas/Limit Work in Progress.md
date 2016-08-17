@@ -1,5 +1,10 @@
 Title: Limit Work in Progress
 
+Index: WIP
+Index: work in progress
+
+Body:
+
 In many software development environments, new requests seem to continually arrive in an uncontrolled fashion. The result can often be that work on the latest request interrupts completion of work that arrived earlier, so that all requests tend to take longer to complete, and the total amount of work-in-progress (WIP) increases, making it exponentially more difficult to manage.
 
 Such an uncontrolled intake process also tends to reduce overall developer productivity, since developers spend more time task-switching, and less time actually doing productive development.

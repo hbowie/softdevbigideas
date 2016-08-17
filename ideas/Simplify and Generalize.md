@@ -1,5 +1,18 @@
 Title: Simplify and Generalize
 
+Index: Constantine, Larry
+Index: Einstein, Albert
+Index: generalize
+Index: generalize
+Index: Holmes, Oliver Wendell
+Index: Jenson, Scott
+Index: Jobs, Steve
+Index: Kay, Alan
+Index: Lockwood, Lucy
+Index: simplify
+
+Body:
+
 Part of the key to any successful software development effort is to achieve an appropriate degree of generalization in the design.
 
 As a developer considers different expectations and desires for the software's behavior, the potential complexity of the software starts to escalate rapidly.

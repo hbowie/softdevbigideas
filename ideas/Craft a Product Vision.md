@@ -1,5 +1,10 @@
 Title: Craft a Product Vision
 
+Index: product vision (https://www.scrumalliance.org/community/articles/2009/january/the-product-vision)
+Index: vision (https://www.scrumalliance.org/community/articles/2009/january/the-product-vision)
+
+Body:
+
 Make sure you have a well-defined [vision][] to start with. What are you trying to accomplish? What are the key benefits to be delivered to stakeholders? Are there certain critical dates you must hit, in order to achieve benefits realization? Your vision should be succinct enough to be read in five minutes or so, but should be concrete enough to provide real guidance to the project team about what moves you towards the vision vs. what moves you away from it, or simply leaves you treading water.
 
 Once you have a draft vision, interview key stakeholders individually and ask them what the project visions means to them. Make sure you receive consistent answers. If you don't, then you need to get the group back together to iron out inconsistencies and sharpen your vision.

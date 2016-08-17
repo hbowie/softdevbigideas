@@ -1,5 +1,12 @@
 Title:  Introduction
 
+Index: Introduction
+Index: Lewis, C. S.
+Index: Roosevelt, Eleanor
+Index: Yourdon, Edward
+
+Body:
+
 I have been practicing software development for more than four decades now, and over that time, in addition to writing a lot of code, and being part of numerous projects in varying capacities, I've done a fair amount of reading on the topic. In fact, I have shelves full of books on the subject, starting with classics like <cite>[The Mythical Man Month][brooks-1975]</cite>, proceeding through the CMM period and then on into the Lean/Agile years.
 
 And, of course, the number of new words written on the topic increases daily.

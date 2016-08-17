@@ -1,5 +1,10 @@
 Title: Configuration Management
 
+Index: configuration management (https://en.wikipedia.org/wiki/Configuration_management)
+Index: CM (https://en.wikipedia.org/wiki/Configuration_management)
+
+Body:
+
 As with many safety and quality practices, configuration management is often most visible by its absence.
 
 As in...

@@ -1,4 +1,17 @@
-Title:  Decomposition
+Title: Decomposition
+
+Index: Davis, Alan M.
+Index: decomposition
+Index: epic (http://www.scaledagileframework.com/epic/)
+Index: feature (https://www.symphonious.net/2006/05/18/features-vs-stories/)
+Index: MVC (https://en.wikipedia.org/wiki/Model–view–controller)
+Index: planning
+Index: user story (https://www.mountaingoatsoftware.com/agile/user-stories)
+Index: WBS (https://en.wikipedia.org/wiki/Work_breakdown_structure)
+Index: work breakdown structure (https://en.wikipedia.org/wiki/Work_breakdown_structure)
+Index: Wright Brothers
+
+Body:
 
 Large and complex things should be broken down into smaller, more manageable things. This can be done progressively, and recursively, at multiple levels.
 

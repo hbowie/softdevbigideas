@@ -1,5 +1,13 @@
 Title: Consider Alternatives
 
+Index: alternatives
+Index: front-loading (http://www.lean.org/LeanPost/Posting.cfm?LeanPostId=286)
+Index: Liker, Jeffrey K.
+Index: set-based concurrent engineering (https://www.lean.org/lexicon/set-based-concurrent-engineering)
+Index: Davis, Alan M.
+
+Body:
+
 Developers are often quick to use designs and patterns they are already familiar with, to try the first idea that occurs to them, and to persist with things that seem to be working.
 
 However, the resulting product can often be made stronger through judicious consideration of alternatives early in the development process.

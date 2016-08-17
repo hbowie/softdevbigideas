@@ -1,12 +1,16 @@
 Title: Seek First to Understand Your Customer
 
-One of the great myths of software development is that we can ask our customers to tell us what they want, that they will write these items down for us as requirements, and we can then successfully build software based on those documents. 
+Index: customer
+
+Body:
+
+One of the great myths of software development is that we can ask our customers to tell us what they want, that they will write these items down for us as requirements, and we can then successfully build software based on those documents.
 
 <a href="http://en.wikipedia.org/wiki/Watts_Humphrey" target="ref">Watts Humphrey</a>, the father of the Software <a href="http://en.wikipedia.org/wiki/Capability_Maturity_Model" target="ref">CMM</a>, puts it this way, in his seminal work, <cite>[Managing the Software Process][humphrey-1989]</cite>:
 
 > A common misperception is that we must start with firm requirements. There is a widespread but fallacious view that requirements are the customers' job and that development should not start until they are explicitly defined. The fact is that the demand for firm and unchanging requirements is mostly wishful thinking....
 
-<a href="http://en.wikipedia.org/wiki/Henry_Ford" target="ref">Henry Ford</a> expressed a similar idea a bit more succinctly when he famously said: 
+<a href="http://en.wikipedia.org/wiki/Henry_Ford" target="ref">Henry Ford</a> expressed a similar idea a bit more succinctly when he famously said:
 
 > If I had asked people what they wanted, they would have said faster horses.
 
@@ -40,17 +44,17 @@ Documenting customer requirements is not simply a passive task, but a creative o
 
 Taking all of this wisdom into account, here are what I would consider the key points to keep in mind about requirements.
 
-1. Software requirements must be grounded in a solid understanding of your customers and the way they see the world. 
+1. Software requirements must be grounded in a solid understanding of your customers and the way they see the world.
 
-2. Requirements analysis is a creative process that discovers or even invents new approaches to stating and addressing your customer's wants and needs. 
+2. Requirements analysis is a creative process that discovers or even invents new approaches to stating and addressing your customer's wants and needs.
 
-3. Requirements prioritization is essential, to provide focus to both your elicitation and delivery: trying to discover all possible requirements is an endless job, and creating a design that gives equal weight to all requirements is a recipe for disaster. 
+3. Requirements prioritization is essential, to provide focus to both your elicitation and delivery: trying to discover all possible requirements is an endless job, and creating a design that gives equal weight to all requirements is a recipe for disaster.
 
-4. Requirements are dynamic. Change is inevitable, and the best way to cope with this reality is to try to discern the difference between requirements that are likely to be fundamental and unchanging vs. those that are likely to be subject to the latest whims of management and users.   
+4. Requirements are dynamic. Change is inevitable, and the best way to cope with this reality is to try to discern the difference between requirements that are likely to be fundamental and unchanging vs. those that are likely to be subject to the latest whims of management and users.
 
-5. Requirements validation requires us to show our customers what we propose to give them. 
+5. Requirements validation requires us to show our customers what we propose to give them.
 
-6. A certain degree of risk is inherent in the process, and your best approach is not to try to avoid risk altogether, but to try to keep the degree of risk within acceptable levels, while also being mindful of cost and schedule. 
+6. A certain degree of risk is inherent in the process, and your best approach is not to try to avoid risk altogether, but to try to keep the degree of risk within acceptable levels, while also being mindful of cost and schedule.
 
 
 [borenstein-1991]: bibliography.html#borenstein-1991

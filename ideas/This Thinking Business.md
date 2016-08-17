@@ -1,5 +1,14 @@
 Title: This Thinking Business
 
+Index: Feynman, Richard
+Index: Hammett, Dashiell
+Index: Innes, Michael
+Index: mysteries
+Index: thinking
+Index: Wright Brothers
+
+Body:
+
 My intention in identifying the Big Ideas in Software Development is to provide food for thought -- but thought will still be necessary in order to apply these ideas fruitfully to any particular software development effort.
 
 Unfortunately, I've been on too many projects that reminded me of this bit of dialogue from <a href="https://en.wikipedia.org/wiki/J._I._M._Stewart" target="ref">Michael Innes</a>, British detective author, in his book <cite>[Seven Suspects][innes-1936]</cite>, written in 1936:

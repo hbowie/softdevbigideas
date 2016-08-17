@@ -1,5 +1,13 @@
 Title: Use Things Already Known to Work
 
+Index: design patterns (https://en.wikipedia.org/wiki/Software_design_pattern)
+Index: Don't Repeat Yourself (https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+Index: DRY (https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+Index: Kovitz, Benjamin
+Index: reuse
+
+Body:
+
 In other words, don't reinvent the wheel.
 
 This can also be thought of as reuse, or as part of the principle "Don't Repeat Yourself" (DRY). But there are a number of different ways to state this.
@@ -14,7 +22,7 @@ Use of things already known to work is a great way to increase both productivity
 
 Note that this idea can be applied at any phase within a project.
 
-At the governance stage, this idea can be applied by using existing software rather than developing new software, including the idea of buying software rather than building new software.
+At the governance stage, this idea can be applied by using existing software rather than developing something new, including the idea of buying software rather than building new software.
 
 At the design stage, this idea can be applied by making use of existing application frameworks, component packages and <a href="https://en.wikipedia.org/wiki/Software_design_pattern" target="ref">design patterns</a>, rather than having development teams "roll their own" solutions.
 
@@ -22,7 +30,7 @@ And at the execution stage, this idea can be applied by ensuring that data or lo
 
 It's worth noting that developers tend to underestimate the effort that can be saved by using something already available and proven, often preferring to write something themselves instead. But while it may take little time to write something new, testing and debugging that new thing can consume much greater amounts of time, cause nagging quality problems, and delay schedules when bugs suddenly pop up at the worst possible moment.
 
-As with [quality][], it often requires some forethought and extra effort to induce developers to apply this idea, since the natural rewards for developing new user-requested features are often more immediate and more satisfying than the rewards for selecting or creating or incorporating reusable resources. 
+As with [quality][], it often requires some forethought and extra effort to induce developers to apply this idea, since the natural rewards for developing new user-requested features are often more immediate and more satisfying than the rewards for selecting or creating or incorporating reusable resources.
 
 ----
 

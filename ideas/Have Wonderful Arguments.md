@@ -1,5 +1,17 @@
 Title: Have Wonderful Arguments
 
+Index: arguments
+Index: Conversational Capacity
+Index: debate
+Index: Jobs, Steve
+Index: Mossberg, Walt
+Index: Nirvana antipattern
+Index: Watson, Thomas J. Jr.
+Index: Weber, Craig
+Index: micromanagement
+
+Body:
+
 I'm not suggesting that your development team or your leadership team should argue about everything: that certainly wouldn't be productive.
 
 On the other hand, if you're not having spirited debates about at least some topics, then you're probably not working as effectively as you could be. One set of authors described this as the "Nirvana AntiPattern":
@@ -34,6 +46,12 @@ Author and consultant <a href="http://www.weberconsultinggroup.net/craig-weber/"
 >	* *Inquire* into the views of others and actively explore their thinking, especially when their perspectives differ from your own.
 
 His point is not to formalize your discussions along these lines, but to check periodically that you're not leaving out any of these key elements.
+
+Note that the role of leadership in these sorts of discussions can sometimes be controversial. In order to scrupulously avoid any possibility of intimidation, coercion or micromanagement, some people assert that leaders should not contribute to or engage in these sorts of passionate discussions. However, this position seems to assume that your leaders know so little about the business that they have nothing worthwhile to contribute. This position also leaves open the question of who makes a final decision, in the absence of group consensus.
+
+There certainly may be cases where particular managers are so clueless, or so overbearing, that they need to be prohibited from inclusion in these sorts of discussions, but in my opinion this sort of policy should not be enshrined as an organizational norm.
+
+I believe it is far better to have leaders and others passionately engaged in discussions about important decisions, and to have both able to listen to others' opinions and change their minds when appropriate.
 
 ----
 
