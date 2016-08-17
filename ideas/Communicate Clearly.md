@@ -1,11 +1,12 @@
 Title: Communicate Clearly
 
 Index: Cockburn, Alistair
+Index: Markdown
+Index: Mulally, Alan
 Index: communication
 Index: documentation
 Index: email
 Index: lightweight markup
-Index: Markdown
 Index: signal-to-noise ratio
 Index: wikis
 
@@ -31,7 +32,15 @@ Consider the following factors:
 
 6. Effective use of E-mail: this can be an effective means of communication, but it is often used poorly. For more on this topic, see the Pagan Tuna post, &ldquo;<a href="http://www.pagantuna.com/posts/taming-the-e-mail-monster.html" target="ref">Taming the E–mail Monster</a>.&rdquo;
 
+----
+
+<blockquote>
+<p>Share early and share often.</p>
+<footer><a href="http://en.wikipedia.org/wiki/Alan_Mulally" target="ref">Alan Mulally</a> from the book <cite><a href="bibliography.html#poppendieck-2006">Implementing Lean Software Development: From Concept to Cash</a></cite> (2006)</footer>
+</blockquote>
+
 [cockburn-2001]: bibliography#cockburn-2001
+
 
 
 

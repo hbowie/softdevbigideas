@@ -2,13 +2,12 @@ Title: Simplify and Generalize
 
 Index: Constantine, Larry
 Index: Einstein, Albert
-Index: generalize
-Index: generalize
 Index: Holmes, Oliver Wendell
 Index: Jenson, Scott
 Index: Jobs, Steve
 Index: Kay, Alan
 Index: Lockwood, Lucy
+Index: generalize
 Index: simplify
 
 Body:

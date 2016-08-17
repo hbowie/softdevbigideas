@@ -1,6 +1,18 @@
 Title: Entrepreneurial Leadership
 
 Index: entrepreneurial
+Index: Block, Peter
+index: greatness
+Index: courage
+Index: autonomy
+Index: Liker, Jeffrey K.
+Index: Morgan, James M.
+Index: micromanagement
+Index: Toyota
+Index: Lopp, Michael
+Index: delegation
+Index: Ive, Jony
+Index: Parker, Ian
 
 Body:
 

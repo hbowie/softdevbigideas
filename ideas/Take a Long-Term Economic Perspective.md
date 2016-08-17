@@ -18,7 +18,7 @@ In the grander scheme of things, however, all of the following economic factors 
 
 5. Developing unique software for a particular customer is generally only economically beneficial if that software genuinely aids that customer in differentiating themselves from their competitors in the marketplace.
 
-6. While features that are fashioned carefully to support existing business processes are often requested and appreciated by current customers, in the long term such software can be costly to maintain, if it must be reworked each time processes and customers and business trends change. It is often much more cost-effective to [simplify and generalize][simplify] the design so that can it be used more flexibly by a broader range of customers across a wider spectrum of business processes.
+6. While features that are fashioned carefully to support existing business processes are often requested and appreciated by current customers, in the long term such software can be costly to maintain, if it must be reworked each time processes and customers and business trends change. It is often much more cost-effective to [simplify and generalize][simplify] the design so that it can be used more flexibly by a broader range of customers across a wider spectrum of business processes.
 
 7. The costs of supporting a piece of software over its entire life span are often much greater than the initial development costs. What often gets ignored are the costs of sustaining a set of features over a decade or two or three, including data storage, backup and archival costs, as well as the cost of maintaining the software.
 
@@ -28,7 +28,7 @@ In the grander scheme of things, however, all of the following economic factors 
 
 10. As new features are added to a product, the overall complexity of the product increases, which tends to drive up maintenance costs, as it becomes more difficult to add additional features, or make additional changes. Such complexity also increases the cost of the eventual software replacement.
 
-11. Developing a new class of software that is in its early stages is often more rewarding than continued refinement of an older piece of software that has been around for years if not decades. For example, developing a new client for mobile devices might be more financially advantageous than further refinements to a back-office application that is already working well.
+11. Developing a new class of software that is in its early stages is often more rewarding than continued refinement of an older piece of software that has been around for years if not decades. For example, developing a new client for mobile devices might be more financially advantageous than further refinements to a back-office application that is already working reasonably well.
 
 12. Acquiring commercial or open-source software developed to be used by a broad range of customers with similar interests can often be more cost-effective than developing new software for a specific customer.
 

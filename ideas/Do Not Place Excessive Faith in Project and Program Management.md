@@ -22,7 +22,7 @@ Think of project management as something like a color-blind monitor trying to ma
 There is probably no job on earth for which an ability to believe six impossible things before breakfast is more of a requirement than software project management. We are routinely expected to work ourselves into a state of believing in a deadline, a budget, or a performance factor that time subsequently may prove to be impossible.</p>
 
 <footer>
-<a href="http://en.wikipedia.org/wiki/Tom_DeMarco">Tom DeMarco</a> and <a href="http://en.wikipedia.org/wiki/Timothy_Lister">Timothy Lister</a> from the book <cite><a href="bibliography.html#demarco-lister-2003">Waltzing with Bears: Managing Risk on Software Projects</a></cite> (2003)
+<a href="http://en.wikipedia.org/wiki/Tom_DeMarco">Tom DeMarco</a> and <a href="http://en.wikipedia.org/wiki/Tim_Lister">Timothy Lister</a> from the book <cite><a href="bibliography.html#demarco-lister-2003">Waltzing with Bears: Managing Risk on Software Projects</a></cite> (2003)
 </footer>
 </blockquote>
 

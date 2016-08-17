@@ -1,19 +1,25 @@
 Title: Understand the Arc of Your Project
 
-Index: arc
-Index: phases
-Index: SDLC
-Index: Systems Development Life Cycle
-Index: gates
-Index: iteration 0
-Index: Humphrey, Watts
-Index: scaled agile
-Index: Leffingwell, Dean
 Index: Ambler, Scott
 Index: Hitchcock, Alfred
+Index: Humphrey, Watts
+Index: Leffingwell, Dean
 Index: Psycho
+Index: SDLC
+Index: Spolsky, Joel
+Index: Systems Development Life Cycle
+Index: arc
+Index: gates
 Index: hero's journey
+Index: iteration 0
+Index: phases
+Index: scaled agile
 Index: three-act structure
+Index: Discover
+Index: Drive to Decisions
+Index: Deliver
+Index: narrative fiction; novel
+
 
 Body:
 
@@ -90,7 +96,7 @@ First, we should note that the key mindsets necessary to succeed are very differ
 
 * In the **Deliver** act, you need to be efficient and steady in making progress towards the finish line. You have lots of stuff to do, you know what it is, and you need to go about doing it. At this point, what you need is a sheepdog, rounding up the flock and bringing them home at day's end, making sure that no straggler gets lost.
 
-Next we can note that many project failures are traceable back to a problem of giving too much or too little attention to one or more of these acts.
+Next, we can note that many project failures are traceable back to a problem of giving too much or too little attention to one or more of these acts.
 
 Some projects get stuck in perpetual Discovery mode, wandering around for months and even years without ever figuring out what it is they're supposed to do.
 
@@ -111,7 +117,7 @@ Once you begin to develop a sense of what these three acts look like, and how th
 
 One document that can help a project navigate through these three acts successfully is a list of questions or open issues. I'm not talking about issues in a project management sense, since these are typically viewed as things that are threatening the normal progression of the project. I'm just talking about the normal list of questions that typically arise during any development project. This is typically a document that would be used by a development team or an analyst or an architect or a team lead, not by a project manager, and would not be managed with any degree of formality or management oversight.
 
-And I'm not suggesting that this list need replace any of the other project's documents; often the answers to all these questions will ultimately get recorded in other documents that may be of a more permanent nature.
+And I'm not suggesting that this list need replace any of a project's other documents; often the answers to all these questions will ultimately get recorded in other documents that may be of a more permanent nature.
 
 Here is how such a list would be used in each of these three acts.
 
@@ -123,7 +129,7 @@ Here is how such a list would be used in each of these three acts.
 
 If we focus on the details of a project, then we will often see subplots, red herrings, surprises, suspense and mystery, just as we do in any good novel. After all, any software development project is fundamentally a journey of discovery: our intent is always to discover the big things early on, and have fewer and smaller surprises as we continue, but any omniscience we can claim is only in hindsight. If we're trying to track progress according to a traditional project plan, then the project may appear to be in a state of chaos.
 
-If we step back and look at the overall arc of the project, though, proceeding through the three acts of Discovery, Drive to Decisions, and Deliver, then we can often get a much better sense of whether a project is fundamentally on track or headed off the road and into the weeds. And a list of open questions, paired with a list of closed questions and their answers, can help key leaders navigate the roiling waters of any challenging project, ultimately leading their teams and stakeholders to a successful conclusion.
+If we step back and look at the overall arc of the project, though, proceeding through the three acts of *Discover*, *Drive to Decisions*, and *Deliver*, then we can often get a much better sense of whether a project is fundamentally on track or headed off the road and into the weeds. And a list of open questions, paired with a list of closed questions and their answers, can help key leaders navigate the roiling waters of any challenging project, ultimately leading their teams and stakeholders to a successful conclusion.
 
 [hb]: about-the-author.html
 

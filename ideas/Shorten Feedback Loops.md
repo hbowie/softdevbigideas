@@ -1,12 +1,12 @@
 Title: Shorten Feedback Loops
 
+Index: Agile Manifesto
+Index: Mulally, Alan
+Index: Senge, Peter
 Index: demos
 Index: feedback
 Index: learning loops
 Index: retrospective (https://www.scrumalliance.org/community/articles/2014/april/key-elements-of-sprint-retrospective)
-Index: retrospective (https://www.scrumalliance.org/community/articles/2014/april/key-elements-of-sprint-retrospective)
-Index: Senge, Peter
-Index: Agile Manifesto
 
 Body:
 

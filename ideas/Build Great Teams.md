@@ -1,6 +1,20 @@
 Title: Build Great Teams
 
+Index: Humphrey, Watts
+Index: Lopp, Michael
+Index: Phillips, Katherine
+Index: Schembechler, Bo
+Index: Spotify
+Index: diversity
+Index: filmmaking
+Index: jazz
+Index: leadership
+Index: lean manufacturing
+Index: rock music
+Index: team norms
+Index: team size
 Index: teams
+Index: Apple
 
 Body:
 
@@ -55,11 +69,11 @@ First is the cultivation of and adherence to team norms.
 
 Software development is by its nature a particularly solitary activity. Much of the work involves one programmer, one keyboard and one computer. And the quality and quantity of the work being done in this way is often hard to observe directly.
 
-This is one reason why [Watts Humphrey][wh] commented:
+This is one reason why <a href="https://en.wikipedia.org/wiki/Watts_Humphrey" target="ref">Watts Humphrey</a> commented:
 
 > Trying to change the behavior of software engineers is like herding cats. They are very independent people; they all have their own ideas, and they won't tell you what they think, particularly if they disagree with you. They just do what they want to do.
 >
-> -- <cite>[Winning with Software: An Executive Strategy][humphrey-2001]</cite>, 2002
+> -- <cite>[Winning with Software: An Executive Strategy][humphrey-2002]</cite>, 2002
 
 And so it is often difficult for even the best-intentioned managers and coaches to influence the working habits of individual developers.
 
@@ -72,7 +86,7 @@ Another important team characteristic deserving of further emphasis is that of d
 In one of our studies, we compared homogeneous and diverse groups trying to solve a murder mystery. The diverse groups reported that they didn&#8217;t work together very effectively, and they were less confident about their decisions than the homogeneous groups, yet they consistently outperformed those homogeneous groups.</p>
 
 <footer>
-<a href="http://www8.gsb.columbia.edu/cbs-directory/detail/kp2447">Katherine Phillips</a> from the article <cite><a href="bibliography.html#phillips-2009">Forbes</a></cite>, &#8221;Diversity Helps Your Business &#8212; But Not The Way You Think&#8221; (June 2, 2009)
+<a href="http://www8.gsb.columbia.edu/cbs-directory/detail/kp2447" target="ref">Katherine Phillips</a> from the article <cite><a href="bibliography.html#phillips-2009">Forbes</a></cite>, &#8221;Diversity Helps Your Business &#8212; But Not The Way You Think&#8221; (June 2, 2009)
 </footer>
 </blockquote>
 
@@ -120,20 +134,6 @@ For more on this topic, see the Pagan Tuna post, &ldquo;<a href="http://www.paga
 
 <blockquote>
 <p>
-As a manager, you are responsible for making great decisions and the best way to do that is to involve as much of the team as possible in every decision. </p>
-
-<p>
-Your team is collectively smarter than you simply because there are more of them. More importantly, by including them in the decision process and creating a team where they feel they can say no, you&#8217;re creating trust.</p>
-
-<footer>
-<a href="http://en.wikipedia.org/wiki/Michael_Lopp" target="ref">Michael Lopp</a> from the book <cite><a href="bibliography.html#lopp-2007">Managing Humans: Biting and Humorous Tales of a Software Engineering Manager</a></cite> Copyright &copy; 2007 by Michael Lopp
-</footer>
-</blockquote>
-
-----
-
-<blockquote>
-<p>
 Prior to Steve Jobs&#8217; return to Apple, there was a decent centralized usability team equipped with those fancy rooms with one-way mirrors and video cameras. I&#8217;m certain these folks did significant work, but when Jobs returned, he shut it down and he cast the design teams to the wind. Each product team inherited part of the former usability team. </p>
 
 <p>
@@ -149,13 +149,6 @@ I can&#8217;t imagine building a team responsible for consumer products where en
 
 ----
 
-<blockquote>
-<p>Share early and share often.</p>
-<footer><a href="http://en.wikipedia.org/wiki/Alan_Mulally" target="ref">Alan Mulally</a> from the book <cite><a href="bibliography.html#poppendieck-2006">Implementing Lean Software Development: From Concept to Cash</a></cite> (2006)</footer>
-</blockquote>
-
-----
-
 > No man is more important than The Team. No coach is more important than The Team. The Team, The Team, The Team, and if we think that way, all of us, everything that you do, you take into consideration what effect does it have on my Team? We're gonna believe in each other, we're not gonna criticize each other, we're not gonna talk about each other, we're gonna encourage each other.
 >
 > -- <a href="https://en.wikipedia.org/wiki/Bo_Schembechler" target="ref">Bo Schembechler</a>, Legendary University of Michigan Football Coach, [addressing his team in 1983][schembechler-1983]
@@ -163,7 +156,7 @@ I can&#8217;t imagine building a team responsible for consumer products where en
 [0]: http://en.wikipedia.org/wiki/Alan_Mulally
 [wh]:   https://en.wikipedia.org/wiki/Watts_Humphrey
 
-[humphrey-2001]: bibliography.html#humphrey-2001
+[humphrey-2002]: bibliography.html#humphrey-2002
 [poppendieck-2006]: bibliography.html#poppendieck-2006
 [schembechler-1983]: bibliography.html#schembechler-1983
 
