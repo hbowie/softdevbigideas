@@ -1,6 +1,7 @@
 Title: Agree on Terms of Engagement
 
 Index: terms of engagement
+Index: customer
 
 Body:
 
@@ -18,7 +19,7 @@ All of the following factors are variables that should be discussed and explicit
 
 3. Documentation -- How much and what kind of documentation will be produced? Who will be responsible for authoring which documents? What level of detail is expected, and what level of formality is expected for approvals? Where will the documents be stored, and who will act as librarian?
 
-4. Domain expertise -- Will customers expect developers to have some background in the problem domain being worked, or will customers bring all of that to the table?
+4. Domain expertise -- Will customers expect developers to have some background in the problem domain being worked, or will customers bring all of that sort of knowledge to the table?
 
 5. Requirements precision -- Will customers be supplying precise requirements, to be followed to the letter? Or will they be describing general needs and desires, for the development team to use only as a starting point?
 
@@ -30,5 +31,4 @@ All of the following factors are variables that should be discussed and explicit
 
 The development team and its leaders may wall have strong opinions, firm expectations, and even defined processes that prescribe answers to all of the questions above. But if your customers are unable or unwilling to comply with such direction, then none of that really matters. Your development is not likely to proceed smoothly if your customers feel like they are being treated more like hostages than like partners.
 
-It's best to discuss all of these issues early on, and reach some documented agreement on how you and your customers will be working together over the course of the project. Without such discussion, it's likely that your project will suffer from later misunderstandings that will cause delays at best, and damaged working relationships at worst.
-
+It's best to discuss all of these issues early on, and reach some documented agreement on how you and your customers will be working together over the course of the project. Without such discussion, it's likely that your project will suffer from later misunderstandings that will cause delays at best, and broken working relationships at worst.

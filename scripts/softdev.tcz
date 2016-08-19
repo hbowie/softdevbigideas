@@ -13,13 +13,16 @@ template	generate
 <!-- Now generate a page of Markdown links that can be used -->
 template	open	text		#PATH#../factory/bibliography_links_template.md
 template	generate			
-<!-- Generate the HTML content for the Index by Term -->
+<!-- Generate the Table of Contents for the Index by Term -->
 input	set		normalization	0
 input	open	notenik-index		#PATH#../ideas/
 sort	add	Ascending	Lower Case Term	
 sort	add	Ascending	Term	
 sort	add	Ascending	Page	
 sort	set		params	
+template	open	text		#PATH#../factory/index_by_term_index_template.html
+template	generate			
+<!-- Generate the HTML content for the Index by Term -->
 template	open	text		#PATH#../factory/index_by_term_template.html
 template	generate			
 <!-- Convert the Markdown source to HTML -->

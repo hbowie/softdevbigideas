@@ -1,10 +1,8 @@
 Title:  Cohesion
 
-Index: Brooks, Fred
 Index: cohesion
 Index: Community of Practice (https://en.wikipedia.org/wiki/Community_of_practice)
 Index: CoP (https://en.wikipedia.org/wiki/Community_of_practice)
-Index: Jobs, Steve
 Index: guild
 
 Body:
@@ -21,15 +19,3 @@ In other words, and in the case of development teams, you would not normally max
 
 Instead, groups of individuals performing similar roles on different teams can best communicate with each other as members of a <a href="https://en.wikipedia.org/wiki/Community_of_practice" target="ref">Community of Practice</a>. Such a group may also be referred to as a guild.
 
-Note that the value of cohesion starts with the product design itself.
-
-<a href="http://en.wikipedia.org/wiki/Fred_Brooks" target="ref">Fred Brooks</a> stated it this way in his book <cite>[The Mythical Man-Month][brooks-1975]</cite>, first published in 1975:
-
-> I will contend that conceptual integrity is *the* most important consideration in system design. It is better to have a system omit certain anomalous features and improvements, but to reflect one set of design ideas, than to have one that contains many good but independent and uncoordinated ideas.
-
-<a href="http://en.wikipedia.org/wiki/Steve_Jobs" target="ref">Steve Jobs</a> used very different words to make much the same point in 2000, in an [interview with <cite>Fortune</cite> magazine][jobs-2000]:
-
-> Design is not just what it looks like and feels like. Design is how it works. Design is the fundamental soul of a human-made creation that ends up expressing itself in successive outer layers of the product or service.
-
-[brooks-1975]: bibliography.html#brooks-1975
-[jobs-2000]: bibliography.html#jobs-2000

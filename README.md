@@ -1,10 +1,10 @@
 # README #
 
-This project contains the original text for *Big Ideas in Software Development,* which is published at [SoftDevBigIdeas.com](http://www.softdevbigideas.com).
+This project contains the source text for *Big Ideas in Software Development,* which is published at [SoftDevBigIdeas.com](http://www.softdevbigideas.com).
 
 ### Rights ###
 
-The original text of *Big Ideas in Software Development* by Herb Bowie is copyright (c) 2016 and licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
+*Big Ideas in Software Development* by Herb Bowie is copyright (c) 2016 and licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 ### Folder Structure ###
 

@@ -82,6 +82,14 @@
 
 [deliver]: deliver-early-and-often.html
 
+[Developers Are Not Interchangeable][interchange]
+
+[interchange]: developers-are-not-interchangeable.html
+
+[Developers are Always Growing][growing]
+
+[growing]: developers-are-always-growing.html
+
 [Do Not Place Excessive Faith in Project and Program Management][pm]
 
 [pm]: do-not-place-excessive-faith-in-project-and-program-management.html
@@ -181,14 +189,6 @@
 [Simplify and Generalize][simplify]
 
 [simplify]: simplify-and-generalize.html
-
-[Software Developers Are Not Interchangeable][interchange]
-
-[interchange]: software-developers-are-not-interchangeable.html
-
-[Software Developers are Always Growing][growing]
-
-[growing]: software-developers-are-always-growing.html
 
 [Software Development is a Balancing Act][balance]
 

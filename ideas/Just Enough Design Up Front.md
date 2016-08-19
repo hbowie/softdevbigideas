@@ -2,10 +2,23 @@ Title: Just Enough Design Up Front
 
 Index: design
 Index: JEDUF
+Index: YAGNI (https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
+Index: BDUF
+Index: cowboy development
+Index: Gehry, Frank
+Index: Case Western Reserve University
+Index: architecture
+Index: architectural runway
+Index: refactoring (https://en.wikipedia.org/wiki/Code_refactoring)
+Index: Poppendieck, Mary and Tom
+Index: Constantine, Larry
+Index: Lockwood, Lucy
+Index: Reeves, Jack W.
+Index: code as design
 
 Body:
 
-When considering the question of how much design should be completed before coding starts, there are several factors to consider.
+When addressing the question of how much design should be completed before coding starts, there are several factors to consider.
 
 1. Design changes are generally harder and more expensive to make after software code has been written.
 

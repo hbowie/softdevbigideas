@@ -18,9 +18,9 @@ This person should:
 * Have good knowledge of user processes and expectations;
 * Be willing to hold strong positions on topics, but be willing to change those positions based on new data and fresh input;
 * Be comfortable making a decision, after a reasonable amount of time to gather data and other input on an issue;
-* Be able to work collaboratively with technical leadership on the project,  realizing that reasonable trade-offs will be necessary, and that not all customer "requirements" can have equal priority;
-* Be trusted by the technical team to ably represent the customer;
+* Be able to work collaboratively with technical leadership on the project,  realizing that reasonable trade-offs will be necessary, and that not all customer desires can have equal priority;
+* Be trusted by the technical team to reliably represent the customer's interests;
 * Trust the technical team to bring appropriate technical expertise to the table when evaluating alternatives;
 * Be strongly motivated to facilitate steady forward motion on the project.
 
-There is no surer way to cripple a project than to designate a customer proxy who lacks one or more of these qualities.
+There is no surer way to cripple a project than to designate a customer proxy who lacks one or more of these critical qualities.

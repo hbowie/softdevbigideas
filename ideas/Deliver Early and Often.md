@@ -1,6 +1,22 @@
 Title: Deliver Early and Often
 
-Index: deliver
+Index: delivery
+Index: Agile Manifesto
+Index: feedback loop
+Index: working software
+Index: lean
+Index: inventory
+Index: waste
+Index: trust
+Index: customers
+Index: prioritization
+Index: batch sizes
+Index: problems
+Index: sprints
+Index: cycle time
+Index: Poppendieck, Mary and Tom
+Index: Lewis, Bob
+Index: metrics
 
 Body:
 
@@ -14,7 +30,7 @@ Delivering early and often tends to produce all of the following benefits:
 
 2. By delivering working software sooner, and delivering more often, customers receive increased value through earlier and longer enjoyment of the benefits delivered by the software.
 
-3. Another way of looking at this is through the lean concept of inventory as a form of waste. The more money we invest in software before delivering it to our customers, the more "inventory" we accumulate on the shelves of our "software warehouse," and inventory is a form of waste because it consumes resources without delivery of any value.
+3. Another way of looking at this idea is through the lean concept of inventory as a form of waste. The more money we invest in software before delivering it to our customers, the more "inventory" we accumulate on the shelves of our "software warehouse," and inventory is a form of waste because it consumes resources without delivery of any value.
 
 4. Short, rapid delivery cycles also breed an atmosphere of trust between you and your customers, and such trust tends to make other aspects of your effort easier and more productive.
 
@@ -26,7 +42,7 @@ Delivering early and often tends to produce all of the following benefits:
 
 8. If you also deliver software according to a regular cadence, in sprints of a fixed duration, then your teams will find that many aspects of working together become easier, since team members will all form regular habits based on these sprint durations, and will start to instinctively know what they should be doing when they are a certain point in each sprint.
 
-It's useful to consider the total cycle time required for your team to deliver a new feature to your customers. As Mary and Tom Poppendieck state, think of this is as the total duration required, "from concept to cash": in other words, from the date of the inception of the original feature request to the date of delivery of the working software into the hands of your customers, ready for their use. This is one of the more useful metrics for your team to track, since shorter cycle times tend to deliver so many benefits.
+It's useful to consider the total cycle time required for your team to deliver a new feature to your customers. As Mary and Tom Poppendieck state, think of this is as the total duration required "from concept to cash" -- in other words, from the date of the inception of the original feature request to the date of delivery of the working software into the hands of your customers, ready for their use. This is one of the more useful metrics for your team to track, since shorter cycle times tend to deliver so many benefits.
 
 [loops]: shorten-feedback-loops.html
 [beck-et-al-2001-p]: bibliography.html#beck-et-al-2001-p

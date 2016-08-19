@@ -119,7 +119,7 @@ Without work, all life goes rotten. But when work is soulless, life stifles and 
 [calc]: bibliography.html#avitzur-2004
 [cohesion]: cohesion.html
 [coupling]: loose-coupling.html
-[growth]: software-developers-are-always-growing.html
+[growth]: developers-are-always-growing.html
 [pink-2009]: bibliography.html#pink-2009
 [pink]:      https://youtu.be/u6XAPnuFjJc
 [teams]: build-great-teams.html

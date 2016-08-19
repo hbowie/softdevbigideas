@@ -2,6 +2,18 @@ Title: Plan Thoughtfully But Be Prepared for Change
 
 Index: change
 Index: planning
+Index: Eisenhower, Dwight D.
+Index: Minimum Viable Product (http://en.wikipedia.org/wiki/Minimum_viable_product)
+Index: MVP (http://en.wikipedia.org/wiki/Minimum_viable_product)
+Index: roadmap (http://www.scaledagileframework.com/roadmap/)
+Index: Robertson, James and Suzanne
+Index: rabbit
+Index: horse
+Index: elephant
+Index: capacity allocation (http://www.scaledagileframework.com/team-backlog/)
+Index: Agile Manifesto
+Index: Miller, Henry
+Index: Kennedy, Michael N.
 
 Body:
 
@@ -10,7 +22,7 @@ Body:
 In preparing for battle, I have always found that plans are useless but planning is indispensable.</p>
 
 <footer>
-<a href="http://en.wikipedia.org/wiki/Dwight_D._Eisenhower">Dwight D. Eisenhower</a> from the book <cite><a href="bibliography.html#nixon-1962">Six Crises</a></cite> (1962)
+<a href="http://en.wikipedia.org/wiki/Dwight_D._Eisenhower" target="ref">Dwight D. Eisenhower</a> from the book <cite><a href="bibliography.html#nixon-1962">Six Crises</a></cite> (1962)
 </footer>
 </blockquote>
 
@@ -18,9 +30,9 @@ Planning is an essential activity for any project, because it helps developers a
 
 Are there key constraints that must be applied to your project, related to budget, resources, or schedule? Are there specific design constraints that must be respected? Make sure you understand these thoroughly and plan accordingly.
 
-It's good to establish an implementation strategy and roadmap for your project at this point. What is the [Minimum Viable Product][mvp] (MVP) that can usefully be released to your customers? How can additional functionality be added in an incremental fashion? What are the dependencies between various features, or groups of features? These are the sorts of considerations that will help you define your implementation strategy.
+It's good to establish an implementation strategy and roadmap for your project at this point. What is the <a href="http://en.wikipedia.org/wiki/Minimum_viable_product" target="ref">Minimum Viable Product</a> (MVP) that can usefully be released to your customers? How can additional functionality be added in an incremental fashion? What are the dependencies between various features, or groups of features? These are the sorts of considerations that will help you define your implementation strategy.
 
-Your [roadmap][] should show your planned releases, along with other key project milestones, laid out across an approximate timeline. The number of releases and the timeframe depicted should reflect known stakeholder agreements and negotiated expectations. The timeframe should not be arbitrarily shortened, if doing so would allow the team to lose sight of critical milestones farther in the future.
+Your <a href="http://www.scaledagileframework.com/roadmap/" target="ref">roadmap</a> should show your planned releases, along with other key project milestones, laid out across an approximate timeline. The number of releases and the timeframe depicted should reflect known stakeholder agreements and negotiated expectations. The timeframe should not be arbitrarily shortened, if doing so would allow the team to lose sight of critical milestones farther in the future.
 
 It's also good at this point to consider any key requirements challenges. Are there certain areas of the project where requirements are likely to be hard to define? Perhaps areas where different stakeholders have conflicting requirements? Or areas where important stakeholders will be difficult to meet with regularly? If you can anticipate areas where requirements definition will be challenging, then you should plan time and resources to work these issues before trying to work them out during a coding iteration.
 
@@ -32,24 +44,19 @@ You should also think about your presumed technology stack and its readiness. Be
 
 Then assess the readiness of the technology for use by your development team. Is the stack already proven? Is the team already familiar with it? If you answer either of these questions in the negative, then be sure to factor additional time into your plan to allow for technical experimentation and/or training.
 
-This is also a good time to establish initial agreements on capacity allocation for your team members. Your development team will spend most of its time developing new features. But over the long haul it will realistically also need to spend some of its time on defect correction, as well as refactoring, design improvements, and technology upgrades. The best way to address the need to include these unlike things in your development work is by use of [capacity allocation][capalloc]. You can renegotiate the percentages allocated to different types of work over time, but it's best to introduce the concept early, establish some starting agreements, and then bake these into your planning assumptions so that you don't over-estimate your development capacity.
+This is also a good time to establish initial agreements on <a href="http://www.scaledagileframework.com/team-backlog/" target="ref">capacity allocation</a> for your team members. Your development team will spend most of its time developing new features. But over the long haul it will realistically also need to spend some of its time on defect correction, as well as refactoring, design improvements, and technology upgrades. The best way to address the need to include these unlike things in your development work is by use of capacity allocation. You can renegotiate the percentages allocated to different types of work over time, but it's best to introduce the concept early, establish some starting agreements, and then bake these into your planning assumptions so that you don't over-estimate your development capacity.
 
 You should also plan for time to be spent on integration and hardening. Will you have one or more teams working semi-independently on different pieces of your system? If so, be sure to factor in time and resources for integration testing and hardening of the integrated solution. This may come in the form of a periodic hardening sprint, or additional integration work as part of each development sprint. However you incorporate it into your plan, though, such work will consume additional time that would otherwise be available for development of new features.
 
-All of these factors, as well as others, should be considered as part of your initial planning. However, plans should never be regarded as written in stone. They are always works in progress, and always subject to further change.
+All of these factors, as well as others, should be considered as part of your initial planning.
+
+However, plans should never be regarded as written in stone. They are always works in progress, and always subject to further change.
 
 The [Agile Manifesto][beck-et-al-2001] expresses this idea by stating that its signatories value "responding to change over following a plan."
 
-----
+<a href="http://en.wikipedia.org/wiki/Michael_N._Kennedy">Michael N. Kennedy</a> says something similar in his book, <cite><a href="bibliography.html#kennedy-2003">Product Development for the Lean Enterprise</a></cite>:
 
-<blockquote>
-<p>
-Product development by its nature is a &#8220;reactive&#8221; process, and cannot be managed as if it is &#8220;transactional&#8221;.</p>
-
-<footer>
-<a href="http://en.wikipedia.org/wiki/Michael_N._Kennedy">Michael N. Kennedy</a> from the book <cite><a href="bibliography.html#kennedy-2003">Product Development for the Lean Enterprise</a></cite> (2003)
-</footer>
-</blockquote>
+> Product development by its nature is a &#8220;reactive&#8221; process, and cannot be managed as if it is &#8220;transactional&#8221;.
 
 ----
 
@@ -75,7 +82,5 @@ Plot, plan, calculate or postulate as we may, there will always be surprises in 
 
 [capalloc]: http://www.scaledagileframework.com/team-backlog/
 [design]:   design.html
-[mvp]:      http://en.wikipedia.org/wiki/Minimum_viable_product
-[roadmap]:  http://www.scaledagileframework.com/roadmap/
 
 [robertson-1999]: bibliography.html#robertson-1999

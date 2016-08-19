@@ -1,18 +1,23 @@
-Title: Software Developers Are Not Interchangeable
+Title: Developers Are Not Interchangeable
 
 Index: interchangeable
+Index: developers
+Index: Brooks, Fred
+Index: Dreyfus Model of Skill Acquisition
+Index: Spolsky, Joel
+Index: Humphrey, Watts
 
 Body:
 
 Aptitude, skills and experience all make a difference.
 
-This is one reason why, as Fred Brooks pointed out long ago in the "[Mythical Man-Month][brooks-1975]," estimates for software development can be entirely misleading.
+This is one reason why, as <a href="https://en.wikipedia.org/wiki/Fred_Brooks" target="ref">Fred Brooks</a> pointed out long ago in the "[Mythical Man-Month][brooks-1975]," estimates for software development can be entirely misleading.
 
 Software developers are all different, and different along many different dimensions. Here are some of the ways in which they differ:
 
 * Aptitude -- Some developers are simply more capable than others. Productivity differences of an order of magnitude have been documented on multiple occasions.
 
-* General Experience -- Some developers have had deeper and broader software development experiences than others. This often correlates to years in the field, but then, when comparing developers, we sometimes find that, whereas developer A has had 20 years of experience, developer B has had the same year of experience 20 times. Successful experiences are also often much more helpful than the other kind, since developers will tend to repeat practices that they have used before, whether they were successful or not.
+* General Experience -- Some developers have had deeper and broader software development experiences than others. (This often correlates to years in the field, but not always: we sometimes find that developer A has had 20 years of experience, but developer B has had the same year of experience 20 times.) Successful experiences are also often much more helpful than the other kind, since developers will tend to repeat practices that they have used before, whether they were successful or not.
 
 * Particular Skills and Experience -- Some developers may have background in a certain problem domain, or knowledge of a particular technology.
 
@@ -24,7 +29,7 @@ Software developers are all different, and different along many different dimens
 
 When considering these differences, it's good to be familiar with the <a href="https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition" target="ref">Dreyfus Model of Skill Acquisition</a>, since experts often behave very differently than beginners when it comes to their tolerance/need for rigid rules. For more on this topic, see the Pagan Tuna post, &ldquo;<a href="http://www.pagantuna.com/posts/the-dreyfus-model-of-skill-acquisition.html" target="ref">The Dreyfus Model of Skill Acquisition</a>.&rdquo; Also see "[The Seven Stages of Expertise in Software Engineering][page-jones-1998]," by Meilir Page-Jones.
 
-It's also good to consider these differences when forming a team. You generally will want a good mix of skills and experience, and you will want teammates who can work together.
+It's also good to consider these differences when forming a team. You generally will want a good mix of skills and experience, and you will want teammates who can work well together.
 
 And, of course, you need to maintain certain minimum requirements for your organization. You need people who are [smart, who get things done][spolsky-2007], who enjoy learning, and who interact constructively with customers, management and teammates. I don't mean to imply that these sorts of people are hard to find. Most of the people I've worked with in my career fit this description on a good day, and almost everyone I've known (myself included) fails to meet one or more of these standards on a bad day. And certainly all of us have room for development in these areas, and do indeed develop in positive ways over time.
 
@@ -52,26 +57,7 @@ Counterintuitively, employees already performing above average have the greatest
 </footer>
 </blockquote>
 
-----
-
-<blockquote>
-<p>&ldquo;First, he writes down the question on a blackboard or a yellow pad of paper. </p>
-
-<p>
-&ldquo;Next, he thinks real hard.... </p>
-
-<p>
-&ldquo;Then, he writes down the answer.&rdquo; </p>
-
-<p>
-One Nobel Prize winner describing the process another, Richard Feynman, used to solve the most difficult scientific problems</p>
-
-<footer>
-<a href="http://en.wikipedia.org/wiki/Ken_Dymond">Ken Dymond</a> from the book <cite><a href="bibliography.html#dymond-1995">A Guide to the CMM: Understanding the Capability Maturity Model for Software</a></cite>
-</footer>
-</blockquote>
 
 [brooks-1975]: bibliography.html#brooks-1975
-[dreyfus]: https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition
 [page-jones-1998]: bibliography.html#page-jones-1998
 [spolsky-2007]: bibliography.html#spolsky-2007

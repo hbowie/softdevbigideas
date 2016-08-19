@@ -1,10 +1,18 @@
 <?output "../html/Alphabetical Index.html"?>
-<dl class="index">
+<?include "../html/Alphabetical Index ToC.html" ?>
 <?nextrec?>
-<?definegroup 1 =$term$= ?>
+<?definegroup 1 =$initialletter$= ?>
+<?definegroup 2 =$term$= ?>
+<?ifendgroup 2 ?>
+<?endif?>
 <?ifendgroup 1 ?>
+</dl>
 <?endif?>
 <?ifnewgroup 1 ?>
+<h3 id="letter-=$initialletter&l$=">&mdash; =$initialletter$= &mdash;</h3>
+<dl class="index">
+<?endif?>
+<?ifnewgroup 2 ?>
 	<dt>
 <?if "=$termlink$=" ?>
 		<a href="=$termlink$=" target="ref">
@@ -21,4 +29,3 @@
 			</a>
 		</dd>
 <?loop?>
-</dl>
