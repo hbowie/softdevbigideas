@@ -1,6 +1,18 @@
 Title: Software is Different
 
 Index: software
+Index: manufacturing
+Index: engineering
+Index: architecture
+Index: hardware
+Index: design
+Index: gates
+Index: malleability
+Index: rework
+Index: Humphrey, Watts
+Index: Lohr, Steve
+Index: Sayre, David
+Index: IBM
 
 Body:
 

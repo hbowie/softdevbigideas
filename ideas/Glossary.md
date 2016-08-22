@@ -3,6 +3,15 @@ Title:  Glossary
 Index: glossary
 Index: dictionary
 Index: definitions
+Index: architecture
+Index: customer
+Index: developer
+Index: feature
+Index: iteration
+Index: process
+Index: product
+Index: project
+Index: sprint
 
 Body:
 

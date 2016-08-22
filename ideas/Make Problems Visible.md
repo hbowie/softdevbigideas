@@ -1,17 +1,25 @@
 Title: Make Problems Visible
 
 Index: problems
+Index: problem-solving
+Index: code reviews
+Index: automated testing
+Index: user demos
+Index: lean
+Index: visibility
+Index: Toyota
+Index: Fackler, Martin
 
 Body:
 
 Any software development project can be thought of as a series of problems to be solved. [Planning][plan] can help a [team][teams] anticipate problems, but the discovery and solving of problems is a process that continues over the life of the project.
 
-As new problems are discovered, it's best to avoid the following sorts of dysfunctional behavior:
+When a new problem is discovered, it's best to avoid the following sorts of dysfunctional behavior:
 
-* Shoot the messengers who report them;
-* Ignore the problems in hopes they will go away;
-* Stick your head in the sand and wait until someone else notices the problems;
-* Find someone else you can blame for causing the problems.
+* Shoot the messenger who reported it;
+* Ignore the problem in hopes it will go away;
+* Stick your head in the sand and wait for someone else to notice the problem;
+* Find someone to blame for causing the problem.
 
 As new problems are discovered, instead of falling back on any of these behaviors, it is important to accept the problems as part of the work that needs to be done.
 
@@ -21,7 +29,7 @@ This is one reason why code reviews, automated testing, user demos and frequent 
 
 Another benefit of early discovery of problems is that it is generally easier for team members at this point to understand how and why they occurred, and to figure out how to reduce the likelihood of similar problems in the future.
 
-Note that making problems visible is a central tenet of [Lean][], as indicated in this New York Times article from 2007:
+Note that making problems visible is a central tenet of <a href="https://en.wikipedia.org/wiki/Lean_manufacturing" target="ref">Lean</a>, as indicated in this New York Times article from 2007:
 
 <blockquote>
 <p>
@@ -52,7 +60,6 @@ For more on this topic, see the Pagan Tuna post, &ldquo;<a href="http://www.paga
 
 [lc]: http://www.pagantuna.com/posts/a-new-model-for-lean-culture.html
 
-[lean]: https://en.wikipedia.org/wiki/Lean_manufacturing
 [nytimes-2007]: bibliography.html#nytimes-2007
 [plan]: plan-thoughtfully-but-be-prepared-for-change.html
 [teams]: build-great-teams.html

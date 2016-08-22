@@ -1,6 +1,7 @@
 Title: Sharpen Your Axe
 
 Index: tools
+Index: version control
 
 Body:
 

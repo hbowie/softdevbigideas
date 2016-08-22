@@ -1,12 +1,30 @@
 Title: Stay Focused on the Creation of Working Software for Real People
 
 Index: working software
+Index: IBM
+Index: Jobs, Steve
+Index: Apple
+Index: Agile Manifesto
+Index: Capability Maturity Model (https://en.wikipedia.org/wiki/Capability_Maturity_Model)
+Index: CMM (https://en.wikipedia.org/wiki/Capability_Maturity_Model)
+Index: maturity levels
+Index: process improvement
+Index: Glazer, Hillel
+Index: value
+Index: consultants
+Index: models
+Index: institutionalize
+Index: gurus
+Index: Brooks, Fred
+Index: Kim, Gene
+Index: Behr, Kevin
+Index: Spafford, George
 
 Body:
 
 This was a major message of the Agile movement, which opened its [Manifesto][beck-et-al-2001] with the words: "We are uncovering better ways of developing software by doing it and helping others do it."
 
-To a great deal, this was a reaction to the [Capability Maturity Model][cmm] era, in which the actual act of software coding was often overshadowed by achievement of maturity levels, implementation of key process areas, documentation of processes, generation of artifacts and tallying of metrics.
+To a great extent, this was a reaction to the <a href="https://en.wikipedia.org/wiki/Capability_Maturity_Model" target="ref">Capability Maturity Model</a> era, in which the actual act of software coding was often overshadowed by achievement of maturity levels, implementation of key process areas, documentation of processes, generation of artifacts and tallying of metrics.
 
 As noted in the SEI paper, "[CMMI&reg; or Agile: Why Not Embrace Both?][sei-2008]":
 
@@ -32,7 +50,7 @@ Wired: In your experience, what&#8217;s the best process for design? </p>
 Brooks: Great design does not come from great processes; it comes from great designers.</p>
 
 <footer>
-<a href="http://en.wikipedia.org/wiki/Fred_Brooks">Fred Brooks</a> from the interview <cite><a href="bibliography.html#brooks-2010">Wired Magazine</a></cite>, &#8221;Master Planner: Fred Brooks Shows How to Design Anything&#8221; (07/28/2010)
+<a href="http://en.wikipedia.org/wiki/Fred_Brooks" target="ref">Fred Brooks</a> from the interview <cite><a href="bibliography.html#brooks-2010">Wired Magazine</a></cite>, &#8221;Master Planner: Fred Brooks Shows How to Design Anything&#8221; (07/28/2010)
 </footer>
 </blockquote>
 

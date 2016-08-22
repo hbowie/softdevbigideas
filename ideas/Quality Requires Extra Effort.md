@@ -15,6 +15,9 @@ Index: CoQ (http://en.wikipedia.org/wiki/Quality_costs)
 Index: inspections
 Index: peer reviews
 Index: pair programming
+Index: Kim, Gene
+Index: Behr, Kevin
+Index: Spafford, George
 
 Body:
 

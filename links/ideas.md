@@ -22,10 +22,6 @@
 
 [all-ideas]: alphabetical-list-of-all-ideas.html
 
-[Always Remember that Software Development is an Adventure][adventure]
-
-[adventure]: always-remember-that-software-development-is-an-adventure.html
-
 [Automate Repetitive Tasks][auto]
 
 [auto]: automate-repetitive-tasks.html

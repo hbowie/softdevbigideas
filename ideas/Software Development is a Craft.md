@@ -1,6 +1,22 @@
 Title: Software Development is a Craft
 
 Index: craftsmanship
+Index: factory
+Index: design
+Index: specifications
+Index: Jobs, Steve
+Index: liberal arts
+Index: humanities
+Index: Austin, Rob
+Index: Devin, Lee
+Index: artful making
+Index: industrial making
+Index: Knuth, Donald
+Index: Thompson, Ken
+Index: Richie, Dennis
+Index: Lohr, Steve
+Index: Humphrey, Watts
+Index: Weinberg, Gerald
 
 Body:
 

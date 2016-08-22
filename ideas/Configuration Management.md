@@ -1,11 +1,20 @@
 Title: Configuration Management
 
-Index: configuration management (https://en.wikipedia.org/wiki/Configuration_management)
+Index: configuration management
+(https://en.wikipedia.org/wiki/Configuration_management)
+Index: change management
+Index: version control
 Index: CM (https://en.wikipedia.org/wiki/Configuration_management)
+Index: separation of duties (https://en.wikipedia.org/wiki/Separation_of_duties)
+Index: SoD (https://en.wikipedia.org/wiki/Separation_of_duties)
+Index: DevOps
+Index: Kim, Gene
+Index: Behr, Kevin
+Index: Spafford, George
 
 Body:
 
-As with many safety and quality practices, configuration management is often most visible by its absence.
+As with many safety and quality practices, <a href="https://en.wikipedia.org/wiki/Configuration_management" target="ref">configuration management</a> is often most visible by its absence.
 
 As in...
 
@@ -17,7 +26,7 @@ Or...
 >
 > Well, that's been fixed now.
 >
-> Unfortunately, we've also somehow lost the last three enhancements we had made.
+> Unfortunately, we've also somehow lost the last three enhancements we made.
 
 While the following list of suggested CM practices is not exhaustive, it's a good place to start.
 
@@ -29,11 +38,10 @@ While the following list of suggested CM practices is not exhaustive, it's a goo
 
 4. Always create executables to be released via an automated build process using configuration-controlled source code.
 
-5. Maintain records that always allow you to trace back from any given change in the source code to the original change request that provided rationale for the change.
+5. Maintain records that always allow you to trace back from any given change in the source code to the original request that provided the rationale for the change.
 
-6. Always maintain some [separation of duties][sod] between the developers and the folks responsible for implementing a release to production.
+6. Always maintain some <a href="https://en.wikipedia.org/wiki/Separation_of_duties" target="ref">separation of duties</a> (SoD) between the developers and the folks responsible for implementing a release to production.
 
-[sod]: https://en.wikipedia.org/wiki/Separation_of_duties
 
 ----
 

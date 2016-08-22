@@ -9,6 +9,7 @@ Index: Nirvana antipattern
 Index: Watson, Thomas J. Jr.
 Index: Weber, Craig
 Index: micromanagement
+Index: IBM
 
 Body:
 

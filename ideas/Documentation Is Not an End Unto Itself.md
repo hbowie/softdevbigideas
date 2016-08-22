@@ -1,6 +1,14 @@
 Title: Documentation Is Not an End Unto Itself
 
 Index: documentation
+Index: Victorian Novel
+Index: wikis
+Index: Javadoc
+Index: approvals
+Index: change management
+Index: version control
+Index: zombies
+Index: DeMarco, Tom
 
 Body:
 
@@ -62,7 +70,7 @@ Now that you've seen the list in its entirety, let me elaborate with some additi
 
 2. In cases where software produces inaccurate or even dangerous results, outside parties often need access to documentation that will indicate who authorized the offending code, and with what intent.
 
-3. Even if such problems seem unlikely (as they often do, to people closest to the software), such transparency can be argued to help deter malicious or careless software changes.
+3. Even if such problems seem unlikely (as they often do, to people closest to the software), such transparency can be justified to help deter malicious or careless software changes.
 
 4. A critical aspect of this sort of documentation is that it be part of an unbroken chain starting with a real request from a real person, and ending with the actual lines of software code that were changed.
 

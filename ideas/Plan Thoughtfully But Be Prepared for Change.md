@@ -1,19 +1,22 @@
 Title: Plan Thoughtfully But Be Prepared for Change
 
-Index: change
-Index: planning
-Index: Eisenhower, Dwight D.
-Index: Minimum Viable Product (http://en.wikipedia.org/wiki/Minimum_viable_product)
-Index: MVP (http://en.wikipedia.org/wiki/Minimum_viable_product)
-Index: roadmap (http://www.scaledagileframework.com/roadmap/)
-Index: Robertson, James and Suzanne
-Index: rabbit
-Index: horse
-Index: elephant
-Index: capacity allocation (http://www.scaledagileframework.com/team-backlog/)
 Index: Agile Manifesto
-Index: Miller, Henry
+Index: Berkun, Scott
+Index: Eisenhower, Dwight D.
 Index: Kennedy, Michael N.
+Index: MVP (http://en.wikipedia.org/wiki/Minimum_viable_product)
+Index: Miller, Henry
+Index: Minimum Viable Product (http://en.wikipedia.org/wiki/Minimum_viable_product)
+Index: Robertson, James and Suzanne
+Index: capacity allocation (http://www.scaledagileframework.com/team-backlog/)
+Index: change
+Index: elephant
+Index: horse
+Index: innovation
+Index: planning
+Index: rabbit
+Index: roadmap (http://www.scaledagileframework.com/roadmap/)
+
 
 Body:
 
@@ -57,6 +60,17 @@ The [Agile Manifesto][beck-et-al-2001] expresses this idea by stating that its s
 <a href="http://en.wikipedia.org/wiki/Michael_N._Kennedy">Michael N. Kennedy</a> says something similar in his book, <cite><a href="bibliography.html#kennedy-2003">Product Development for the Lean Enterprise</a></cite>:
 
 > Product development by its nature is a &#8220;reactive&#8221; process, and cannot be managed as if it is &#8220;transactional&#8221;.
+
+----
+
+<blockquote>
+<p>
+The dirty little secret &#8212; the fact often denied &#8212; is that unlike the mythical epiphany, real creation is sloppy. Discovery is messy. Exploration is dangerous.</p>
+
+<footer>
+<a href="http://en.wikipedia.org/wiki/Scott_Berkun">Scott Berkun</a> from the book <cite><a href="bibliography.html#berkun-2007">The Myths of Innovation</a></cite> (2007)
+</footer>
+</blockquote>
 
 ----
 

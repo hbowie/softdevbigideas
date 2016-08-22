@@ -3,6 +3,12 @@ Title: Let the Buyer Beware
 Index: COTS
 Index: suppliers
 Index: vendors
+Index: caveat emptor
+Index: customization
+Index: purchased software
+Index: ISV
+Index: independent software vendor
+Index: Hurst, Mark
 
 Body:
 
@@ -49,7 +55,7 @@ Consideration of these factors can often help guide a team to a make-or-buy deci
 It&#8217;s far too rarely stated that the technology industry is not in the business of making people productive. It is only in the business of selling more technology. Granted, some companies make better tools than others, and users can be productive with some of today&#8217;s tools. But in the technology business, users&#8217; productivity is secondary to profitability. No matter what a company claims, feature lists and upgrades are designed for the company&#8217;s success, not the users&#8217;.</p>
 
 <footer>
-<a href="http://en.wikipedia.org/wiki/Mark_Hurst">Mark Hurst</a> from the book <cite><a href="bibliography.html#hurst-2007">Bit Literacy: Productivity in the Age of Information and E-mail Overload</a></cite> Copyright &copy; 2007 by Good Experience, Inc.
+<a href="http://creativegood.com/mark-hurst/" target="ref">Mark Hurst</a> from the book <cite><a href="bibliography.html#hurst-2007">Bit Literacy: Productivity in the Age of Information and E-mail Overload</a></cite> Copyright &copy; 2007 by Good Experience, Inc.
 </footer>
 </blockquote>
 
