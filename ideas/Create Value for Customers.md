@@ -31,9 +31,9 @@ Let me clarify what I mean by this injunction.
 
 Value means more than just the ability to reliably perform  a given task: the software must also be easy and reasonably pleasant to use.  This is more than just a matter of "gussying up" the user interface -- the developer must understand how his users think, and communicate to them using words and graphics that are consistent and effective. Most fundamentally, the software must be built around a mental model with which the user is already familiar, or that seems intuitive once learned.
 
-Although developers need to form ideas about what will be useful to a set of users before developing software, those ideas can never be fully validated without actually developing the software and seeing what real users actually do with it. This is one reason why <a href="https://en.wikipedia.org/wiki/Usability_testing" target="ref">usability testing</a> is so important.
+Although developers need to form ideas about what will be useful to a set of users before developing software, those ideas can never be fully validated without actually developing the software and seeing what real users actually do with it. This is one reason why <a href="https://en.wikipedia.org/wiki/Usability_testing" class="reflink" target="ref">usability testing</a> is so important.
 
-For more on this topic, see the Pagan Tuna post, &ldquo;<a href="http://www.pagantuna.com/posts/broken-field-running.html" target="ref">Broken Field Running</a>.&rdquo;
+For more on this topic, see the Pagan Tuna post, &ldquo;<a href="http://www.pagantuna.com/posts/broken-field-running.html" class="reflink" target="ref">Broken Field Running</a>.&rdquo;
 
 ----
 

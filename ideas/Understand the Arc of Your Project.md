@@ -11,7 +11,7 @@ Index: Systems Development Life Cycle
 Index: arc
 Index: gates
 Index: hero's journey
-Index: iteration 0
+Index: Iteration Zero (http://www.netobjectives.com/files/IterationZero.pdf)
 Index: phases
 Index: scaled agile
 Index: three-act structure
@@ -23,7 +23,7 @@ Index: narrative fiction; novel
 
 Body:
 
-Software development has traditionally been thought of as proceeding through a series of phases. This is sometimes described as a <a href="https://en.wikipedia.org/wiki/Systems_development_life_cycle" target="ref">Systems Development Life Cycle</a> (SDLC), and is often managed via a series of <a href="https://en.wikipedia.org/wiki/Phase%E2%80%93gate_model" target="ref">gates</a> that control progress from one phase to another, ensuring that the work of one phase has been completed successfully before allowing work on the next phase to start.
+Software development has traditionally been thought of as proceeding through a series of phases. This is sometimes described as a <a href="https://en.wikipedia.org/wiki/Systems_development_life_cycle" class="reflink" target="ref">Systems Development Life Cycle</a> (SDLC), and is often managed via a series of <a href="https://en.wikipedia.org/wiki/Phase%E2%80%93gate_model" class="reflink" target="ref">gates</a> that control progress from one phase to another, ensuring that the work of one phase has been completed successfully before allowing work on the next phase to start.
 
 A fairly typical list of phases might be as follows:
 
@@ -35,7 +35,7 @@ A fairly typical list of phases might be as follows:
 6. Implementation
 7. Maintenance
 
-<a href="https://en.wikipedia.org/wiki/Agile_software_development" target="ref">Agile</a> approaches, on the other hand, tend to break a project down into a series of time-boxed sprints or iterations, overlapping and compressing phases 2 - 6 (Requirements through Implementation) within each iteration. If there is any acknowledgment of a larger project lifecycle, it often consists merely of an initial iteration, referred to as iteration 0, dedicated briefly to startup tasks before beginning the actual work of coding in iteration 1.
+<a href="https://en.wikipedia.org/wiki/Agile_software_development" class="reflink" target="ref">Agile</a> approaches, on the other hand, tend to break a project down into a series of time-boxed sprints or iterations, overlapping and compressing phases 2 - 6 (Requirements through Implementation) within each iteration. If there is any acknowledgment of a larger project lifecycle, it often consists merely of an initial iteration, referred to as iteration 0, dedicated briefly to startup tasks before beginning the actual work of coding in iteration 1.
 
 In my experience, both of these approaches tend to have problems. The SDLC approach often tries to adhere too rigidly to firm gates, and often tends towards micromanagement in its review of deliverables needed to pass through each gate, losing sight of the forest in its minute review of the trees.
 
@@ -46,7 +46,7 @@ Watts Humphrey noted this first problem in trying to establish a firm conclusion
 A common misperception is that we must start with firm requirements. There is a widespread but fallacious view that requirements are the customers&#8217; job and that development should not start until they are explicitly defined. The fact is that the demand for firm and unchanging requirements is mostly wishful thinking....</p>
 
 <footer>
-<a href="http://en.wikipedia.org/wiki/Watts_Humphrey" target="ref">Watts Humphrey</a> from the book <cite><a href="bibliography.html#humphrey-1998">Managing the Software Process</a></cite> Copyright &copy; 1998 by Addison-Wesley Publishing Company, Inc.
+<a href="http://en.wikipedia.org/wiki/Watts_Humphrey" class="reflink" target="ref">Watts Humphrey</a> from the book <cite><a href="bibliography.html#humphrey-1998">Managing the Software Process</a></cite> Copyright &copy; 1998 by Addison-Wesley Publishing Company, Inc.
 </footer>
 </blockquote>
 
@@ -54,7 +54,7 @@ The Agile approach, on the other hand, often suffers because it assumes too blit
 
 Unfortunately, many software development shops tend to cycle back and forth between these two approaches, favoring one or the other based on whichever one most recently yielded disappointing results. And a series of project failures based on both approaches often leaves in its wake two teams of firmly entrenched methodology advocates, endlessly battling over which of their approaches represents the truth and the light.
 
-Models that try to get the best of both worlds are now commonly referred to as "scaled agile." Two such examples are Dean Leffingwell's <a href="http://www.scaledagileframework.com/" target="ref">Scaled Agile Framework</a> (SAFe) and Scott Ambler's <a href="http://www.disciplinedagiledelivery.com/" target="ref">Disciplined Agile Delivery</a> (DAD) model. All of these scaled agile approaches have something to offer, and can help an organization move beyond the endless Agile vs. Traditional debates. For more on this topic, see the Pagan Tuna post, &ldquo;<a href="http://www.pagantuna.com/posts/benefits-of-the-scaled-agile-framework.html" target="ref">Benefits of the Scaled Agile Framework</a>.&rdquo;
+Models that try to get the best of both worlds are now commonly referred to as "scaled agile." Two such examples are Dean Leffingwell's <a href="http://www.scaledagileframework.com/" class="reflink" target="ref">Scaled Agile Framework</a> (SAFe) and Scott Ambler's <a href="http://www.disciplinedagiledelivery.com/" class="reflink" target="ref">Disciplined Agile Delivery</a> (DAD) model. All of these scaled agile approaches have something to offer, and can help an organization move beyond the endless Agile vs. Traditional debates. For more on this topic, see the Pagan Tuna post, &ldquo;<a href="http://www.pagantuna.com/posts/benefits-of-the-scaled-agile-framework.html" class="reflink" target="ref">Benefits of the Scaled Agile Framework</a>.&rdquo;
 
 However something important often gets lost in all of these attempts to reduce the reality of software development into the artificial confines of one model or another: the overall arc of your project.
 
@@ -68,7 +68,7 @@ We can think of each chapter of a novel as comparable to an iteration in an agil
 
 However, even though most of us wouldn't consciously mark the progress of a novel from one phase into another, we all have an instinctive understanding that a book is not an unending series of chapters, that as the story unfolds, we are proceeding along a narrative arc that should eventually bring us to a satisfying conclusion. And if that arc is interrupted, or perverted -- as it was very intentionally in Hitchcock's move *Psycho*, for example -- then we feel that something is wrong, we may even be shocked, without the need to resort to a particular model of narrative fiction in order to reach that conclusion.
 
-Now even though we don't consciously think about these narrative stages as we're reading a novel -- and even though authors don't always consciously consider them as they're writing one -- we can construct various models of how a story typically proceeds. There are, for example, the twelve stages of a <a href="http://www.thewritersjourney.com/hero's_journey.htm" target="ref">hero's journey</a>, as identified by Joseph Campbell. Or we could look at the <a href="http://www.storyboardthat.com/articles/e/five-act-structure" target="ref">five act structure</a> used explicitly in many plays. For our purposes today, though, let's just consider the simplest of these, the <a href="https://en.wikipedia.org/wiki/Three-act_structure" target="ref">three act structure</a>.
+Now even though we don't consciously think about these narrative stages as we're reading a novel -- and even though authors don't always consciously consider them as they're writing one -- we can construct various models of how a story typically proceeds. There are, for example, the twelve stages of a <a href="http://www.thewritersjourney.com/hero's_journey.htm" class="reflink" target="ref">hero's journey</a>, as identified by Joseph Campbell. Or we could look at the <a href="http://www.storyboardthat.com/articles/e/five-act-structure" class="reflink" target="ref">five act structure</a> used explicitly in many plays. For our purposes today, though, let's just consider the simplest of these, the <a href="https://en.wikipedia.org/wiki/Three-act_structure" class="reflink" target="ref">three act structure</a>.
 
 * Act I -- Used for exposition, to establish the main characters, their relationships, the worlds they live in and, finally, the problem to be solved.
 
@@ -107,7 +107,7 @@ Some projects skip the Drive to Decisions phase, sweeping all the difficult deci
 In too many programming organizations, every time there&#8217;s a design debate, nobody ever manages to make a <em>decision</em>, usually for political reasons. So the programmers only work on uncontroversial stuff. As time goes on, all the hard decisions are pushed to the end. <em>These projects are the most likely to fail.</em></p>
 
 <footer>
-<a href="http://en.wikipedia.org/wiki/Joel_Spolsky" target="ref">Joel Spolsky</a> from the book <cite><a href="bibliography.html#spolsky-2004">Joel on Software</a></cite> Copyright &copy; 2004 by Joel Spolsky
+<a href="http://en.wikipedia.org/wiki/Joel_Spolsky" class="reflink" target="ref">Joel Spolsky</a> from the book <cite><a href="bibliography.html#spolsky-2004">Joel on Software</a></cite> Copyright &copy; 2004 by Joel Spolsky
 </footer>
 </blockquote>
 

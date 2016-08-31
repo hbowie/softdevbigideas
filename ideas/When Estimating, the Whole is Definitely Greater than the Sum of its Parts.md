@@ -27,4 +27,4 @@ Why?
 
 One way to deal with this problem is to add some additional reserve to the project budget that is under management control. This might generally be referred to as the Management Reserve (MR).
 
-In some environments, there might be a distinction between contingency reserves that are established to address specific risks already identified, vs. a more general management reserve held back to address situations that have not yet been foreseen. Using the <a href="https://en.wikipedia.org/wiki/There_are_known_knowns" target="ref">terminology popularized by Donald Rumsfeld</a>, these might be used, respectively, for the "known unknowns" and the "unknown unknowns."
+In some environments, there might be a distinction between contingency reserves that are established to address specific risks already identified, vs. a more general management reserve held back to address situations that have not yet been foreseen. Using the <a href="https://en.wikipedia.org/wiki/There_are_known_knowns" class="reflink" target="ref">terminology popularized by Donald Rumsfeld</a>, these might be used, respectively, for the "known unknowns" and the "unknown unknowns."

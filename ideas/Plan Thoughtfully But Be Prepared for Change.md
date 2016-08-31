@@ -17,7 +17,6 @@ Index: planning
 Index: rabbit
 Index: roadmap (http://www.scaledagileframework.com/roadmap/)
 
-
 Body:
 
 <blockquote>
@@ -25,7 +24,7 @@ Body:
 In preparing for battle, I have always found that plans are useless but planning is indispensable.</p>
 
 <footer>
-<a href="http://en.wikipedia.org/wiki/Dwight_D._Eisenhower" target="ref">Dwight D. Eisenhower</a> from the book <cite><a href="bibliography.html#nixon-1962">Six Crises</a></cite> (1962)
+<a href="http://en.wikipedia.org/wiki/Dwight_D._Eisenhower" class="reflink" target="ref">Dwight D. Eisenhower</a> from the book <cite><a href="bibliography.html#nixon-1962">Six Crises</a></cite> (1962)
 </footer>
 </blockquote>
 
@@ -33,9 +32,18 @@ Planning is an essential activity for any project, because it helps developers a
 
 Are there key constraints that must be applied to your project, related to budget, resources, or schedule? Are there specific design constraints that must be respected? Make sure you understand these thoroughly and plan accordingly.
 
-It's good to establish an implementation strategy and roadmap for your project at this point. What is the <a href="http://en.wikipedia.org/wiki/Minimum_viable_product" target="ref">Minimum Viable Product</a> (MVP) that can usefully be released to your customers? How can additional functionality be added in an incremental fashion? What are the dependencies between various features, or groups of features? These are the sorts of considerations that will help you define your implementation strategy.
+It's good to establish an implementation strategy and roadmap for your project at this point. What is the <a href="http://en.wikipedia.org/wiki/Minimum_viable_product" class="reflink" target="ref">Minimum Viable Product</a> (MVP) that can usefully be released to your customers? How can additional functionality be added in an incremental fashion? What are the dependencies between various features, or groups of features? These are the sorts of considerations that will help you define your implementation strategy.
 
-Your <a href="http://www.scaledagileframework.com/roadmap/" target="ref">roadmap</a> should show your planned releases, along with other key project milestones, laid out across an approximate timeline. The number of releases and the timeframe depicted should reflect known stakeholder agreements and negotiated expectations. The timeframe should not be arbitrarily shortened, if doing so would allow the team to lose sight of critical milestones farther in the future.
+<blockquote>
+<p>
+A Minimum Viable Product is that version of a new product which allows a team to collect the maximum amount of validated learning about customers with the least effort.</p>
+
+<footer>
+<a href="http://en.wikipedia.org/wiki/Eric_Ries">Eric Ries</a> from the book <cite><a href="bibliography.html#ries-2011">The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses</a></cite> Copyright &copy; 2011
+</footer>
+</blockquote>
+
+Your <a href="http://www.scaledagileframework.com/roadmap/" class="reflink" target="ref">roadmap</a> should show your planned releases, along with other key project milestones, laid out across an approximate timeline. The number of releases and the timeframe depicted should reflect known stakeholder agreements and negotiated expectations. The timeframe should not be arbitrarily shortened, if doing so would allow the team to lose sight of critical milestones farther in the future.
 
 It's also good at this point to consider any key requirements challenges. Are there certain areas of the project where requirements are likely to be hard to define? Perhaps areas where different stakeholders have conflicting requirements? Or areas where important stakeholders will be difficult to meet with regularly? If you can anticipate areas where requirements definition will be challenging, then you should plan time and resources to work these issues before trying to work them out during a coding iteration.
 
@@ -47,7 +55,7 @@ You should also think about your presumed technology stack and its readiness. Be
 
 Then assess the readiness of the technology for use by your development team. Is the stack already proven? Is the team already familiar with it? If you answer either of these questions in the negative, then be sure to factor additional time into your plan to allow for technical experimentation and/or training.
 
-This is also a good time to establish initial agreements on <a href="http://www.scaledagileframework.com/team-backlog/" target="ref">capacity allocation</a> for your team members. Your development team will spend most of its time developing new features. But over the long haul it will realistically also need to spend some of its time on defect correction, as well as refactoring, design improvements, and technology upgrades. The best way to address the need to include these unlike things in your development work is by use of capacity allocation. You can renegotiate the percentages allocated to different types of work over time, but it's best to introduce the concept early, establish some starting agreements, and then bake these into your planning assumptions so that you don't over-estimate your development capacity.
+This is also a good time to establish initial agreements on <a href="http://www.scaledagileframework.com/team-backlog/" class="reflink" target="ref">capacity allocation</a> for your team members. Your development team will spend most of its time developing new features. But over the long haul it will realistically also need to spend some of its time on defect correction, as well as refactoring, design improvements, and technology upgrades. The best way to address the need to include these unlike things in your development work is by use of capacity allocation. You can renegotiate the percentages allocated to different types of work over time, but it's best to introduce the concept early, establish some starting agreements, and then bake these into your planning assumptions so that you don't over-estimate your development capacity.
 
 You should also plan for time to be spent on integration and hardening. Will you have one or more teams working semi-independently on different pieces of your system? If so, be sure to factor in time and resources for integration testing and hardening of the integrated solution. This may come in the form of a periodic hardening sprint, or additional integration work as part of each development sprint. However you incorporate it into your plan, though, such work will consume additional time that would otherwise be available for development of new features.
 

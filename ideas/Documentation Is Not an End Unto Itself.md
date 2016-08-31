@@ -24,7 +24,7 @@ The following forms of waste are all frequently associated with software documen
 
 Concise, well-written documentation can be useful, but one must remember that it is only a means to an end, and one must avoid the various common forms of waste listed above.
 
-Consider alternatives to the traditional Victorian Novel style of project documents. Modeling tools, databases, spreadsheets, diagrams, <a href="https://en.wikipedia.org/wiki/Wiki" target="ref">wikis</a>, and systematically formatted comments (such as those produced by <a href="https://en.wikipedia.org/wiki/Javadoc" target="ref">Javadoc</a>) all often offer better forms of documentation.
+Consider alternatives to the traditional Victorian Novel style of project documents. Modeling tools, databases, spreadsheets, diagrams, <a href="https://en.wikipedia.org/wiki/Wiki" class="reflink" target="ref">wikis</a>, and systematically formatted comments (such as those produced by <a href="https://en.wikipedia.org/wiki/Javadoc" class="reflink" target="ref">Javadoc</a>) all often offer better forms of documentation.
 
 Watch out for those who tend to [polarize][balance] this discussion into 'document everything' vs. 'document nothing,' since both of those extremes are generally disastrous. Also watch out for ceremonial approvals of documents: When ten people have to approve everything that's been written down, that's a sure sign that no one understands any of it and no one trusts anyone else.
 

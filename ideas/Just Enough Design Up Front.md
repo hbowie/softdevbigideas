@@ -70,7 +70,7 @@ Early stages of design are often referred to as architecture.  When we discuss t
 
 Note that, even with some upfront architecture, development teams may still need to schedule some periods of concentrated architectural work later in the project. This is sometimes referred to as extending the architectural runway, with the idea that the architecture is necessary to support the user functionality, and so as the functional development proceeds, it gets closer to the end of the existing runway, necessitating the dedication of resources to further building out the architecture in order to allow the continued functional work to proceed smoothly.
 
-For additional details on this topic, see the Pagan Tuna post, &ldquo;<a href="http://www.pagantuna.com/posts/agile-architecture.html" target="ref">Agile Architecture</a>.&rdquo;
+For additional details on this topic, see the Pagan Tuna post, &ldquo;<a href="http://www.pagantuna.com/posts/agile-architecture.html" class="reflink" target="ref">Agile Architecture</a>.&rdquo;
 
 ----
 

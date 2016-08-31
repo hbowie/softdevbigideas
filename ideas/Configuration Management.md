@@ -14,7 +14,7 @@ Index: Spafford, George
 
 Body:
 
-As with many safety and quality practices, <a href="https://en.wikipedia.org/wiki/Configuration_management" target="ref">configuration management</a> is often most visible by its absence.
+As with many safety and quality practices, <a href="https://en.wikipedia.org/wiki/Configuration_management" class="reflink" target="ref">configuration management</a> is often most visible by its absence.
 
 As in...
 
@@ -40,7 +40,7 @@ While the following list of suggested CM practices is not exhaustive, it's a goo
 
 5. Maintain records that always allow you to trace back from any given change in the source code to the original request that provided the rationale for the change.
 
-6. Always maintain some <a href="https://en.wikipedia.org/wiki/Separation_of_duties" target="ref">separation of duties</a> (SoD) between the developers and the folks responsible for implementing a release to production.
+6. Always maintain some <a href="https://en.wikipedia.org/wiki/Separation_of_duties" class="reflink" target="ref">separation of duties</a> (SoD) between the developers and the folks responsible for implementing a release to production.
 
 
 ----

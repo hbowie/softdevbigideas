@@ -1,7 +1,7 @@
 Title: Have Wonderful Arguments
 
 Index: arguments
-Index: Conversational Capacity
+Index: Conversational Capacity (http://www.weberconsultinggroup.net/conversational-capacity/)
 Index: debate
 Index: Jobs, Steve
 Index: Mossberg, Walt
@@ -22,7 +22,7 @@ On the other hand, if you're not having spirited debates about at least some top
 The typical, and primary, root cause of [the Nirvana] AntiPattern is the misguided notion that conflict is bad, and therefore should be avoided at all costs. In reality, conflict in the form of tension ... is a necessary part of any difficult task that involves intelligent people who care about their work.</p>
 
 <footer>
-<a href="http://en.wikipedia.org/wiki/William_J._Brown" target="ref">William J. Brown</a>, <a href="http://en.wikipedia.org/wiki/Hays_W._McCormick_III" target="ref">Hays W. McCormick III</a> and <a href="http://en.wikipedia.org/wiki/Scott_W._Thomas" target="ref">Scott W. Thomas</a> from the book <cite><a href="bibliography.html#brown-et-al-1999">AntiPatterns and Patterns in Software Configuration Management</a></cite> Copyright &copy; 1999 by William J. Brown, Hays W. Skip McCormick III, Scott W. Thomas
+<a href="http://en.wikipedia.org/wiki/William_J._Brown" class="reflink" target="ref">William J. Brown</a>, <a href="http://en.wikipedia.org/wiki/Hays_W._McCormick_III" class="reflink" target="ref">Hays W. McCormick III</a> and <a href="http://en.wikipedia.org/wiki/Scott_W._Thomas" class="reflink" target="ref">Scott W. Thomas</a> from the book <cite><a href="bibliography.html#brown-et-al-1999">AntiPatterns and Patterns in Software Configuration Management</a></cite> Copyright &copy; 1999 by William J. Brown, Hays W. Skip McCormick III, Scott W. Thomas
 </footer>
 </blockquote>
 
@@ -33,11 +33,11 @@ Just because such dialogue is effective doesn't mean it will be easy, though. He
 I never hesitated to promote someone I didn&#8217;t like. The comfortable assistant, the nice guy you like to go on fishing trips with, is a great pitfall. Instead I looked for those sharp, scratchy, harsh, almost unpleasant guys who see and tell you about things as they really are. If you can get enough of them around you and have patience enough to hear them out, there is no limit to where you can go.</p>
 
 <footer>
-<a href="http://en.wikipedia.org/wiki/Thomas_J._Watson%2C_Jr" target="ref">Thomas J. Watson, Jr</a>
+<a href="http://en.wikipedia.org/wiki/Thomas_J._Watson%2C_Jr" class="reflink" target="ref">Thomas J. Watson, Jr</a>
 </footer>
 </blockquote>
 
-Author and consultant <a href="http://www.weberconsultinggroup.net/craig-weber/" target="ref">Craig Weber</a> makes the point that successful teams need to build what he calls <cite><a href="bibliography.html#weber-2013">Conversational Capacity</a></cite>, and that one way to do so is to incorporate a four-step process into their important discussions. From the perspective of one participant, often a leader, it goes like this:
+Author and consultant <a href="http://www.weberconsultinggroup.net/craig-weber/" class="reflink" target="ref">Craig Weber</a> makes the point that successful teams need to build what he calls <cite><a href="bibliography.html#weber-2013">Conversational Capacity</a></cite>, and that one way to do so is to incorporate a four-step process into their important discussions. From the perspective of one participant, often a leader, it goes like this:
 
 > 1. Candor Skills
 >	* Advocate your *position* clearly and succinctly
@@ -85,6 +85,6 @@ Mossberg: But you must be more than a facilitator who runs meetings. You obvious
 Jobs: I contribute ideas, sure. Why would I be there if I didn&#8217;t? </p>
 
 <footer>
-<a href="http://en.wikipedia.org/wiki/Steve_Jobs" target="ref">Steve Jobs</a> from <cite><a href="bibliography.html#jobs-2010">D8 Conference</a></cite>, &#8220;Conversation with Walt Mossberg&#8221; (06/07/2010)
+<a href="http://en.wikipedia.org/wiki/Steve_Jobs" class="reflink" target="ref">Steve Jobs</a> from <cite><a href="bibliography.html#jobs-2010">D8 Conference</a></cite>, &#8220;Conversation with Walt Mossberg&#8221; (06/07/2010)
 </footer>
 </blockquote>

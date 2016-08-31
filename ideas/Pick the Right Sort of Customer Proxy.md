@@ -5,7 +5,7 @@ Index: product owner
 
 Body:
 
-Nearly every development effort will require some individual or small group to make decisions on behalf of your customer. In Agile literature, this person would be referred to as the <a href="http://www.scaledagileframework.com/product-owner/" target="ref">Product Owner</a>. In other contexts, he or she might be referred to as the product manager, or the system manager, or simply a responsible business analyst.
+Nearly every development effort will require some individual or small group to make decisions on behalf of your customer. In Agile literature, this person would be referred to as the <a href="http://www.scaledagileframework.com/product-owner/" class="reflink" target="ref">Product Owner</a>. In other contexts, he or she might be referred to as the product manager, or the system manager, or simply a responsible business analyst.
 
 Whatever they are called, this person or persons has a critical role to play, since they must ultimately make important decisions about what will be deemed acceptable and desirable and necessary by the broader customer community.
 

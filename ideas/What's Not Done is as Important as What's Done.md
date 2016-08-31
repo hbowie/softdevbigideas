@@ -30,7 +30,7 @@ Of course, when we're considering development of that new thing -- whether it's 
 
 So what is the alternative? What can we do instead of developing that new thing, in order to save all this cost?
 
-* If the need for the new thing is not immediate, then assume for the time being that <a href="https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it" target="ref">You Ain't Gonna Need It</a> (a principle often abbreviated as "YAGNI").
+* If the need for the new thing is not immediate, then assume for the time being that <a href="https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it" class="reflink" target="ref">You Ain't Gonna Need It</a> (a principle often abbreviated as "YAGNI").
 * Suggest the customer use another application or feature [that already exists][reuse].
 * [Simplify and generalize][simplify] existing code to accommodate the intent of the new feature.
 * Do something else that is more important.

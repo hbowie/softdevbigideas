@@ -32,7 +32,7 @@ Listen to these words from John Lennon, one of four equal members of The Beatles
 <p>Was it better to have a guy who was better than the people I had in? To make the group stronger, or to let me be stronger? Instead of going for an individual thing we went for the strongest format -- equals.</p>
 
 <footer>
-<a href="http://en.wikipedia.org/wiki/John_Lennon"  target="ref">John Lennon</a> from the book <cite><a href="bibliography.html#beatles-2000">The Beatles Anthology</a></cite> (2000)
+<a href="http://en.wikipedia.org/wiki/John_Lennon"  class="reflink" target="ref">John Lennon</a> from the book <cite><a href="bibliography.html#beatles-2000">The Beatles Anthology</a></cite> (2000)
 </footer>
 </blockquote>
 
@@ -44,7 +44,7 @@ But what, you may ask, does this have to do with the creation of technology prod
 <p>They sort of kept each other in check. And then when they split up, they never did anything as good. It was the chemistry of a small group of people, and that chemistry was greater than the sum of the parts. </p>
 
 <footer>
-<a href="http://en.wikipedia.org/wiki/Steve_Jobs"  target="ref">Steve Jobs</a> from the interview <cite><a href="bibliography.html#jobs-2004">Brent Schlender's Conversations with Steve Jobs</a></cite>Copyright &copy; October, 2004 by Mansueto Ventures
+<a href="http://en.wikipedia.org/wiki/Steve_Jobs"  class="reflink" target="ref">Steve Jobs</a> from the interview <cite><a href="bibliography.html#jobs-2004">Brent Schlender's Conversations with Steve Jobs</a></cite>Copyright &copy; October, 2004 by Mansueto Ventures
 </footer>
 </blockquote>
 
@@ -56,7 +56,7 @@ Let's try another major branch of music from the 20th century. Listen to this de
 <p>Jazz is the most flexible art form ever because it believes in the good taste of individuals. It believes in our ability to make reasonable choices. It takes a chance on our decision-making skills instead of legislating our freedom away with written restrictions and restrictive hierarchies. In jazz, the size of your heart and your ability to play determine your position in the band. The philosophy of jazz is rooted in the elevation and enrichment of people, plain ol&#8217; folks.</p>
 
 <footer>
-<a href="http://en.wikipedia.org/wiki/Wynton_Marsalis"  target="ref">Wynton Marsalis</a> from the book <cite><a href="bibliography.html#marsalis-2008">Moving to Higher Ground: How Jazz Can Change Your Life</a></cite> Copyright &copy; 2008 by Wynton Marsalis Enterprises
+<a href="http://en.wikipedia.org/wiki/Wynton_Marsalis"  class="reflink" target="ref">Wynton Marsalis</a> from the book <cite><a href="bibliography.html#marsalis-2008">Moving to Higher Ground: How Jazz Can Change Your Life</a></cite> Copyright &copy; 2008 by Wynton Marsalis Enterprises
 </footer>
 </blockquote>
 
@@ -90,7 +90,7 @@ There seem to be three possible approaches here:
 
 	In this third way, managers don't take themselves out of the game and reduce their roles to cheerleaders on the sidelines, but instead act with their own sense of purpose, autonomy and mastery to help their teams succeed.
 
-For more on the similarities between Jazz and Agile, see the Pagan Tuna post, &ldquo;<a href="http://www.pagantuna.com/posts/take-the-agile-train.html" target="ref">Take the Agile Train</a>.&rdquo;
+For more on the similarities between Jazz and Agile, see the Pagan Tuna post, &ldquo;<a href="http://www.pagantuna.com/posts/take-the-agile-train.html" class="reflink" target="ref">Take the Agile Train</a>.&rdquo;
 
 ----
 
@@ -99,7 +99,7 @@ For more on the similarities between Jazz and Agile, see the Pagan Tuna post, &l
 Traditional rigorous methodologies, and software engineering in general, focus on architecture, requirements and design; coding and testing are considered low-value &#8216;construction&#8217; activities. In these methodologies, the high-leverage activities are the up-front activities. Agilists reverse this emphasis.</p>
 
 <footer>
-<a href="http://en.wikipedia.org/wiki/Jim_Highsmith"  target="ref">Jim Highsmith</a> from the book <cite><a href="bibliography.html#highsmith-2002">Agile Software Development Ecosystems</a></cite> Copyright &copy; 2002 by Pearson Education, Inc.
+<a href="http://en.wikipedia.org/wiki/Jim_Highsmith"  class="reflink" target="ref">Jim Highsmith</a> from the book <cite><a href="bibliography.html#highsmith-2002">Agile Software Development Ecosystems</a></cite> Copyright &copy; 2002 by Pearson Education, Inc.
 </footer>
 </blockquote>
 
@@ -110,7 +110,7 @@ Traditional rigorous methodologies, and software engineering in general, focus o
 Without work, all life goes rotten. But when work is soulless, life stifles and dies.</p>
 
 <footer>
-<a href="http://en.wikipedia.org/wiki/Albert_Camus"  target="ref">Albert Camus</a>
+<a href="http://en.wikipedia.org/wiki/Albert_Camus"  class="reflink" target="ref">Albert Camus</a>
 </footer>
 </blockquote>
 

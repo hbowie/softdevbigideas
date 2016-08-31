@@ -20,7 +20,7 @@ Here are some key issues to be considered before purchasing a Commercial Off the
 
 **1. Can system requirements be based on some set of rules that are generally accepted by industry?**
 
-As an example, a computer-aided design (CAD) system is based on certain rules of geometry -- pretty hard for a user to insist that these need to be customized! Similarly, an application like <a href="http://www.turbotax.com" target="ref">TurboTax</a> is based on a particular country's tax code -- which would make it hard to justify the internal development of a custom system to perform a similar function. Another example would be a <a href="http://en.wikipedia.org/wiki/Material_requirements_planning" target="ref">Materials Requirements Planning</a> (MRP) system, which can rely on standard practices defined by the <a href="http://www.apics.org" target="ref">APICS</a> organization.
+As an example, a computer-aided design (CAD) system is based on certain rules of geometry -- pretty hard for a user to insist that these need to be customized! Similarly, an application like <a href="http://www.turbotax.com" class="reflink" target="ref">TurboTax</a> is based on a particular country's tax code -- which would make it hard to justify the internal development of a custom system to perform a similar function. Another example would be a <a href="http://en.wikipedia.org/wiki/Material_requirements_planning" class="reflink" target="ref">Materials Requirements Planning</a> (MRP) system, which can rely on standard practices defined by the <a href="http://www.apics.org" class="reflink" target="ref">APICS</a> organization.
 
 In my experience, COTS packages that are largely based on standard sets of rules such as these are frequently well accepted by users and developers, while others with more variable or controversial requirements are not.
 
@@ -38,7 +38,7 @@ Cycle times for changes to COTS software -- measured from concept to cash, from 
 
 Customers often optimistically expect to be able to benefit from future releases of an application, but in practice, the web of connections to other applications becomes so complex over time that the costs of implementing a new release often outweigh the benefits. And even when these connections start out being well managed by IT, interfaces with user-developed software and data stores often overwhelm the best laid IT architecture.
 
-**5. Is there a viable business model for an <a href="http://en.wikipedia.org/wiki/Independent_software_vendor" target="ref">independent software vendor</a> (ISV) to produce the desired system over the long haul?**
+**5. Is there a viable business model for an <a href="http://en.wikipedia.org/wiki/Independent_software_vendor" class="reflink" target="ref">independent software vendor</a> (ISV) to produce the desired system over the long haul?**
 
 Companies routinely assess the financial stability of potential suppliers, but often fail to question the long-term viability of a vendor's business model. What matters is not how many customers and how much cash in the bank they have today, but how they will maintain those numbers over time. As a notorious example, suppliers that market software specifically designed for government contractors tend to go belly-up with disturbing regularity.
 
@@ -55,7 +55,7 @@ Consideration of these factors can often help guide a team to a make-or-buy deci
 It&#8217;s far too rarely stated that the technology industry is not in the business of making people productive. It is only in the business of selling more technology. Granted, some companies make better tools than others, and users can be productive with some of today&#8217;s tools. But in the technology business, users&#8217; productivity is secondary to profitability. No matter what a company claims, feature lists and upgrades are designed for the company&#8217;s success, not the users&#8217;.</p>
 
 <footer>
-<a href="http://creativegood.com/mark-hurst/" target="ref">Mark Hurst</a> from the book <cite><a href="bibliography.html#hurst-2007">Bit Literacy: Productivity in the Age of Information and E-mail Overload</a></cite> Copyright &copy; 2007 by Good Experience, Inc.
+<a href="http://creativegood.com/mark-hurst/" class="reflink" target="ref">Mark Hurst</a> from the book <cite><a href="bibliography.html#hurst-2007">Bit Literacy: Productivity in the Age of Information and E-mail Overload</a></cite> Copyright &copy; 2007 by Good Experience, Inc.
 </footer>
 </blockquote>
 

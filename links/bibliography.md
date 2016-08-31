@@ -342,6 +342,10 @@
 
 [reinertsen-2012]: bibliography.html#reinertsen-2012
 
+[The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses][ries-2011]
+
+[ries-2011]: bibliography.html#ries-2011
+
 [Mastering the Requirements Process][robertson-1999]
 
 [robertson-1999]: bibliography.html#robertson-1999

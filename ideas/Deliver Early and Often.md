@@ -8,11 +8,11 @@ Index: lean
 Index: inventory
 Index: waste
 Index: trust
-Index: customers
+Index: customer
 Index: prioritization
 Index: batch sizes
 Index: problems
-Index: sprints
+Index: sprint
 Index: cycle time
 Index: Poppendieck, Mary and Tom
 Index: Lewis, Bob

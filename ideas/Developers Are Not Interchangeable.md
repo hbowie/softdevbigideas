@@ -1,7 +1,7 @@
 Title: Developers Are Not Interchangeable
 
 Index: interchangeable
-Index: developers
+Index: developer
 Index: Brooks, Fred
 Index: Dreyfus Model of Skill Acquisition
 Index: Spolsky, Joel
@@ -11,7 +11,7 @@ Body:
 
 Aptitude, skills and experience all make a difference.
 
-This is one reason why, as <a href="https://en.wikipedia.org/wiki/Fred_Brooks" target="ref">Fred Brooks</a> pointed out long ago in the "[Mythical Man-Month][brooks-1975]," estimates for software development can be entirely misleading.
+This is one reason why, as <a href="https://en.wikipedia.org/wiki/Fred_Brooks" class="reflink" target="ref">Fred Brooks</a> pointed out long ago in the "[Mythical Man-Month][brooks-1975]," estimates for software development can be entirely misleading.
 
 Software developers are all different, and different along many different dimensions. Here are some of the ways in which they differ:
 
@@ -27,7 +27,7 @@ Software developers are all different, and different along many different dimens
 
 * Teaming -- Some developers play well with others, while some tend to operate more independently.
 
-When considering these differences, it's good to be familiar with the <a href="https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition" target="ref">Dreyfus Model of Skill Acquisition</a>, since experts often behave very differently than beginners when it comes to their tolerance/need for rigid rules. For more on this topic, see the Pagan Tuna post, &ldquo;<a href="http://www.pagantuna.com/posts/the-dreyfus-model-of-skill-acquisition.html" target="ref">The Dreyfus Model of Skill Acquisition</a>.&rdquo; Also see "[The Seven Stages of Expertise in Software Engineering][page-jones-1998]," by Meilir Page-Jones.
+When considering these differences, it's good to be familiar with the <a href="https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition" class="reflink" target="ref">Dreyfus Model of Skill Acquisition</a>, since experts often behave very differently than beginners when it comes to their tolerance/need for rigid rules. For more on this topic, see the Pagan Tuna post, &ldquo;<a href="http://www.pagantuna.com/posts/the-dreyfus-model-of-skill-acquisition.html" class="reflink" target="ref">The Dreyfus Model of Skill Acquisition</a>.&rdquo; Also see "[The Seven Stages of Expertise in Software Engineering][page-jones-1998]," by Meilir Page-Jones.
 
 It's also good to consider these differences when forming a team. You generally will want a good mix of skills and experience, and you will want teammates who can work well together.
 

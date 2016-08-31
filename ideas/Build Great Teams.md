@@ -9,7 +9,7 @@ Index: diversity
 Index: filmmaking
 Index: jazz
 Index: leadership
-Index: lean manufacturing
+Index: lean
 Index: rock music
 Index: team norms
 Index: team size
@@ -20,7 +20,7 @@ Body:
 
 At the core of most of the important work done in this world you will find a small, multi-skilled team with effective leadership focused on delivering a product of value to a customer.
 
-Note that teams such as these are found in contexts as different as [Jazz bands][boynton-fischer-2009], <a href="http://www.reasontorock.com/elements/collaboration.html" target="ref">Rock groups</a>, <a href="https://www.filmandmusic.com/articles/7-perspectives-on-the-absolute-importance-of-collaboration/19" target="ref">filmmaking</a>, [Agile Software Development][beck-et-al-2001] and <a href="https://en.wikipedia.org/wiki/Cellular_manufacturing" target="ref">Lean Manufacturing</a>, to name just a few obvious examples.
+Note that teams such as these are found in contexts as different as [Jazz bands][boynton-fischer-2009], <a href="http://www.reasontorock.com/elements/collaboration.html" class="reflink" target="ref">Rock groups</a>, <a href="https://www.filmandmusic.com/articles/7-perspectives-on-the-absolute-importance-of-collaboration/19" class="reflink" target="ref">filmmaking</a>, [Agile Software Development][beck-et-al-2001] and <a href="https://en.wikipedia.org/wiki/Cellular_manufacturing" class="reflink" target="ref">Lean Manufacturing</a>, to name just a few obvious examples.
 
 It's now commonplace in business to take the work of teams for granted, but passive acceptance doesn't always translate into active support.
 
@@ -42,7 +42,7 @@ And note that the ideas of [decomposition][], [cohesion][] and [loose coupling][
 
 ### "Multi-Skilled"
 
-For the sort of team I'm talking about, it's important for the team to be relatively self-sufficient, which means that all or most of the skills important to the team need to be available within the team. This is different from the <a href="http://cache3.asset-cache.net/gc/488831-oboe-section-of-symphony-orchestra-gettyimages.jpg?v=1&c=IWSAsset&k=2&d=IiGirUeIzJ8wi3f90FPuI98CoL0wZP6rTCu2aRcHxwrY9mrAweEJgX8Wb2%2FKWjqZ" target="ref">oboe section</a> within an orchestra, or a <a href="http://gunsandburgers.com/wp-content/uploads/2015/04/Steno-pool-in-office-1959-Seattle-Municipal-Archives-CC-BY-2.0-1200x400.gif" target="ref">steno pool</a>, or any sort of pool of resources sharing similar skills. A multi-skilled team is empowered to act as a collective. A group of people with similar skills will not achieve the sorts of benefits I've listed above for a small team.
+For the sort of team I'm talking about, it's important for the team to be relatively self-sufficient, which means that all or most of the skills important to the team need to be available within the team. This is different from the <a href="http://cache3.asset-cache.net/gc/488831-oboe-section-of-symphony-orchestra-gettyimages.jpg?v=1&c=IWSAsset&k=2&d=IiGirUeIzJ8wi3f90FPuI98CoL0wZP6rTCu2aRcHxwrY9mrAweEJgX8Wb2%2FKWjqZ" class="reflink" target="ref">oboe section</a> within an orchestra, or a <a href="http://gunsandburgers.com/wp-content/uploads/2015/04/Steno-pool-in-office-1959-Seattle-Municipal-Archives-CC-BY-2.0-1200x400.gif" class="reflink" target="ref">steno pool</a>, or any sort of pool of resources sharing similar skills. A multi-skilled team is empowered to act as a collective. A group of people with similar skills will not achieve the sorts of benefits I've listed above for a small team.
 
 ### "With Effective Leadership"
 
@@ -69,7 +69,7 @@ First is the cultivation of and adherence to team norms.
 
 Software development is by its nature a particularly solitary activity. Much of the work involves one programmer, one keyboard and one computer. And the quality and quantity of the work being done in this way is often hard to observe directly.
 
-This is one reason why <a href="https://en.wikipedia.org/wiki/Watts_Humphrey" target="ref">Watts Humphrey</a> commented:
+This is one reason why <a href="https://en.wikipedia.org/wiki/Watts_Humphrey" class="reflink" target="ref">Watts Humphrey</a> commented:
 
 > Trying to change the behavior of software engineers is like herding cats. They are very independent people; they all have their own ideas, and they won't tell you what they think, particularly if they disagree with you. They just do what they want to do.
 >
@@ -86,7 +86,7 @@ Another important team characteristic deserving of further emphasis is that of d
 In one of our studies, we compared homogeneous and diverse groups trying to solve a murder mystery. The diverse groups reported that they didn&#8217;t work together very effectively, and they were less confident about their decisions than the homogeneous groups, yet they consistently outperformed those homogeneous groups.</p>
 
 <footer>
-<a href="http://www8.gsb.columbia.edu/cbs-directory/detail/kp2447" target="ref">Katherine Phillips</a> from the article <cite><a href="bibliography.html#phillips-2009">Forbes</a></cite>, &#8221;Diversity Helps Your Business &#8212; But Not The Way You Think&#8221; (June 2, 2009)
+<a href="http://www8.gsb.columbia.edu/cbs-directory/detail/kp2447" class="reflink" target="ref">Katherine Phillips</a> from the article <cite><a href="bibliography.html#phillips-2009">Forbes</a></cite>, &#8221;Diversity Helps Your Business &#8212; But Not The Way You Think&#8221; (June 2, 2009)
 </footer>
 </blockquote>
 
@@ -120,7 +120,7 @@ Yet how many organizations embrace this truth as one of their core operating pri
 
 Instead leaders of large organizations often seem to lose grasp of what's going on within their teams, and as a result lose track of the effects their decisions may have on the operation of these teams. After all, if leaders observe the business norms of interacting only with those immediately above, below or adjacent to them in the organization, with only occasional ceremonial contact with any working teams, it is all to easy for them to insulate themselves from first-hand knowledge of what's happening at this level of their organizations.
 
-I think this is one reason why the the <a href="https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/" target="ref">videos on Spotify Engineering Culture</a> have been so popular. There are a lot of great ideas here, but many team members simply seem to like the fact that a major company thinks their teams are so important that they will release content entirely focused on the way their teams function.
+I think this is one reason why the the <a href="https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/" class="reflink" target="ref">videos on Spotify Engineering Culture</a> have been so popular. There are a lot of great ideas here, but many team members simply seem to like the fact that a major company thinks their teams are so important that they will release content entirely focused on the way their teams function.
 
 Let me return to my original assertion:
 
@@ -128,7 +128,7 @@ Let me return to my original assertion:
 
 If this is true, then you need to ask yourself: what is your organization doing today to create, nurture and sustain these sorts of teams?
 
-For more on this topic, see the Pagan Tuna post, &ldquo;<a href="http://www.pagantuna.com/posts/the-power-of-diverse-teams.html" target="ref">The Power of Diverse Teams</a>.&rdquo;
+For more on this topic, see the Pagan Tuna post, &ldquo;<a href="http://www.pagantuna.com/posts/the-power-of-diverse-teams.html" class="reflink" target="ref">The Power of Diverse Teams</a>.&rdquo;
 
 ----
 
@@ -143,7 +143,7 @@ Now, I arrived after this reorganization occurred, so I don&#8217;t know the act
 I can&#8217;t imagine building a team responsible for consumer products where engineers and designers weren&#8217;t constantly meddling in each other&#8217;s business. Yes, they often argue from completely opposite sides of the brain. Yes, it is often a battle of art and science, but engineering and design want exactly the same thing. They want the intense satisfaction of knowing they successfully built something that matters.</p>
 
 <footer>
-<a href="http://en.wikipedia.org/wiki/Michael_Lopp" target="ref">Michael Lopp</a> from the book <cite><a href="bibliography.html#lopp-2007">Managing Humans: Biting and Humorous Tales of a Software Engineering Manager</a></cite> Copyright &copy; 2007 by Michael Lopp
+<a href="http://en.wikipedia.org/wiki/Michael_Lopp" class="reflink" target="ref">Michael Lopp</a> from the book <cite><a href="bibliography.html#lopp-2007">Managing Humans: Biting and Humorous Tales of a Software Engineering Manager</a></cite> Copyright &copy; 2007 by Michael Lopp
 </footer>
 </blockquote>
 
@@ -151,7 +151,7 @@ I can&#8217;t imagine building a team responsible for consumer products where en
 
 > No man is more important than The Team. No coach is more important than The Team. The Team, The Team, The Team, and if we think that way, all of us, everything that you do, you take into consideration what effect does it have on my Team? We're gonna believe in each other, we're not gonna criticize each other, we're not gonna talk about each other, we're gonna encourage each other.
 >
-> -- <a href="https://en.wikipedia.org/wiki/Bo_Schembechler" target="ref">Bo Schembechler</a>, Legendary University of Michigan Football Coach, [addressing his team in 1983][schembechler-1983]
+> -- <a href="https://en.wikipedia.org/wiki/Bo_Schembechler" class="reflink" target="ref">Bo Schembechler</a>, Legendary University of Michigan Football Coach, [addressing his team in 1983][schembechler-1983]
 
 [0]: http://en.wikipedia.org/wiki/Alan_Mulally
 [wh]:   https://en.wikipedia.org/wiki/Watts_Humphrey

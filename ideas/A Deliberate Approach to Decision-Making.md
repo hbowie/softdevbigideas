@@ -2,7 +2,7 @@ Title: A Deliberate Approach to Decision-Making
 
 Index: Argyris, Chris
 Index: Cockburn, Alistair
-Index: Poppendieck, Tom and Mary
+Index: Poppendieck, Mary and Tom
 Index: Schön, Donald
 Index: concurrent development
 Index: decisions

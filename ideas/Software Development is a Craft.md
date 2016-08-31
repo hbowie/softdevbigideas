@@ -7,7 +7,7 @@ Index: specifications
 Index: Jobs, Steve
 Index: liberal arts
 Index: humanities
-Index: Austin, Rob
+Index: Austin, Robert D.
 Index: Devin, Lee
 Index: artful making
 Index: industrial making

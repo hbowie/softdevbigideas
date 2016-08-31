@@ -38,6 +38,10 @@
 
 [cohesion]: cohesion.html
 
+[Colophon][colophon]
+
+[colophon]: colophon.html
+
 [Communicate Clearly][communicate]
 
 [communicate]: communicate-clearly.html
@@ -94,6 +98,10 @@
 
 [docs]: documentation-is-not-an-end-unto-itself.html
 
+[Don't Wait to Integrate][integration]
+
+[integration]: dont-wait-to-integrate.html
+
 [Entrepreneurial Leadership][entrepreneur]
 
 [entrepreneur]: entrepreneurial-leadership.html
@@ -113,10 +121,6 @@
 [Increase Developer Engagement][engagement]
 
 [engagement]: increase-developer-engagement.html
-
-[Integrate Early and Often][integration]
-
-[integration]: integrate-early-and-often.html
 
 [Introduction][intro]
 

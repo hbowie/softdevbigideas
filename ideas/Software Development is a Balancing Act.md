@@ -9,7 +9,7 @@ Index: Goldwater, Barry
 Index: polarities
 Index: Polarity Management (http://www.polaritypartnerships.com/)
 Index: risk management
-Index: Robertson, Suzanne and James
+Index: Robertson, James and Suzanne
 Index: sacred cows
 Index: Turner, Richard
 
@@ -23,7 +23,7 @@ The pros and cons of a polarity are often represented in the form of a polarity 
 
 ![Sample Polarity Map](images/polarity-map.jpg)
 
-If you are facing a polarity, then you will want to engage in <a href="http://www.polaritypartnerships.com/" target="ref">Polarity Management</a>, rather than trying to pick one pole or the other.
+If you are facing a polarity, then you will want to engage in <a href="http://www.polaritypartnerships.com/" class="reflink" target="ref">Polarity Management</a>, rather than trying to pick one pole or the other.
 
 ## Polarity Examples
 
@@ -35,7 +35,7 @@ Alan M. Davis describes this polarity in his book <cite>[Just Enough Requirement
 
 > If you do not pay enough attention to requirements, you endanger the project's success by introducing too much risk. If you pay too much attention to requirements, you overburden the project and raise the likelihood of being late and over-budget.
 
-Suzanne and James Robertson <a href="http://www.infoq.com/articles/mastering-requirements-process" target="ref">speak to the same polarity</a> in their book, <cite>[Mastering the Requirements Process][robertson-1999]</cite>, through use of animal analogies:
+Suzanne and James Robertson <a href="http://www.infoq.com/articles/mastering-requirements-process" class="reflink" target="ref">speak to the same polarity</a> in their book, <cite>[Mastering the Requirements Process][robertson-1999]</cite>, through use of animal analogies:
 
 > We are asking the reader to consider his or her project. Is it a small, fast, short-lived project? If so it is a rabbit project and you should do only certain things and omit others. For example, we suggest that rabbit projects should certainly discover all their requirements, but that they do not have to write a comprehensive specification. Rabbit projects can abbreviate their specification.
 >
@@ -85,7 +85,7 @@ Long-term strategic visions can offer compelling, sweeping changes, but achievem
 
 Higher level languages such as Java often offer greater programmer productivity. On the other hand, low-level languages such as C can sometimes offer improved software execution speed.
 
-For more IT issues that often need a balanced approach, see the Pagan Tuna post, &ldquo;<a href="http://www.pagantuna.com/posts/what-does-it-mean-to-be-world-class-it.html" target="ref">What does it mean to be World Class IT?</a>.&rdquo;
+For more IT issues that often need a balanced approach, see the Pagan Tuna post, &ldquo;<a href="http://www.pagantuna.com/posts/what-does-it-mean-to-be-world-class-it.html" class="reflink" target="ref">What does it mean to be World Class IT?</a>.&rdquo;
 
 ## Implications
 

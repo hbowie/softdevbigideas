@@ -8,29 +8,32 @@ Index: Liker, Jeffrey K.
 Index: Toyota
 Index: Sienna
 Index: requirements
-Index: Robertson, Suzanne and James
+Index: Robertson, James and Suzanne
+Index: persona (https://en.wikipedia.org/wiki/Persona_(user_experience))
 
 Body:
 
 One of the great myths of software development is that we can ask our customers to tell us what they want, that they will write these items down for us as requirements, and we can then successfully build software based on those documents.
 
-As <a href="http://en.wikipedia.org/wiki/Henry_Ford" target="ref">Henry Ford</a> noted:
+As <a href="http://en.wikipedia.org/wiki/Henry_Ford" class="reflink" target="ref">Henry Ford</a> noted:
 
 > If I had asked people what they wanted, they would have said faster horses.
 
 It's important to start your development journey by understanding as much as you can about your customers: those you hope will find enough value in your product to be willing to exchange something else of value for the privilege of using it.
 
-<a href="https://en.wikipedia.org/wiki/Alan_M._Davis" target="ref">Alan M. Davis</a> offers good advice in his encyclopedic work, <cite>[201 Principles of Software Development][davis-1995]</cite>:
+<a href="https://en.wikipedia.org/wiki/Alan_M._Davis" class="reflink" target="ref">Alan M. Davis</a> offers good advice in his encyclopedic work, <cite>[201 Principles of Software Development][davis-1995]</cite>:
 
 > Requirements are hard to understand and harder to specify. The wrong solution to this problem is to do a slipshod job of requirements specification, and rush ahead to design and code.... The right solution is to do whatever it takes to learn as many of the requirements as possible *now*. Do prototyping. Talk with more customers. Work for a month with a customer to get to know his or her job firsthand. Collect data. Do whatever it takes.
 
-Here's a product development story that <a href="https://www.lean.org/LeanPost/Author.cfm?LeanPostAuthorId=22" target="ref">James M. Morgan</a> and <a href="http://www.jeffliker.com" target="ref">Jeffrey K. Liker</a> tell in their 2006 book <cite>[The Toyota Product Development System: Integrating People, Process and Technology][morgan-liker-2006]</cite> that illustrates Davis' point:
+Here's a product development story that <a href="https://www.lean.org/LeanPost/Author.cfm?LeanPostAuthorId=22" class="reflink" target="ref">James M. Morgan</a> and <a href="http://www.jeffliker.com" class="reflink" target="ref">Jeffrey K. Liker</a> tell in their 2006 book <cite>[The Toyota Product Development System: Integrating People, Process and Technology][morgan-liker-2006]</cite> that illustrates Davis' point:
 
 > While developing Toyota's successful 2003 Sienna, the Sienna CE [Chief Engineer] drove his team in Toyota's previous minivan model more than 50,000 miles across North America through every part of Canada, the United States and Mexico. The CE experienced a visceral lesson in what is important to the North American minivan driver and discovered in every locale new opportunities for improving the current product.
 
-Documenting customer requirements is not simply a passive task, but a creative one. <a href="http://www.systemsguild.com" target="ref">Suzanne and James Robertson</a>, writing in <cite>[Mastering the Requirements Process][robertson-1999]</cite>, point out that:
+Documenting customer requirements is not simply a passive task, but a creative one. <a href="http://www.systemsguild.com" class="reflink" target="ref">Suzanne and James Robertson</a>, writing in <cite>[Mastering the Requirements Process][robertson-1999]</cite>, point out that:
 
 > The requirements analyst has to inject something new into the process: his vision of what the product might be. In other words, the requirements are not simply the passive interpretation of an existing piece of work, but contain inventions that will make the work easier, better, more interesting and more pleasant.
+
+Defining one or more <a href="https://en.wikipedia.org/wiki/Persona_(user_experience)" target="ref">user personas</a> is often a good way to help developers form useful pictures of what their users are like, and what interests and preferences their users may have.
 
 Taking all of this wisdom into account, here are what I would consider the key points to keep in mind about requirements.
 

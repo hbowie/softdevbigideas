@@ -2,7 +2,7 @@ Title: Remain Open to Fresh Learning
 
 Index: learning
 Index: Agile Manifesto
-Index: Poppendieck, Tom and Mary
+Index: Poppendieck, Mary and Tom
 Index: waterfall development
 Index: Bezos, Jeff
 

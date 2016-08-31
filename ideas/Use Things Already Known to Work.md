@@ -24,7 +24,7 @@ Note that this idea can be applied at any phase within a project.
 
 At the governance stage, this idea can be applied by using existing software rather than developing something new, including the idea of buying software rather than building new software.
 
-At the design stage, this idea can be applied by making use of existing application frameworks, component packages and <a href="https://en.wikipedia.org/wiki/Software_design_pattern" target="ref">design patterns</a>, rather than having development teams "roll their own" solutions.
+At the design stage, this idea can be applied by making use of existing application frameworks, component packages and <a href="https://en.wikipedia.org/wiki/Software_design_pattern" class="reflink" target="ref">design patterns</a>, rather than having development teams "roll their own" solutions.
 
 And at the execution stage, this idea can be applied by ensuring that data or logic needed in more than one place is created once by one team and made available as a reusable class, module, function or configuration file to others.
 
@@ -39,7 +39,7 @@ As with [quality][], it often requires some forethought and extra effort to indu
 Just as possessing a rich vocabulary of words enables you to write well, possessing a rich vocabulary of design patterns enables you to design well.</p>
 
 <footer>
-<a href="http://en.wikipedia.org/wiki/Benjamin_L._Kovitz"  target="ref">Benjamin L. Kovitz</a> from the book <cite><a href="bibliography.html#kovitz-1999">Practical Software Requirements: A Manual of Content and Style</a></cite> Copyright &copy; 1999 by Manning Publications Co.
+<a href="http://en.wikipedia.org/wiki/Benjamin_L._Kovitz"  class="reflink" target="ref">Benjamin L. Kovitz</a> from the book <cite><a href="bibliography.html#kovitz-1999">Practical Software Requirements: A Manual of Content and Style</a></cite> Copyright &copy; 1999 by Manning Publications Co.
 </footer>
 </blockquote>
 
@@ -61,7 +61,7 @@ The following is an exhaustive list of <em>all</em> problem-solving techniques, 
 The third &#8212; enormous &#8212; category lumps functional decomposition together with whacks on the side of the head, thinking outside the box, and all the others because, compared to the first two techniques, they are nearly worthless.</p>
 
 <footer>
-<a href="http://en.wikipedia.org/wiki/Benjamin_L._Kovitz"  target="ref">Benjamin L. Kovitz</a> from the book <cite><a href="bibliography.html#kovitz-1999">Practical Software Requirements: A Manual of Content and Style</a></cite> Copyright &copy; 1999 by Manning Publications Co.
+<a href="http://en.wikipedia.org/wiki/Benjamin_L._Kovitz"  class="reflink" target="ref">Benjamin L. Kovitz</a> from the book <cite><a href="bibliography.html#kovitz-1999">Practical Software Requirements: A Manual of Content and Style</a></cite> Copyright &copy; 1999 by Manning Publications Co.
 </footer>
 </blockquote>
 

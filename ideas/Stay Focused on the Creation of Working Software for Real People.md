@@ -24,7 +24,7 @@ Body:
 
 This was a major message of the Agile movement, which opened its [Manifesto][beck-et-al-2001] with the words: "We are uncovering better ways of developing software by doing it and helping others do it."
 
-To a great extent, this was a reaction to the <a href="https://en.wikipedia.org/wiki/Capability_Maturity_Model" target="ref">Capability Maturity Model</a> era, in which the actual act of software coding was often overshadowed by achievement of maturity levels, implementation of key process areas, documentation of processes, generation of artifacts and tallying of metrics.
+To a great extent, this was a reaction to the <a href="https://en.wikipedia.org/wiki/Capability_Maturity_Model" class="reflink" target="ref">Capability Maturity Model</a> era, in which the actual act of software coding was often overshadowed by achievement of maturity levels, implementation of key process areas, documentation of processes, generation of artifacts and tallying of metrics.
 
 As noted in the SEI paper, "[CMMI&reg; or Agile: Why Not Embrace Both?][sei-2008]":
 
@@ -32,7 +32,7 @@ As noted in the SEI paper, "[CMMI&reg; or Agile: Why Not Embrace Both?][sei-2008
 
 The point here is that well-intentioned improvement efforts, whether initiated by management or by consultants, can all too easily prove a distraction to the actual production of working software to be used by real people, often to the detriment of everyone involved.
 
-In particular, you would do well to avoid any sort of zealotry concerning any particular model being peddled by management consultants: while most such models can be useful, all are imperfect representations of reality, and most tend to take on a life of their own after a certain period of time. For more on this topic, see the Pagan Tuna post, &ldquo;<a href="http://www.pagantuna.com/posts/model-mania.html" target="ref">Model Mania</a>.&rdquo;
+In particular, you would do well to avoid any sort of zealotry concerning any particular model being peddled by management consultants: while most such models can be useful, all are imperfect representations of reality, and most tend to take on a life of their own after a certain period of time. For more on this topic, see the Pagan Tuna post, &ldquo;<a href="http://www.pagantuna.com/posts/model-mania.html" class="reflink" target="ref">Model Mania</a>.&rdquo;
 
 It would be wise to pay heed to the advice on this subject from <cite>[Steve Jobs: The Lost Interview][jobs-1995]</cite>:
 
@@ -50,7 +50,7 @@ Wired: In your experience, what&#8217;s the best process for design? </p>
 Brooks: Great design does not come from great processes; it comes from great designers.</p>
 
 <footer>
-<a href="http://en.wikipedia.org/wiki/Fred_Brooks" target="ref">Fred Brooks</a> from the interview <cite><a href="bibliography.html#brooks-2010">Wired Magazine</a></cite>, &#8221;Master Planner: Fred Brooks Shows How to Design Anything&#8221; (07/28/2010)
+<a href="http://en.wikipedia.org/wiki/Fred_Brooks" class="reflink" target="ref">Fred Brooks</a> from the interview <cite><a href="bibliography.html#brooks-2010">Wired Magazine</a></cite>, &#8221;Master Planner: Fred Brooks Shows How to Design Anything&#8221; (07/28/2010)
 </footer>
 </blockquote>
 

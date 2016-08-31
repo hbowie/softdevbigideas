@@ -1,12 +1,12 @@
 Title: Plan-Do-Check-Act
 
-Index: design thinking
+Index: Design Thinking (https://youtu.be/0V5BwTrQOCs)
 Index: experiment
 Index: PDCA
-Index: plan-do-check-act
+Index: Plan-Do-Check-Act
 Index: scientific method (https://en.wikipedia.org/wiki/Scientific_method)
 Index: Von Braun, Wernher
-Index: waterfall
+Index: waterfall development
 
 Body:
 
@@ -16,7 +16,7 @@ One way is to [use things already proven to work][reuse].
 
 But most significant development efforts will also involve some innovation. And when we try new things, they may not always work as well as we first thought they might.
 
-One proven approach to learn what works is known as the <a href="https://en.wikipedia.org/wiki/PDCA" target="ref">Plan-Do-Check-Act</a> cycle, often abbreviated as PDCA.
+One proven approach to learn what works is known as the <a href="https://en.wikipedia.org/wiki/PDCA" class="reflink" target="ref">Plan-Do-Check-Act</a> cycle, often abbreviated as PDCA.
 
 It goes like this:
 
@@ -27,7 +27,7 @@ It goes like this:
 
 Note that the PDCA cycle can be used on elements of a product design, but also on attempts to improve development processes. The same basic cycle applies equally well to both.
 
-The PDCA cycle can also be thought of as a compressed version of the <a href="https://en.wikipedia.org/wiki/Scientific_method" target="ref">Scientific Method</a>, as indicated in the following table.
+The PDCA cycle can also be thought of as a compressed version of the <a href="https://en.wikipedia.org/wiki/Scientific_method" class="reflink" target="ref">Scientific Method</a>, as indicated in the following table.
 
 <table class="table table-bordered table-condensed table-dense">
 	<thead>
@@ -105,7 +105,7 @@ Note that the plan-do-check-act cycle can be used to evaluate [alternatives][].
 
 You must test in such a way that you can clearly see how well your plan is working.
 
-As <a href="http://en.wikipedia.org/wiki/Wernher_Von_Braun" target="ref">Wernher Von Braun</a>, famed rocket scientist, once said:
+As <a href="http://en.wikipedia.org/wiki/Wernher_Von_Braun" class="reflink" target="ref">Wernher Von Braun</a>, famed rocket scientist, once said:
 
 > One test result is worth one thousand expert opinions.
 

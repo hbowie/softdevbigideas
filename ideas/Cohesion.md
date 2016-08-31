@@ -17,5 +17,5 @@ Be careful, though, not to group elements together based on a shared or similar 
 
 In other words, and in the case of development teams, you would not normally maximize cohesion by assigning each database analyst to a group of other database analysts, since the primary communication for each would be with the developers they are supporting, and not with other DBAs.
 
-Instead, groups of individuals performing similar roles on different teams can best communicate with each other as members of a <a href="https://en.wikipedia.org/wiki/Community_of_practice" target="ref">Community of Practice</a>. Such a group may also be referred to as a guild.
+Instead, groups of individuals performing similar roles on different teams can best communicate with each other as members of a <a href="https://en.wikipedia.org/wiki/Community_of_practice" class="reflink" target="ref">Community of Practice</a>. Such a group may also be referred to as a guild.
 
