@@ -34,9 +34,12 @@ filter	clear
 filter	set		params	
 template	open	text		#PATH#../factory/idea_body_template.html
 template	generate			
-<!-- Generate the index by title body -->
+<!-- Generate the site map -->
 input	set		normalization	0
 input	open	xls		#PATH#../lists/ideas.xls
+template	open	text		#PATH#../factory/sitemap_template.xml
+template	generate			
+<!-- Generate the index by title body -->
 sort	clear			
 sort	set		params	
 filter	clear			
@@ -87,10 +90,26 @@ template	open	text		#PATH#../factory/navbar_template.html
 template	generate
 template	open	text		#PATH#../factory/home_template.html
 template	generate
+template	open	text		#PATH#../factory/home_alt_template.html
+template	generate
 template	open	text		#PATH#../factory/nextnav_template.html
 template	generate
 template	open	text		#PATH#../factory/idea_template.html
 template	generate
+<!-- Generate an alternate version of the home page -->
+input	set		normalization	0
+input	open	xls		#PATH#../lists/ideas.xls
+sort	clear			
+sort	set		params	
+filter	clear			
+filter	set		params	
+filter	add	not equal to	Index	index
+filter	set		params	
+sort	add	Ascending	Seq	
+sort	add	Ascending	Title	
+sort	set		params	
+template	open	text		#PATH#../factory/home_alt_template.html
+template	generate			
 <!-- Generate handy ref links to the site's content pages -->
 sort	clear			
 sort	set		params	

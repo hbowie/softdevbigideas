@@ -1,0 +1,18 @@
+<?output "../web/sitemap.xml"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>http://www.softdevbigideas.com/index.html</loc>
+      <lastmod>2016-08-31</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+   </url>
+<?nextrec?>
+   <url>
+      <loc>http://www.softdevbigideas.com/=$title&f$=.html</loc>
+      <lastmod>=$lastmod$=</lastmod>
+      <changefreq>=$changefreq$=</changefreq>
+      <priority>=$priority$=</priority>
+   </url>
+<?loop?>
+</urlset> 

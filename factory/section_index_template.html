@@ -1,3 +1,5 @@
+<?set section-count = 0 ?>
+<?set idea-count = 0 ?>
 <?nextrec?>
 <?definegroup 1 "=$section$=" ?>
 <?ifendgroup 1 ?>
@@ -5,7 +7,6 @@
 <?endif?>
 <?ifnewgroup 1 ?>
 <?output "../html/=$section$= index.html"?>
-<?set count = 0 ?>
           <table id="toc">
             <tr>
               <th>&nbsp;</th>
@@ -17,7 +18,14 @@
 <?set count ++ ?>
             <tr>
               <td>=$message$=</td>
-              <td class="right">=$count$=.    </td>
+              <td class="right">
+<?if "=$idea$=" == "Yes" ?>
+<?set idea-count ++ ?>
+                =$idea-count$=.
+<?else?>
+								&ndash;
+<?endif?>
+              </td>
               <td>&nbsp;     </td>
               <td><a href="=$title&f$=.html">=$title$=</a></td>
             </tr>

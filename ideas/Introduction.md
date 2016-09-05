@@ -31,7 +31,7 @@ My intended audience for this work includes both those relatively new to the fie
 
 Software development is one of the riskiest human activities yet conceived: projects are often late or over budget, frequently canceled, and in many cases fail to find an appreciative audience even when they do reach a state of completion. Nothing I offer on this site can guarantee the success of your next effort, but I do think that sincere and thoughtful consideration of the ideas presented here can increase your chances of success.
 
-In any case, though, I'd be happy to hear your feedback on the site. Correspondence may be directed to [herb@softdevbigideas.com](mailto:herb@softdevbigideas.com).
+In any case, though, I'd be happy to hear your feedback on the site. Correspondence may be directed to [bigkahuna@pagantuna.com](mailto:bigkahuna@pagantuna.com).
 
 -- [Herb Bowie](about-the-author.html)
 

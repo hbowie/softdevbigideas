@@ -34,6 +34,6 @@ Became interested in Web publishing early in the history of the World Wide Web, 
 
 ### Contact
 
-Feel free to contact me via email at <a href="mailto:herb@softdevbigideas.com">herb@softdevbigideas.com</a>.
+Feel free to contact me via email at <a href="mailto:bigkahuna@pagantuna.com">bigkahuna@pagantuna.com</a>.
 
 <a href="http://www.linkedin.com/in/herbbowie" ><img src="http://www.linkedin.com/img/webpromo/btn_myprofile_160x33.gif" width="160" height="33" alt="View Herb Bowie's profile on LinkedIn"></a>
