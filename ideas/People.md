@@ -4,4 +4,4 @@ Index: people
 
 Body:
 
-These ideas touch on the human dimension of software development.
+The human dimension of software development.

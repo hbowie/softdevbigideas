@@ -4,4 +4,4 @@ Index: initiation
 
 Body:
 
-These ideas are of particular importance when initiating a new software development effort.
+Things to think about when initiating a new software development effort.

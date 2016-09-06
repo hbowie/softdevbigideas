@@ -4,4 +4,4 @@ Index: caution
 
 Body:
 
-This section contains a few important cautionary notes.
+A few important cautionary notes.
