@@ -1,5 +1,7 @@
 Title: Plan-Do-Check-Act
 
+Index: Build-Measure-Learn Cycle (http://theleanstartup.com/principles)
+Index: Lean Startup Method (http://theleanstartup.com/principles)
 Index: Design Thinking (https://youtu.be/0V5BwTrQOCs)
 Index: experiment
 Index: PDCA
@@ -80,6 +82,8 @@ The PDCA cycle can also be thought of as a compressed version of the <a href="ht
 	</tr>
 	</tbody>
 </table>
+
+The Build-Measure-Learn cycle, as defined in the <a href="http://theleanstartup.com/principles" target="ref">Lean Startup Method</a>, is another adaptation of this basic PDCA cycle.
 
 Note that the typical waterfall cycle of requirements-design-code-test is not a healthy adaptation of the PDCA cycle, because all testing is generally left to the end, without any provision to Act on the learnings gained from the tests. This is one reason why projects organized like this tend to finish late or fail altogether.
 

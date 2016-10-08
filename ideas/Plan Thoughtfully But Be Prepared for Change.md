@@ -4,9 +4,9 @@ Index: Agile Manifesto
 Index: Berkun, Scott
 Index: Eisenhower, Dwight D.
 Index: Kennedy, Michael N.
-Index: MVP (http://en.wikipedia.org/wiki/Minimum_viable_product)
+Index: MVP (http://www.apppartner.com/how-to-leverage-your-mvp/)
 Index: Miller, Henry
-Index: Minimum Viable Product (http://en.wikipedia.org/wiki/Minimum_viable_product)
+Index: Minimum Viable Product (http://www.apppartner.com/how-to-leverage-your-mvp/)
 Index: Robertson, James and Suzanne
 Index: capacity allocation (http://www.scaledagileframework.com/team-backlog/)
 Index: change
@@ -32,7 +32,7 @@ Planning is an essential activity for any project, because it helps developers a
 
 Are there key constraints that must be applied to your project, related to budget, resources, or schedule? Are there specific design constraints that must be respected? Make sure you understand these thoroughly and plan accordingly.
 
-It's good to establish an implementation strategy and roadmap for your project at this point. What is the <a href="http://en.wikipedia.org/wiki/Minimum_viable_product" class="reflink" target="ref">Minimum Viable Product</a> (MVP) that can usefully be released to your customers? How can additional functionality be added in an incremental fashion? What are the dependencies between various features, or groups of features? These are the sorts of considerations that will help you define your implementation strategy.
+It's good to establish an implementation strategy and roadmap for your project at this point. What is the <a href="http://www.apppartner.com/how-to-leverage-your-mvp/" class="reflink" target="ref">Minimum Viable Product</a> (MVP) that can usefully be released to your customers? How can additional functionality be added in an incremental fashion? What are the dependencies between various features, or groups of features? These are the sorts of considerations that will help you define your implementation strategy.
 
 <blockquote>
 <p>
