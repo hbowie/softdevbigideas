@@ -11,11 +11,11 @@ Body:
 
 Developers must be focused, not just on writing code, but on creating value for their customers.
 
-Let me clarify what I mean by this injunction.
+Let me qualify what I mean by "customer" and "value."
 
 * A customer is a person or organization willing to pay for an item.
 
-* The term "customer" includes users of an item, but is not necessarily limited to those who directly use an item, especially in an enterprise setting where someone else is making financial decisions.
+* The term "customer" includes users of an item, but is not necessarily limited to those who directly use an item, especially in an enterprise setting where someone else is taking financial responsibility for the development of an item.
 
 * Value is a subjective assessment of an item's worth.
 
@@ -25,11 +25,11 @@ Let me clarify what I mean by this injunction.
 
 * Value is often time-sensitive: an item may be valuable today, but not be nearly so valuable a year from now (based on changing market conditions, etc.).
 
-* Value only exists when an item is available for use: items still in development have no value at all.
+* Value only exists when an item is complete and available for use: partially-developed items not yet ready to be used have no value at all.
 
 * Although value can be discussed without reference to monetary measures, a discussion of how much a customer might be willing to pay for an item is ultimately necessary to give a discussion of value some grounding in reality.
 
-Value means more than just the ability to reliably perform  a given task: the software must also be easy and reasonably pleasant to use.  This is more than just a matter of "gussying up" the user interface -- the developer must understand how his users think, and communicate to them using words and graphics that are consistent and effective. Most fundamentally, the software must be built around a mental model with which the user is already familiar, or that seems intuitive once learned.
+As mentioned above, value means more than just the ability to reliably perform  a given task: the software must also be easy and reasonably pleasant to use.  This is more than just a matter of "gussying up" the user interface -- the developer must understand how his users think, and communicate to them using words and graphics that are consistent and effective. Most fundamentally, the software must be built around a mental model with which the user is already familiar, or that seems intuitive once learned.
 
 Although developers need to form ideas about what will be useful to a set of users before developing software, those ideas can never be fully validated without actually developing the software and seeing what real users actually do with it. This is one reason why <a href="https://en.wikipedia.org/wiki/Usability_testing" class="reflink" target="ref">usability testing</a> is so important.
 
