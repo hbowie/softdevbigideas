@@ -2,22 +2,26 @@ Title: Govern Wisely
 
 Index: Apple
 Index: EVM
+Index: Earned Value Management
 Index: Gretzky, Wayne
 Index: Humphrey, Watts
 Index: Jobs, Steve
+Index: MR
+Index: Management Reserve
 Index: OpenDoc
+Index: PBR (http://blog.isg-one.com/plan-build-run-the-divide-and-conquer-style-of-it/)
+Index: Plan-Build-Run Model (http://blog.isg-one.com/plan-build-run-the-divide-and-conquer-style-of-it/)
 Index: ROM estimates
 Index: Shark Tank
+Index: competitive differentiation
 Index: death march
-Index: Earned Value Management
 Index: governance
-Index: Management Reserve
-Index: MR
 Index: progress
 Index: puck
 Index: repeatable process
 Index: strategy
 Index: venture capitalists
+
 
 Body:
 
@@ -33,9 +37,11 @@ If stakeholder expectations are unrealistic, then now is the time to confront th
 
 You could do worse than to emulate Steve Jobs. When he returned to Apple in 1997, he commented that the company had lots of great engineers, but was suffering from poor management, and immediately began to cancel several large projects, such as <a href="https://en.wikipedia.org/wiki/OpenDoc" class="reflink" target="ref">OpenDoc</a>.
 
+If your organization has many different software development efforts, and if you are having a hard time carving out dollars for new development, then it may be time to adopt a <a href="http://blog.isg-one.com/plan-build-run-the-divide-and-conquer-style-of-it/" class="reflink" target="ref">Plan-Build-Run (PBR)</a> model. In such a model, the Plan function is responsible for identifying, prioritizing and funding new projects, the Build function is responsible for software development, and the Run function is responsible for keeping existing systems operational. This is a drastic measure, and can negatively impact synergy between these three different functions for a single product tower, but the benefits may be worth it, if you need to squeeze dollars out of maintenance functions and achieve greater strategic focus in your development efforts. 
+
 Many <a href="http://en.wikipedia.org/wiki/Corporate_governance_of_information_technology" class="reflink" target="ref">IT governance</a> functions operate like bankers: they look at the estimated investment requirements, the anticipated returns, and the resulting hockey stick chart, and decide to fund or not to fund -- as if these were the only relevant factors.
 
-I wonder if it isn't time for IT governance bodies to start acting more like venture capitalists. Everyone in the industry has been moaning for decades now about the high failure rates for IT projects (usually in order to sell us some new panacea that seems to help for a while, but does little in the long run to move the needle). But IT projects -- like entrepreneurial startups -- are inherently risky investments. And so perhaps the job of an IT governance body should be to look for projects where the high opportunities for return outweigh the risks of failure -- just as a venture capitalist does when evaluating potential investment opportunities.
+However it may be time for IT governance bodies to start acting more like venture capitalists. Everyone in the industry has been moaning for decades now about the high failure rates for IT projects (usually in order to sell us some new panacea that seems to help for a while, but does little in the long run to move the needle). But IT projects -- like entrepreneurial startups -- are inherently risky investments. And so perhaps the job of an IT governance body should be to look for projects where the high opportunities for return outweigh the risks of failure -- just as a venture capitalist does when evaluating potential investment opportunities.
 
 If our corporate IT investment boards started operating more like <a href="http://www.cnbcprime.com/shark-tank" class="reflink" target="ref">Shark Tank</a> -- taking risk factors like the ones above into account -- then perhaps we would see better overall returns on our software development investments.
 
