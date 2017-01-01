@@ -10,6 +10,10 @@
 
 [author]: about-the-author.html
 
+[Acknowledge Uncertainty][uncertainty]
+
+[uncertainty]: acknowledge-uncertainty.html
+
 [Agree on Terms of Engagement][terms-of-engagement]
 
 [terms-of-engagement]: agree-on-terms-of-engagement.html
@@ -165,6 +169,10 @@
 [Remain Open to Fresh Learning][learning]
 
 [learning]: remain-open-to-fresh-learning.html
+
+[Search][search]
+
+[search]: search.html
 
 [Seek First to Understand Your Customer][understand-customer]
 

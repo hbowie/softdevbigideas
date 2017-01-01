@@ -1,5 +1,7 @@
 module	action	modifier	object	value
+
 <!-- Generate the HTML content for the Bibliography -->
+
 input	set		normalization	0
 input	open	xls		#PATH#../lists/bibliography.xls
 sort	add	Ascending	Last Name First	
@@ -10,10 +12,14 @@ filter	add	greater than	Bibliographic ID
 filter	set		params	
 template	open	text		#PATH#../factory/bibliography_template.html
 template	generate			
+
 <!-- Now generate a page of Markdown links that can be used -->
+
 template	open	text		#PATH#../factory/bibliography_links_template.md
 template	generate			
+
 <!-- Generate the Table of Contents for the Index by Term -->
+
 input	set		normalization	0
 input	open	notenik-index		#PATH#../ideas/
 sort	add	Ascending	Lower Case Term	
@@ -22,10 +28,14 @@ sort	add	Ascending	Page
 sort	set		params	
 template	open	text		#PATH#../factory/index_by_term_index_template.html
 template	generate			
+
 <!-- Generate the HTML content for the Index by Term -->
+
 template	open	text		#PATH#../factory/index_by_term_template.html
 template	generate			
+
 <!-- Convert the Markdown source to HTML -->
+
 input	set		normalization	0
 input	open	notenik+		#PATH#../ideas/
 sort	clear			
@@ -34,12 +44,16 @@ filter	clear
 filter	set		params	
 template	open	text		#PATH#../factory/idea_body_template.html
 template	generate			
+
 <!-- Generate the site map -->
+
 input	set		normalization	0
 input	open	xls		#PATH#../lists/ideas.xls
 template	open	text		#PATH#../factory/sitemap_template.xml
 template	generate			
+
 <!-- Generate the index by title body -->
+
 sort	clear			
 sort	set		params	
 filter	clear			
@@ -50,7 +64,9 @@ sort	add	Ascending	Title
 sort	set		params	
 template	open	text		#PATH#../factory/index_by_title_template.html
 template	generate			
+
 <!-- Generate the Index by Keyword body -->
+
 input	set		normalization	0
 input	open	xls		#PATH#../lists/ideas.xls
 sort	clear			
@@ -64,7 +80,9 @@ sort	add	Ascending	Title
 sort	set		params	
 template	open	text		#PATH#../factory/index_by_keyword_template.html
 template	generate			
+
 <!-- Generate the content for the Section Index pages -->
+
 input	set		normalization	0
 input	open	xls		#PATH#../lists/ideas.xls
 sort	clear			
@@ -77,7 +95,9 @@ filter	add	not equal to	Index	index
 filter	set		params	
 template	open	text		#PATH#../factory/section_index_template.html
 template	generate			
+
 <!-- Generate the navigation and the actual pages -->
+
 input	set		normalization	0
 input	open	xls		#PATH#../lists/ideas.xls
 sort	clear			
@@ -96,7 +116,9 @@ template	open	text		#PATH#../factory/nextnav_template.html
 template	generate
 template	open	text		#PATH#../factory/idea_template.html
 template	generate
+
 <!-- Generate an alternate version of the home page -->
+
 input	set		normalization	0
 input	open	xls		#PATH#../lists/ideas.xls
 sort	clear			
@@ -110,7 +132,9 @@ sort	add	Ascending	Title
 sort	set		params	
 template	open	text		#PATH#../factory/home_alt_template.html
 template	generate			
+
 <!-- Generate handy ref links to the site's content pages -->
+
 sort	clear			
 sort	set		params	
 filter	clear			
@@ -119,3 +143,11 @@ sort	add	Ascending	Title
 sort	set		params	
 template	open	text		#PATH#../factory/idea_links_template.md
 template	generate
+
+<!-- Generate the Search Page -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-general		#PATH#../ideas/
+template	open	text		#PATH#../factory/search_template.html
+template	generate			

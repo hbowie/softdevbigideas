@@ -27,7 +27,7 @@ Unfortunately, I've been on too many projects that reminded me of this bit of di
 
 > "Keep off thinking things out, and you'll do well. In fact, you'll go far."
 
-Too many development projects, of course, seem to have followed Mr. Gott's advice: they've kept off thinking things out, and have instead kept to the cackle. The cackle could consists of piles and piles of meaningless documents, or mounds of software code that have been produced in numerous brief iterations. And make no mistake, such projects can go very far indeed. In the end, however, the unfortunate result seems to be the same: merely a muddle.
+Too many development projects, of course, seem to have followed Mr. Gott's advice: they've kept off thinking things out, and have instead kept to the cackle. The cackle could consist of piles and piles of meaningless documents, or mounds of software code that have been produced in numerous brief iterations. And make no mistake, such projects can go very far indeed. In the end, however, the unfortunate result seems to be the same: merely a muddle.
 
 This thinking thing, though, is a difficult business.
 
