@@ -91,7 +91,7 @@ filter	clear
 filter	set		params	
 sort	add	Ascending	Seq	
 sort	set		params	
-filter	add	not equal to	Index	index
+filter	add	not equal to	Page Type	index
 filter	set		params	
 template	open	text		#PATH#../factory/section_index_template.html
 template	generate			
@@ -125,7 +125,7 @@ sort	clear
 sort	set		params	
 filter	clear			
 filter	set		params	
-filter	add	not equal to	Index	index
+filter	add	not equal to	Page Type	index
 filter	set		params	
 sort	add	Ascending	Seq	
 sort	add	Ascending	Title	

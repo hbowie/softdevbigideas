@@ -6,6 +6,10 @@ Body:
 
 <cite>Software Development Big Ideas</cite> is written in <a href="https://daringfireball.net/projects/markdown/" class="reflink" target="ref">Markdown</a>. The Markdown source is stored on <a href="https://bitbucket.org/account/user/pspub/projects/SOF" class="reflink" target="ref">Bitbucket</a>.
 
+### Version 1.11 - Oct 17, 2017
+
+Added indexed mentions of Integrated Product Teams and cross-functional teams. 
+
 ### Version 1.10 -- Dec 31, 2016
 
 Added the Fundamental Big Idea, [Acknowledge Uncertainty](acknowledge-uncertainty.html). Also added a [Search page](search.html) for the site. 

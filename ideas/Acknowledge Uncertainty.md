@@ -2,6 +2,7 @@ Title: Acknowledge Uncertainty
 
 Index: Cynefin framework (https://en.wikipedia.org/wiki/Cynefin_framework)
 Index: Knowledge Management (https://en.wikipedia.org/wiki/Knowledge_management)
+Index: Snowden, Dan
 
 Body:
 

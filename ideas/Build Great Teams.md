@@ -1,10 +1,14 @@
 Title: Build Great Teams
 
+Index: Apple
 Index: Humphrey, Watts
+Index: IPT (https://en.wikipedia.org/wiki/Integrated_product_team)
+Index: Integrated Product Team (https://en.wikipedia.org/wiki/Integrated_product_team)
 Index: Lopp, Michael
 Index: Phillips, Katherine
 Index: Schembechler, Bo
 Index: Spotify
+Index: cross-functional team  (https://en.wikipedia.org/wiki/Cross-functional_team)
 Index: diversity
 Index: filmmaking
 Index: jazz
@@ -14,7 +18,7 @@ Index: rock music
 Index: team norms
 Index: team size
 Index: teams
-Index: Apple
+
 
 Body:
 
@@ -42,7 +46,9 @@ And note that the ideas of [decomposition][], [cohesion][] and [loose coupling][
 
 ### "Multi-Skilled"
 
-For the sort of team I'm talking about, it's important for the team to be relatively self-sufficient, which means that all or most of the skills important to the team need to be available within the team. This is different from the <a href="http://cache3.asset-cache.net/gc/488831-oboe-section-of-symphony-orchestra-gettyimages.jpg?v=1&c=IWSAsset&k=2&d=IiGirUeIzJ8wi3f90FPuI98CoL0wZP6rTCu2aRcHxwrY9mrAweEJgX8Wb2%2FKWjqZ" class="reflink" target="ref">oboe section</a> within an orchestra, or a <a href="http://gunsandburgers.com/wp-content/uploads/2015/04/Steno-pool-in-office-1959-Seattle-Municipal-Archives-CC-BY-2.0-1200x400.gif" class="reflink" target="ref">steno pool</a>, or any sort of pool of resources sharing similar skills. A multi-skilled team is empowered to act as a collective. A group of people with similar skills will not achieve the sorts of benefits I've listed above for a small team.
+For the sort of team I'm talking about, it's important for the team to be relatively self-sufficient, which means that all or most of the skills important to the team need to be available within the team. This is different from the <a href="http://cache3.asset-cache.net/gc/488831-oboe-section-of-symphony-orchestra-gettyimages.jpg?v=1&c=IWSAsset&k=2&d=IiGirUeIzJ8wi3f90FPuI98CoL0wZP6rTCu2aRcHxwrY9mrAweEJgX8Wb2%2FKWjqZ" class="reflink" target="ref">oboe section</a> within an orchestra, or a <a href="http://gunsandburgers.com/wp-content/uploads/2015/04/Steno-pool-in-office-1959-Seattle-Municipal-Archives-CC-BY-2.0-1200x400.gif" class="reflink" target="ref">steno pool</a>, or any sort of pool of resources sharing similar skills. A multi-skilled team is empowered to act as a collective. A group of people with similar skills will not achieve the sorts of benefits I've listed above for a small team. 
+
+Note that a multi-skilled team is also often referred to as a [cross-functional team](https://en.wikipedia.org/wiki/Cross-functional_team).
 
 ### "With Effective Leadership"
 
@@ -60,6 +66,8 @@ There are four important but closely related elements that I'm grouping together
 * *Product:* A concrete [product][focus] forces hard decisions to be made, and forces the team to actually produce a tangible result.
 * *Delivery:* The team must [deliver][] something in a limited timeframe, again enforcing a degree of discipline.
 * *Customer:* The product must be something of [value to a real customer][value]. Without the ability to visualize such a recipient, it is hard for the team to make the sort of often difficult trade-off decisions involved in any important work.
+
+Note that a cross-functional team focused on delivery of a single product is sometimes referred to as an [Integrated Product Team(IPT)](https://en.wikipedia.org/wiki/Integrated_product_team).
 
 ### Important Team Characteristics
 

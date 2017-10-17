@@ -1,0 +1,14 @@
+module	action	modifier	object	value
+
+<!-- Generate the navigation and the actual pages -->
+
+input	set		normalization	0
+input	open	xls		#PATH#../lists/ideas.xls
+sort	clear			
+sort	set		params	
+filter	clear			
+filter	set		params	
+sort	add	Ascending	Seq
+sort	set		params
+template	open	text		#PATH#../factory/idea_template.html
+template	generate
