@@ -1,7 +1,6 @@
 Title: Configuration Management
 
-Index: configuration management
-(https://en.wikipedia.org/wiki/Configuration_management)
+Index: configuration management (https://en.wikipedia.org/wiki/Configuration_management)
 Index: change management
 Index: version control
 Index: CM (https://en.wikipedia.org/wiki/Configuration_management)

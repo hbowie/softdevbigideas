@@ -21,7 +21,7 @@ Make sure you have a well-defined <a href="http://www.scaledagileframework.com/v
 
 Your vision should be succinct enough to be easily read in a single sitting, but should be concrete enough to provide real guidance to the project team about what moves you towards the goal line vs. what moves you away from it, or simply leaves you running from one edge of the field to the other.
 
-Once you have a draft vision, interview key stakeholders individually and ask them what the project visions means to them. Make sure you receive consistent answers. If you don't, then you need to get the group back together to iron out inconsistencies and sharpen your vision.
+Once you have a draft vision, interview key stakeholders individually and ask them what the project vision means to them. Make sure you receive consistent answers. If you don't, then you need to get the group back together to iron out inconsistencies and sharpen your vision.
 
 The product vision need not be fancy, but it should be documented. Without some sort of overall vision for the product and its evolution, the project can too easily devolve into a simple aggregation of unrelated change requests, and the product can quickly become a victim of feature bloat, and suffer from <a href="https://en.wikipedia.org/wiki/Scope_creep" class="reflink" target="ref">scope creep</a>. A product vision provides the [cohesion][] necessary to make both the project team and the features being implemented more than just the sums of their respective parts.
 
