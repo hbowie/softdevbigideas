@@ -1,28 +1,44 @@
 Title: Deliver Early and Often
 
-Index: delivery
+
 Index: Agile Manifesto
-Index: feedback loop
-Index: working software
-Index: lean
-Index: inventory
-Index: waste
-Index: trust
-Index: customer
-Index: prioritization
+Index: Lewis, Bob
+Index: MMF (http://www.disciplinedagiledelivery.com/defining-mvp/)
+Index: MMP (http://www.disciplinedagiledelivery.com/defining-mvp/)
+Index: MMR (http://www.disciplinedagiledelivery.com/defining-mvp/)
+Index: Minimal Marketable Feature (http://www.disciplinedagiledelivery.com/defining-mvp/)
+Index: Minimal Marketable Product (http://www.disciplinedagiledelivery.com/defining-mvp/)
+Index: Minimal Marketable Release (http://www.disciplinedagiledelivery.com/defining-mvp/)
+Index: Poppendieck, Mary and Tom
 Index: batch sizes
+Index: customer
+Index: cycle time
+Index: delivery
+Index: feedback loop
+Index: inventory
+Index: lean
+Index: metrics
+Index: prioritization
 Index: problems
 Index: sprint
-Index: cycle time
-Index: Poppendieck, Mary and Tom
-Index: Lewis, Bob
-Index: metrics
+Index: trust
+Index: waste
+Index: working software
+
 
 Body:
 
 The first [Principle behind the Agile Manifesto][beck-et-al-2001-p] states
 
 > Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+
+In order to deliver early and often, it is good to familiarize yourself and your team with the <a href="http://www.disciplinedagiledelivery.com/defining-mvp/" class="reflink" target="ref">following closely related concepts</a>:
+
+- Minimal Marketable Feature (MMF): this is the smallest piece of deliverable functionality that can supply additional value to your customers. 
+
+- Minimal Marketable Release (MMR): the smallest new release of your product that your customer will consider worth delivering. 
+
+- Minimal Marketable Product (MMP): the smallest initial release of a new product that your customer will consider worth delivering. 
 
 Delivering early and often tends to produce all of the following benefits:
 

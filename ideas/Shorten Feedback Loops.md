@@ -1,6 +1,8 @@
 Title: Shorten Feedback Loops
 
 Index: Agile Manifesto
+Index: MVP (http://www.disciplinedagiledelivery.com/defining-mvp/)
+Index: Minimal Viable Product (http://www.disciplinedagiledelivery.com/defining-mvp/)
 Index: Mulally, Alan
 Index: Senge, Peter
 Index: demos
@@ -25,6 +27,17 @@ Agile, on the other hand, states as its third [principle][beck-et-al-2001-p]:
 > Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
 
 This practice of [delivering early and often][deliver] allows for frequent, iterative learning about customer requirements and preferences, product successes and shortcomings, as well as processes, tools and methods.
+
+When developing a new piece of software, the best way to shorten your feedback loop is to focus your initial efforts on a <a href="http://www.disciplinedagiledelivery.com/defining-mvp/" class="reflink" target="ref">Minimal Viable Product</a> (MVP). 
+
+<blockquote>
+<p>
+A Minimal Viable Product is that version of a new product which allows a team to collect the maximum amount of validated learning about customers with the least effort.</p>
+
+<footer>
+<a href="http://en.wikipedia.org/wiki/Eric_Ries">Eric Ries</a> from the book <cite><a href="bibliography.html#ries-2011">The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses</a></cite> Copyright &copy; 2011
+</footer>
+</blockquote>
 
 When considering feedback loops, we must be careful to make a distinction between meaningful feedback and the other kind.
 
@@ -52,6 +65,7 @@ Kahneman goes on to point out that:
 
 > Another reason for the inferiority of expert judgment is that humans are incorrigibly inconsistent in making summary judgments of complex information. When asked to evaluate the same information twice, they frequently give different answers.
 
+So take results from these sorts of reviews with a grain of salt. You may get some enlightening feedback that will prove helpful, but you are just as likely to get confusing direction that can lead you down the garden path. 
 
 ----
 

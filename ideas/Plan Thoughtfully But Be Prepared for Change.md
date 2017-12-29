@@ -4,9 +4,9 @@ Index: Agile Manifesto
 Index: Berkun, Scott
 Index: Eisenhower, Dwight D.
 Index: Kennedy, Michael N.
-Index: MVP (http://www.apppartner.com/how-to-leverage-your-mvp/)
+Index: MVP (http://www.disciplinedagiledelivery.com/defining-mvp/)
 Index: Miller, Henry
-Index: Minimum Viable Product (http://www.apppartner.com/how-to-leverage-your-mvp/)
+Index: Minimal Viable Product (http://www.disciplinedagiledelivery.com/defining-mvp/)
 Index: Robertson, James and Suzanne
 Index: capacity allocation (http://www.scaledagileframework.com/team-backlog/)
 Index: change
@@ -32,16 +32,7 @@ Planning is an essential activity for any project, because it helps developers a
 
 Are there key constraints that must be applied to your project, related to budget, resources, or schedule? Are there specific design constraints that must be respected? Make sure you understand these thoroughly and plan accordingly.
 
-It's good to establish an implementation strategy and roadmap for your project at this point. What is the <a href="http://www.apppartner.com/how-to-leverage-your-mvp/" class="reflink" target="ref">Minimum Viable Product</a> (MVP) that can usefully be released to your customers? How can additional functionality be added in an incremental fashion? What are the dependencies between various features, or groups of features? These are the sorts of considerations that will help you define your implementation strategy.
-
-<blockquote>
-<p>
-A Minimum Viable Product is that version of a new product which allows a team to collect the maximum amount of validated learning about customers with the least effort.</p>
-
-<footer>
-<a href="http://en.wikipedia.org/wiki/Eric_Ries">Eric Ries</a> from the book <cite><a href="bibliography.html#ries-2011">The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses</a></cite> Copyright &copy; 2011
-</footer>
-</blockquote>
+It's good to establish an implementation strategy and roadmap for your project at this point. What is the <a href="http://www.disciplinedagiledelivery.com/defining-mvp/" class="reflink" target="ref">Minimal Marketable Product</a> (MMP) that can usefully be released to your customers? How can additional functionality be added in an incremental fashion? What are the dependencies between various features, or groups of features? These are the sorts of considerations that will help you define your implementation strategy.
 
 Your <a href="http://www.scaledagileframework.com/roadmap/" class="reflink" target="ref">roadmap</a> should show your planned releases, along with other key project milestones, laid out across an approximate timeline. The number of releases and the timeframe depicted should reflect known stakeholder agreements and negotiated expectations. The timeframe should not be arbitrarily shortened, if doing so would allow the team to lose sight of critical milestones farther in the future.
 

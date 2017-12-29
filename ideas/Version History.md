@@ -6,6 +6,10 @@ Body:
 
 <cite>Software Development Big Ideas</cite> is written in <a href="https://daringfireball.net/projects/markdown/" class="reflink" target="ref">Markdown</a>. The Markdown source is stored on <a href="https://bitbucket.org/account/user/pspub/projects/SOF" class="reflink" target="ref">Bitbucket</a>.
 
+### Version 1.12 - Dec 28, 2017
+
+Incorporated guidance from Scott Ambler on definitions for MVP, MMF, MMR and MMP. 
+
 ### Version 1.11 - Oct 17, 2017
 
 Added indexed mentions of Integrated Product Teams and cross-functional teams. 
