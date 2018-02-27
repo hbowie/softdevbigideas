@@ -46,7 +46,7 @@ And note that the ideas of [decomposition][], [cohesion][] and [loose coupling][
 
 ### "Multi-Skilled"
 
-For the sort of team I'm talking about, it's important for the team to be relatively self-sufficient, which means that all or most of the skills important to the team need to be available within the team. This is different from the <a href="http://cache3.asset-cache.net/gc/488831-oboe-section-of-symphony-orchestra-gettyimages.jpg?v=1&c=IWSAsset&k=2&d=IiGirUeIzJ8wi3f90FPuI98CoL0wZP6rTCu2aRcHxwrY9mrAweEJgX8Wb2%2FKWjqZ" class="reflink" target="ref">oboe section</a> within an orchestra, or a <a href="http://gunsandburgers.com/wp-content/uploads/2015/04/Steno-pool-in-office-1959-Seattle-Municipal-Archives-CC-BY-2.0-1200x400.gif" class="reflink" target="ref">steno pool</a>, or any sort of pool of resources sharing similar skills. A multi-skilled team is empowered to act as a collective. A group of people with similar skills will not achieve the sorts of benefits I've listed above for a small team. 
+For the sort of team I'm talking about, it's important for the team to be relatively self-sufficient, which means that all or most of the skills important to the team need to be available within the team. This is different from the oboe section within an orchestra, or a <a href="http://gunsandburgers.com/wp-content/uploads/2015/04/Steno-pool-in-office-1959-Seattle-Municipal-Archives-CC-BY-2.0-1200x400.gif" class="reflink" target="ref">steno pool</a>, or any sort of pool of resources sharing similar skills. A multi-skilled team is empowered to act as a collective. A group of people with similar skills will not achieve the sorts of benefits I've listed above for a small team. 
 
 Note that a multi-skilled team is also often referred to as a [cross-functional team](https://en.wikipedia.org/wiki/Cross-functional_team).
 
@@ -93,9 +93,9 @@ Another important team characteristic deserving of further emphasis is that of d
 <p>
 In one of our studies, we compared homogeneous and diverse groups trying to solve a murder mystery. The diverse groups reported that they didn&#8217;t work together very effectively, and they were less confident about their decisions than the homogeneous groups, yet they consistently outperformed those homogeneous groups.</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://www8.gsb.columbia.edu/cbs-directory/detail/kp2447" class="reflink" target="ref">Katherine Phillips</a> from the article <cite><a href="bibliography.html#phillips-2009">Forbes</a></cite>, &#8221;Diversity Helps Your Business &#8212; But Not The Way You Think&#8221; (June 2, 2009)
-</footer>
+</p>
 </blockquote>
 
 ### What Can Be Debated
@@ -150,9 +150,9 @@ Now, I arrived after this reorganization occurred, so I don&#8217;t know the act
 <p>
 I can&#8217;t imagine building a team responsible for consumer products where engineers and designers weren&#8217;t constantly meddling in each other&#8217;s business. Yes, they often argue from completely opposite sides of the brain. Yes, it is often a battle of art and science, but engineering and design want exactly the same thing. They want the intense satisfaction of knowing they successfully built something that matters.</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Michael_Lopp" class="reflink" target="ref">Michael Lopp</a> from the book <cite><a href="bibliography.html#lopp-2007">Managing Humans: Biting and Humorous Tales of a Software Engineering Manager</a></cite> Copyright &copy; 2007 by Michael Lopp
-</footer>
+</p>
 </blockquote>
 
 ----

@@ -23,9 +23,9 @@ Body:
 <p>
 In preparing for battle, I have always found that plans are useless but planning is indispensable.</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Dwight_D._Eisenhower" class="reflink" target="ref">Dwight D. Eisenhower</a> from the book <cite><a href="bibliography.html#nixon-1962">Six Crises</a></cite> (1962)
-</footer>
+</p>
 </blockquote>
 
 Planning is an essential activity for any project, because it helps developers anticipate problems and prepare ways to address them.
@@ -66,9 +66,9 @@ The [Agile Manifesto][beck-et-al-2001] expresses this idea by stating that its s
 <p>
 The dirty little secret &#8212; the fact often denied &#8212; is that unlike the mythical epiphany, real creation is sloppy. Discovery is messy. Exploration is dangerous.</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Scott_Berkun">Scott Berkun</a> from the book <cite><a href="bibliography.html#berkun-2007">The Myths of Innovation</a></cite> (2007)
-</footer>
+</p>
 </blockquote>
 
 ----
@@ -77,9 +77,9 @@ The dirty little secret &#8212; the fact often denied &#8212; is that unlike the
 <p>
 Plot, plan, calculate or postulate as we may, there will always be surprises in store for us. Count on it!</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Henry_Miller">Henry Miller</a> from the book <cite><a href="bibliography.html#miller-1962">Stand Still Like the Hummingbird</a></cite> Copyright &copy; 1962 by Henry Miller
-</footer>
+</p>
 </blockquote>
 
 
@@ -94,6 +94,6 @@ Plot, plan, calculate or postulate as we may, there will always be surprises in 
 [mnk]: http://www.targetedconvergence.com/about-tcc/our-people/michael-n-kennedy-founder-.html
 
 [capalloc]: http://www.scaledagileframework.com/team-backlog/
-[design]:   design.html
+[design]:   just-enough-design-up-front.html
 
 [robertson-1999]: bibliography.html#robertson-1999

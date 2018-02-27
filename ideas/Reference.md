@@ -1,5 +1,7 @@
 Title: Reference
 
+Type:  Index
+
 Index: reference
 Index: index
 

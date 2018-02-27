@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="dcidid" version="2.0">
+
+   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:dcterms="http://purl.org/dc/terms/"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:opf="http://www.idpf.org/2007/opf">
+      <dc:title>Big Ideas in Software Development</dc:title>
+      <dc:language xsi:type="dcterms:RFC3066">en</dc:language>
+      <dc:identifier id="dcidid" opf:scheme="URI">http://www.softdevbigideas.com</dc:identifier>
+      <dc:subject>Non-fiction, software development</dc:subject>
+      <dc:description>A book on the big ideas most important to successful software development</dc:description>
+      <dc:relation>http://www.softdevbigideas.com/</dc:relation>
+      <dc:creator opf:file-as="Bowie, Herb" opf:role="aut">Herb Bowie</dc:creator>
+      <dc:publisher>Herb Bowie</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2018-02-20</dc:date>
+      <dc:rights>Copyright (c) 2016-2018, Herb Bowie. Creative Commons (by-nc-nd/3.0) License.</dc:rights>
+      <meta name="cover" content="cover-image"/>
+   </metadata>
+
+   <manifest>
+      <item id="ncx"         href="toc.ncx"                 	media-type="application/x-dtbncx+xml" />
+      <item id="css"         href="Styles/styles.css"     		media-type="text/css" />
+      <item id="cover"       href="Text/cover.html"            	media-type="application/xhtml+xml" />
+      <item id="title-page"  href="Text/title.html"             media-type="application/xhtml+xml" />
+<!-- Created by pstextmerge using template epub_content_manifest_template.xml -->
+      <item id="intro" href="Text/intro.html" media-type="application/xhtml+xml" />
+      <item id="introduction" href="Text/introduction.html" media-type="application/xhtml+xml" />
+      <item id="this-thinking-business" href="Text/this-thinking-business.html" media-type="application/xhtml+xml" />
+      <item id="fundamental" href="Text/fundamental.html" media-type="application/xhtml+xml" />
+      <item id="acknowledge-uncertainty" href="Text/acknowledge-uncertainty.html" media-type="application/xhtml+xml" />
+      <item id="the-inconvenient-nature-of-software-development" href="Text/the-inconvenient-nature-of-software-development.html" media-type="application/xhtml+xml" />
+      <item id="software-development-is-a-balancing-act" href="Text/software-development-is-a-balancing-act.html" media-type="application/xhtml+xml" />
+      <item id="create-value-for-customers" href="Text/create-value-for-customers.html" media-type="application/xhtml+xml" />
+      <item id="automate-repetitive-tasks" href="Text/automate-repetitive-tasks.html" media-type="application/xhtml+xml" />
+      <item id="use-things-already-known-to-work" href="Text/use-things-already-known-to-work.html" media-type="application/xhtml+xml" />
+      <item id="simplify-and-generalize" href="Text/simplify-and-generalize.html" media-type="application/xhtml+xml" />
+      <item id="decomposition" href="Text/decomposition.html" media-type="application/xhtml+xml" />
+      <item id="cohesion" href="Text/cohesion.html" media-type="application/xhtml+xml" />
+      <item id="loose-coupling" href="Text/loose-coupling.html" media-type="application/xhtml+xml" />
+      <item id="communicate-clearly" href="Text/communicate-clearly.html" media-type="application/xhtml+xml" />
+      <item id="consider-alternatives" href="Text/consider-alternatives.html" media-type="application/xhtml+xml" />
+      <item id="have-wonderful-arguments" href="Text/have-wonderful-arguments.html" media-type="application/xhtml+xml" />
+      <item id="show-rather-than-tell" href="Text/show-rather-than-tell.html" media-type="application/xhtml+xml" />
+      <item id="plan-do-check-act" href="Text/plan-do-check-act.html" media-type="application/xhtml+xml" />
+      <item id="shorten-feedback-loops" href="Text/shorten-feedback-loops.html" media-type="application/xhtml+xml" />
+      <item id="understand-the-arc-of-your-project" href="Text/understand-the-arc-of-your-project.html" media-type="application/xhtml+xml" />
+      <item id="whats-not-done-is-as-important-as-whats-done" href="Text/whats-not-done-is-as-important-as-whats-done.html" media-type="application/xhtml+xml" />
+      <item id="leadership" href="Text/leadership.html" media-type="application/xhtml+xml" />
+      <item id="entrepreneurial-leadership" href="Text/entrepreneurial-leadership.html" media-type="application/xhtml+xml" />
+      <item id="build-great-teams" href="Text/build-great-teams.html" media-type="application/xhtml+xml" />
+      <item id="govern-wisely" href="Text/govern-wisely.html" media-type="application/xhtml+xml" />
+      <item id="take-a-long-term-economic-perspective" href="Text/take-a-long-term-economic-perspective.html" media-type="application/xhtml+xml" />
+      <item id="consider-what-might-go-wrong" href="Text/consider-what-might-go-wrong.html" media-type="application/xhtml+xml" />
+      <item id="people" href="Text/people.html" media-type="application/xhtml+xml" />
+      <item id="increase-developer-engagement" href="Text/increase-developer-engagement.html" media-type="application/xhtml+xml" />
+      <item id="developers-are-always-growing" href="Text/developers-are-always-growing.html" media-type="application/xhtml+xml" />
+      <item id="developers-are-not-interchangeable" href="Text/developers-are-not-interchangeable.html" media-type="application/xhtml+xml" />
+      <item id="initiation" href="Text/initiation.html" media-type="application/xhtml+xml" />
+      <item id="agree-on-terms-of-engagement" href="Text/agree-on-terms-of-engagement.html" media-type="application/xhtml+xml" />
+      <item id="pick-the-right-sort-of-customer-proxy" href="Text/pick-the-right-sort-of-customer-proxy.html" media-type="application/xhtml+xml" />
+      <item id="craft-a-product-vision" href="Text/craft-a-product-vision.html" media-type="application/xhtml+xml" />
+      <item id="quality-requires-extra-effort" href="Text/quality-requires-extra-effort.html" media-type="application/xhtml+xml" />
+      <item id="plan-thoughtfully-but-be-prepared-for-change" href="Text/plan-thoughtfully-but-be-prepared-for-change.html" media-type="application/xhtml+xml" />
+      <item id="tailor-thoughtfully" href="Text/tailor-thoughtfully.html" media-type="application/xhtml+xml" />
+      <item id="sharpen-your-axe" href="Text/sharpen-your-axe.html" media-type="application/xhtml+xml" />
+      <item id="when-estimating-the-whole-is-definitely-greater-than-the-sum-of-its-parts" href="Text/when-estimating-the-whole-is-definitely-greater-than-the-sum-of-its-parts.html" media-type="application/xhtml+xml" />
+      <item id="seek-first-to-understand-your-customer" href="Text/seek-first-to-understand-your-customer.html" media-type="application/xhtml+xml" />
+      <item id="just-enough-design-up-front" href="Text/just-enough-design-up-front.html" media-type="application/xhtml+xml" />
+      <item id="deliver-early-and-often" href="Text/deliver-early-and-often.html" media-type="application/xhtml+xml" />
+      <item id="execution" href="Text/execution.html" media-type="application/xhtml+xml" />
+      <item id="self-organizing-teams" href="Text/self-organizing-teams.html" media-type="application/xhtml+xml" />
+      <item id="a-deliberate-approach-to-decision-making" href="Text/a-deliberate-approach-to-decision-making.html" media-type="application/xhtml+xml" />
+      <item id="decrease-friction-increase-flow" href="Text/decrease-friction-increase-flow.html" media-type="application/xhtml+xml" />
+      <item id="configuration-management" href="Text/configuration-management.html" media-type="application/xhtml+xml" />
+      <item id="limit-work-in-progress" href="Text/limit-work-in-progress.html" media-type="application/xhtml+xml" />
+      <item id="make-problems-visible" href="Text/make-problems-visible.html" media-type="application/xhtml+xml" />
+      <item id="remain-open-to-fresh-learning" href="Text/remain-open-to-fresh-learning.html" media-type="application/xhtml+xml" />
+      <item id="dont-wait-to-integrate" href="Text/dont-wait-to-integrate.html" media-type="application/xhtml+xml" />
+      <item id="caution" href="Text/caution.html" media-type="application/xhtml+xml" />
+      <item id="software-is-different" href="Text/software-is-different.html" media-type="application/xhtml+xml" />
+      <item id="software-development-is-a-craft" href="Text/software-development-is-a-craft.html" media-type="application/xhtml+xml" />
+      <item id="documentation-is-not-an-end-unto-itself" href="Text/documentation-is-not-an-end-unto-itself.html" media-type="application/xhtml+xml" />
+      <item id="do-not-place-excessive-faith-in-project-and-program-management" href="Text/do-not-place-excessive-faith-in-project-and-program-management.html" media-type="application/xhtml+xml" />
+      <item id="let-the-buyer-beware" href="Text/let-the-buyer-beware.html" media-type="application/xhtml+xml" />
+      <item id="stay-focused-on-the-creation-of-working-software-for-real-people" href="Text/stay-focused-on-the-creation-of-working-software-for-real-people.html" media-type="application/xhtml+xml" />
+      <item id="reference" href="Text/reference.html" media-type="application/xhtml+xml" />
+      <item id="about-the-author" href="Text/about-the-author.html" media-type="application/xhtml+xml" />
+      <item id="copyrights" href="Text/copyrights.html" media-type="application/xhtml+xml" />
+      <item id="version-history" href="Text/version-history.html" media-type="application/xhtml+xml" />
+      <item id="glossary" href="Text/glossary.html" media-type="application/xhtml+xml" />
+      <item id="bibliography" href="Text/bibliography.html" media-type="application/xhtml+xml" />
+      <item id="colophon" href="Text/colophon.html" media-type="application/xhtml+xml" />
+      <item id="alphabetical-list-of-all-ideas" href="Text/alphabetical-list-of-all-ideas.html" media-type="application/xhtml+xml" />
+      <item id="alphabetical-index" href="Text/alphabetical-index.html" media-type="application/xhtml+xml" />
+<!-- Created by pstextmerge using template epub_content_manifest_template.xml -->
+      <item id="polarity-map" href="Images/polarity-map.jpg" media-type="image/jpeg" />
+      <item id="cover-image" href="Images/cover-image.png" media-type="image/png" />
+      <item id="btn_myprofile_160x33" href="Images/btn_myprofile_160x33.gif" media-type="image/gif" />
+      <item id="a-new-model-for-lean-culture" href="Images/a-new-model-for-lean-culture.jpg" media-type="image/jpeg" />
+      <item id="softdev" href="Images/softdev.png" media-type="image/png" />
+      <item id="herb-bowie" href="Images/herb-bowie.jpg" media-type="image/jpeg" />
+      <item id="cynefin-model" href="Images/cynefin-model.png" media-type="image/png" />
+   </manifest>
+
+   <spine toc="ncx">
+      <itemref idref="cover"      linear="no" />
+      <itemref idref="title-page" />
+      <itemref idref="copyrights" />
+      <itemref idref="intro" />
+      <itemref idref="introduction" />
+      <itemref idref="this-thinking-business" />
+      <itemref idref="fundamental" />
+      <itemref idref="acknowledge-uncertainty" />
+      <itemref idref="the-inconvenient-nature-of-software-development" />
+      <itemref idref="software-development-is-a-balancing-act" />
+      <itemref idref="create-value-for-customers" />
+      <itemref idref="automate-repetitive-tasks" />
+      <itemref idref="use-things-already-known-to-work" />
+      <itemref idref="simplify-and-generalize" />
+      <itemref idref="decomposition" />
+      <itemref idref="cohesion" />
+      <itemref idref="loose-coupling" />
+      <itemref idref="communicate-clearly" />
+      <itemref idref="consider-alternatives" />
+      <itemref idref="have-wonderful-arguments" />
+      <itemref idref="show-rather-than-tell" />
+      <itemref idref="plan-do-check-act" />
+      <itemref idref="shorten-feedback-loops" />
+      <itemref idref="understand-the-arc-of-your-project" />
+      <itemref idref="whats-not-done-is-as-important-as-whats-done" />
+      <itemref idref="leadership" />
+      <itemref idref="entrepreneurial-leadership" />
+      <itemref idref="build-great-teams" />
+      <itemref idref="govern-wisely" />
+      <itemref idref="take-a-long-term-economic-perspective" />
+      <itemref idref="consider-what-might-go-wrong" />
+      <itemref idref="people" />
+      <itemref idref="increase-developer-engagement" />
+      <itemref idref="developers-are-always-growing" />
+      <itemref idref="developers-are-not-interchangeable" />
+      <itemref idref="initiation" />
+      <itemref idref="agree-on-terms-of-engagement" />
+      <itemref idref="pick-the-right-sort-of-customer-proxy" />
+      <itemref idref="craft-a-product-vision" />
+      <itemref idref="quality-requires-extra-effort" />
+      <itemref idref="plan-thoughtfully-but-be-prepared-for-change" />
+      <itemref idref="tailor-thoughtfully" />
+      <itemref idref="sharpen-your-axe" />
+      <itemref idref="when-estimating-the-whole-is-definitely-greater-than-the-sum-of-its-parts" />
+      <itemref idref="seek-first-to-understand-your-customer" />
+      <itemref idref="just-enough-design-up-front" />
+      <itemref idref="deliver-early-and-often" />
+      <itemref idref="execution" />
+      <itemref idref="self-organizing-teams" />
+      <itemref idref="a-deliberate-approach-to-decision-making" />
+      <itemref idref="decrease-friction-increase-flow" />
+      <itemref idref="configuration-management" />
+      <itemref idref="limit-work-in-progress" />
+      <itemref idref="make-problems-visible" />
+      <itemref idref="remain-open-to-fresh-learning" />
+      <itemref idref="dont-wait-to-integrate" />
+      <itemref idref="caution" />
+      <itemref idref="software-is-different" />
+      <itemref idref="software-development-is-a-craft" />
+      <itemref idref="documentation-is-not-an-end-unto-itself" />
+      <itemref idref="do-not-place-excessive-faith-in-project-and-program-management" />
+      <itemref idref="let-the-buyer-beware" />
+      <itemref idref="stay-focused-on-the-creation-of-working-software-for-real-people" />
+      <itemref idref="reference" />
+      <itemref idref="about-the-author" />
+      <itemref idref="version-history" />
+      <itemref idref="glossary" />
+      <itemref idref="bibliography" />
+      <itemref idref="colophon" />
+      <itemref idref="alphabetical-list-of-all-ideas" />
+      <itemref idref="alphabetical-index" />
+   </spine>
+ 
+   <guide>
+     <reference href="Text/cover.html" type="cover" title="Cover"/>
+     <reference href="Text/title.html" type="title-page" title="Title Page"/>
+   </guide>
+
+</package>

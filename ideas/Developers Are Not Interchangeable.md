@@ -41,9 +41,9 @@ On the other hand, there are situations where not everyone lives up to these sta
 <p>
 Talented people are the most important element in any software organization.</p>
 
-<footer>
-<a href="http://en.wikipedia.org/wiki/Watts_Humphrey">Watts Humphrey</a> from the book <cite><a href="bibliography.html#humphrey-1998">Managing the Software Process</a></cite> Copyright &copy; 1998 by Addison-Wesley Publishing Company, Inc.
-</footer>
+<p class="bq-footer">
+<a href="http://en.wikipedia.org/wiki/Watts_Humphrey">Watts Humphrey</a> from the book <cite><a href="bibliography.html#humphrey-1989">Managing the Software Process</a></cite> Copyright &copy; 1998 by Addison-Wesley Publishing Company, Inc.
+</p>
 </blockquote>
 
 ----
@@ -52,9 +52,9 @@ Talented people are the most important element in any software organization.</p>
 <p>
 Counterintuitively, employees already performing above average have the greatest room for growth. Great managers also know that it is hard work helping a talented person hone his talents. If a manager is preoccupied by the burden of transforming strugglers into survivors by helping them squeak above average, he will have little time left over for the truly difficult work of guiding the good towards the great.</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Marcus_Buckingham">Marcus Buckingham</a> and <a href="http://en.wikipedia.org/wiki/Curt_Coffman">Curt Coffman</a> from the book <cite><a href="bibliography.html#buckingham-et-al-1999">First, Break All the Rules: What the World&#8217;s Greatest Managers Do Differently</a></cite> Copyright &copy; 1999 by The Gallup Organization
-</footer>
+</p>
 </blockquote>
 
 

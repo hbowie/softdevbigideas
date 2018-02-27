@@ -1,5 +1,7 @@
 Title: Leadership
 
+Type:  Index
+
 Index: leadership
 Index: management
 

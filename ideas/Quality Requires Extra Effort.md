@@ -102,9 +102,9 @@ For further discussion on the topic of software quality, see the Pagan Tuna post
 <p>
 Let&#8217;s make toast the American way: I&#8217;ll burn, you scrape.</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/W._Edwards_Deming" class="reflink" target="ref">W. Edwards Deming</a> from the article <cite>Harvard Business Review</cite>, &#8221;Quality Comes to City Hall&#8221; (March-April 1991)
-</footer>
+</p>
 </blockquote>
 
 ----
@@ -113,9 +113,9 @@ Let&#8217;s make toast the American way: I&#8217;ll burn, you scrape.</p>
 <p>
 Fact 37: Rigorous inspections can remove up to 90% of errors from a software product before the first test case is run.</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Robert_L._Glass">Robert L. Glass</a> from the book <cite><a href="bibliography.html#glass-2003">Facts and Fallacies of Software Engineering</a></cite> Copyright &copy; 2003 by Pearson Education, Inc
-</footer>
+</p>
 </blockquote>
 
 ----
@@ -124,9 +124,9 @@ Fact 37: Rigorous inspections can remove up to 90% of errors from a software pro
 <p>
 You get what you design for. Chester, your peer in Development, is spending all his cycles on features, instead of stability, security, scalability, manageability, operability, continuity, and all those other beautiful &#8216;ilities.&#8217; </p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Gene_Kim">Gene Kim</a>, <a href="http://en.wikipedia.org/wiki/Kevin_Behr">Kevin Behr</a> and <a href="http://en.wikipedia.org/wiki/George_Spafford">George Spafford</a> from the book <cite><a href="bibliography.html#kim-et-al-2013">The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win</a></cite> (2013)
-</footer>
+</p>
 </blockquote>
 
 [balance]: software-development-is-a-balancing-act.html

@@ -1,16 +1,18 @@
 # README #
 
-This project contains the source text for *Big Ideas in Software Development,* which is published at [SoftDevBigIdeas.com](http://www.softdevbigideas.com).
+This project contains the source text for *The Big Ideas in Software Development,* which is published at [SoftDevBigIdeas.com](http://www.softdevbigideas.com).
 
 ### Rights ###
 
-*Big Ideas in Software Development* by Herb Bowie is copyright (c) 2016 and licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
+*Big Ideas in Software Development* by Herb Bowie is copyright (c) 2016 - 2018 and licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 ### Folder Structure ###
 
 This project contains the following folders.
 
 * **bbincludes** -- These are BBEdit include files that are used to update common code used across multiple templates in the factory folder.
+
+* **epub** - This contains the content that go into the EPUB ebook. 
 
 * **factory** -- These are PSTextMerge templates used to generate the pages of the website.
 

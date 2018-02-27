@@ -48,8 +48,8 @@ While the following list of suggested CM practices is not exhaustive, it's a goo
 <p>
 Chris seems excited. &#8220;Brent, if it&#8217;s okay with you and everyone else, I&#8217;d like to invite you to our team sprints, so that we can get environment creation integrated into the development process as early as possible. Right now, we focus mostly on having deployable code at the end of the project. I propose we change that requirement. At each three-week sprint interval, we not only need to have deployable code but also the exact environment that the code deploys into, and have that checked into version control, too.&#8221;</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Gene_Kim">Gene Kim</a>, <a href="http://en.wikipedia.org/wiki/Kevin_Behr">Kevin Behr</a> and <a href="http://en.wikipedia.org/wiki/George_Spafford">George Spafford</a> from the book <cite><a href="bibliography.html#kim-et-al-2013">The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win</a></cite> (2013)
-</footer>
+</p>
 </blockquote>
 

@@ -111,9 +111,9 @@ When you find a project team that is focused on producing a standard document ra
 <p>
 In the land of the template zombies, form takes precedence. It is not necessary to think about the content of the document. It is not really necessary to think at all. The important thing is to have something&#8212;anything&#8212;under each of the prescribed headings. Not surprisingly, template zombies are adept in the art of cutting and pasting and ignoring anything that does not fit the dictates of the template.</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Tom_DeMarco">Tom DeMarco</a>, <a href="http://en.wikipedia.org/wiki/Peter_Hruschka">Peter Hruschka</a>, <a href="http://en.wikipedia.org/wiki/Tim_Lister">Tim Lister</a>, <a href="http://en.wikipedia.org/wiki/Steve_McMenamin">Steve McMenamin</a>, <a href="http://en.wikipedia.org/wiki/James_Robertson">James Robertson</a> and <a href="http://en.wikipedia.org/wiki/Suzanne_Robertson">Suzanne Robertson</a> from the book <cite><a href="bibliography.html#demarco-et-al-2008">Adrenaline Junkies and Template Zombies: Understanding Patterns of Project Behavior</a></cite> Copyright &copy; 2008 by Authors
-</footer>
+</p>
 </blockquote>
 
 ----
@@ -128,9 +128,9 @@ If you recognize this behavior on your project, you may be working in a paper mi
 <p>
 In a paper mill, every activity is marked by the production of a document, and progress is measured by how many of the documents have been produced&#8212;not by what the documents contain. The paper mill principle says: Just in case anyone needs anything, let&#8217;s give everbody everything.</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Tom_DeMarco">Tom DeMarco</a>, <a href="http://en.wikipedia.org/wiki/Peter_Hruschka">Peter Hruschka</a>, <a href="http://en.wikipedia.org/wiki/Tim_Lister">Tim Lister</a>, <a href="http://en.wikipedia.org/wiki/Steve_McMenamin">Steve McMenamin</a>, <a href="http://en.wikipedia.org/wiki/James_Robertson">James Robertson</a> and <a href="http://en.wikipedia.org/wiki/Suzanne_Robertson">Suzanne Robertson</a> from the book <cite><a href="bibliography.html#demarco-et-al-2008">Adrenaline Junkies and Template Zombies: Understanding Patterns of Project Behavior</a></cite> Copyright &copy; 2008 by Authors
-</footer>
+</p>
 </blockquote>
 
 [balance]: software-development-is-a-balancing-act.html

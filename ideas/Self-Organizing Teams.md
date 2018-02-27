@@ -50,9 +50,9 @@ A self-organizing team also tends to produce higher levels of [developer engagem
 <p>
 It&#8217;s no use saying, &#8216;We are doing our best.&#8217; You have got to succeed in doing what is necessary. </p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Winston_Churchill">Winston Churchill</a>
-</footer>
+</p>
 </blockquote>
 
 ----
@@ -61,9 +61,9 @@ It&#8217;s no use saying, &#8216;We are doing our best.&#8217; You have got to s
 <p>
 The vast majority of difficult, important human problems &#8212; both inside and outside organizations &#8212; are not solved by a swift, decisive stroke from someone at the top. What usually matters are careful, thoughtful, small, practical efforts by people working far from the limelight.</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Joseph_L._Badaracco%2C_Jr.">Joseph L. Badaracco, Jr.</a> from the book <cite><a href="bibliography.html#badaracco-2002">Leading Quietly: An Unorthodox Guide to Doing the Right Thing</a></cite> Copyright &copy; 2002 by Joseph L. Badaracco, Jr
-</footer>
+</p>
 </blockquote>
 
 

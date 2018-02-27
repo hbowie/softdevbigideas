@@ -1,5 +1,7 @@
 Title: Caution
 
+Type:  Index
+
 Index: caution
 
 Body:

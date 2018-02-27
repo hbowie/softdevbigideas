@@ -107,9 +107,9 @@ If we are now left with the uncomfortable feeling that we have two different mod
 <p>
 Managers have a problem ... when they fall in love with a particular model of how something works. When they become convinced that a mental model they have of how something works is the right one. When they decide that they know something. ... when we become too wedded to a model, we lose our ability to deal with new situations.</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Robert_D._Austin"  class="reflink" target="ref">Robert D. Austin</a>, <a href="http://en.wikipedia.org/wiki/Richard_L._Nolan"  class="reflink" target="ref">Richard L. Nolan</a> and <a href="http://en.wikipedia.org/wiki/Shannon_O'Donnell"  class="reflink" target="ref">Shannon O'Donnell</a> from the book <cite><a href="bibliography.html#austin-et-al-2009">Adventures of an IT Leader</a></cite> Copyright &copy; 2009
-</footer>
+</p>
 </blockquote>
 
 

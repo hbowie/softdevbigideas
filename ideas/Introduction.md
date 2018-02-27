@@ -15,7 +15,7 @@ How can a software developer keep up?
 
 I'm a firm believer that new ideas are generated from time to time, and that it is worthwhile to read about software development as well as to do it; on the other hand, I'm now at the point of wondering whether it wouldn't be possible to communicate the most important ideas about the field in a simpler, more concise, more easily accessible fashion.
 
-And so I am setting off to test my hypothesis by trying to document the Big Ideas in Software Development in a concrete, manageable, sequential list.
+And so I am setting off to test my hypothesis by trying to document The Big Ideas in Software Development in a concrete, manageable, sequential list.
 
 Some of these ideas are specific to software development, but many have broader application; my primary intent is to include ideas that I've found most helpful over the years, and that I would want to recommend to others working in the field.
 
@@ -44,9 +44,9 @@ August, 2016
 <p>
 Great minds discuss ideas, average ones discuss events, and small minds discuss people.</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Eleanor_Roosevelt">Eleanor Roosevelt</a>
-</footer>
+</p>
 </blockquote>
 
 ----
@@ -55,9 +55,9 @@ Great minds discuss ideas, average ones discuss events, and small minds discuss 
 <p>
 Those of us who have been true readers all our life seldom fully realize the enormous extension of our being which we owe to authors. We realize it best when we talk with an unliterary friend. He may be full of goodness and good sense but he inhabits a tiny world. In it, we should be suffocated. The man who is contented to be only himself, and therefore less a self, is in prison. My own eyes are not enough for me, I will see through those of others.</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/C._S._Lewis">C. S. Lewis</a> from the book <cite><a href="bibliography.html#lewis-1961">An Experiment in Criticism</a></cite> (1961)
-</footer>
+</p>
 </blockquote>
 
 ----
@@ -66,9 +66,9 @@ Those of us who have been true readers all our life seldom fully realize the eno
 <p>
 With the exception of a few hysterical CASE vendors and religious zealots, most software professionals would agree that there is no single silver bullet that will exorcise our software demons.</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Edward_Yourdon">Edward Yourdon</a> from the book <cite><a href="bibliography.html#yourdon-1992">Decline and Fall of the American Programmer</a></cite> Copyright &copy; 1992 by PTR Prentice-Hall, Inc.
-</footer>
+</p>
 </blockquote>
 
 [brooks-1975]: bibliography.html#brooks-1975

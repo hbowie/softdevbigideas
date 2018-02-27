@@ -1,5 +1,7 @@
 Title: People
 
+Type:  Index
+
 Index: people
 
 Body:

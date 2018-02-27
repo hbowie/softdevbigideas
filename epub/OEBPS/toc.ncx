@@ -1,0 +1,436 @@
+<?xml version="1.0"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<!-- Created by pstextmerge using template epub_toc_template.ncx -->
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="http://www.softdevbigideas.com"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+     <text>Big Ideas in Software Development</text>
+  </docTitle>
+  <navMap>
+     <navPoint id="navPoint-1" playOrder="1">
+	   <navLabel>
+		  <text>Title Page</text>
+	   </navLabel>
+	   <content src="Text/title.html"/>
+	 </navPoint>
+     <navPoint id="navPoint-2" playOrder="2">
+	   <navLabel>
+		  <text>Copyrights</text>
+	   </navLabel>
+	   <content src="Text/copyrights.html"/>
+	 </navPoint>
+     <navPoint id="navPoint-3" playOrder="3">
+       <navLabel>
+		  	<text>Intro Section</text>
+       </navLabel>
+       <content src="Text/intro.html"/>
+		 <navPoint id="navPoint-4" playOrder="4">
+		   <navLabel>
+              <text>Introduction</text>
+		   </navLabel>
+		   <content src="Text/introduction.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-5" playOrder="5">
+		   <navLabel>
+              <text>This Thinking Business</text>
+		   </navLabel>
+		   <content src="Text/this-thinking-business.html"/>
+		 </navPoint>
+     </navPoint>
+     <navPoint id="navPoint-6" playOrder="6">
+       <navLabel>
+		  	<text>Fundamental Section</text>
+       </navLabel>
+       <content src="Text/fundamental.html"/>
+		 <navPoint id="navPoint-7" playOrder="7">
+		   <navLabel>
+              <text>Acknowledge Uncertainty</text>
+		   </navLabel>
+		   <content src="Text/acknowledge-uncertainty.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-8" playOrder="8">
+		   <navLabel>
+              <text>The Inconvenient Nature of Software Development</text>
+		   </navLabel>
+		   <content src="Text/the-inconvenient-nature-of-software-development.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-9" playOrder="9">
+		   <navLabel>
+              <text>Software Development is a Balancing Act</text>
+		   </navLabel>
+		   <content src="Text/software-development-is-a-balancing-act.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-10" playOrder="10">
+		   <navLabel>
+              <text>Create Value for Customers</text>
+		   </navLabel>
+		   <content src="Text/create-value-for-customers.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-11" playOrder="11">
+		   <navLabel>
+              <text>Automate Repetitive Tasks</text>
+		   </navLabel>
+		   <content src="Text/automate-repetitive-tasks.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-12" playOrder="12">
+		   <navLabel>
+              <text>Use Things Already Known to Work</text>
+		   </navLabel>
+		   <content src="Text/use-things-already-known-to-work.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-13" playOrder="13">
+		   <navLabel>
+              <text>Simplify and Generalize</text>
+		   </navLabel>
+		   <content src="Text/simplify-and-generalize.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-14" playOrder="14">
+		   <navLabel>
+              <text>Decomposition</text>
+		   </navLabel>
+		   <content src="Text/decomposition.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-15" playOrder="15">
+		   <navLabel>
+              <text>Cohesion</text>
+		   </navLabel>
+		   <content src="Text/cohesion.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-16" playOrder="16">
+		   <navLabel>
+              <text>Loose Coupling</text>
+		   </navLabel>
+		   <content src="Text/loose-coupling.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-17" playOrder="17">
+		   <navLabel>
+              <text>Communicate Clearly</text>
+		   </navLabel>
+		   <content src="Text/communicate-clearly.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-18" playOrder="18">
+		   <navLabel>
+              <text>Consider Alternatives</text>
+		   </navLabel>
+		   <content src="Text/consider-alternatives.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-19" playOrder="19">
+		   <navLabel>
+              <text>Have Wonderful Arguments</text>
+		   </navLabel>
+		   <content src="Text/have-wonderful-arguments.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-20" playOrder="20">
+		   <navLabel>
+              <text>Show Rather than Tell</text>
+		   </navLabel>
+		   <content src="Text/show-rather-than-tell.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-21" playOrder="21">
+		   <navLabel>
+              <text>Plan-Do-Check-Act</text>
+		   </navLabel>
+		   <content src="Text/plan-do-check-act.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-22" playOrder="22">
+		   <navLabel>
+              <text>Shorten Feedback Loops</text>
+		   </navLabel>
+		   <content src="Text/shorten-feedback-loops.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-23" playOrder="23">
+		   <navLabel>
+              <text>Understand the Arc of Your Project</text>
+		   </navLabel>
+		   <content src="Text/understand-the-arc-of-your-project.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-24" playOrder="24">
+		   <navLabel>
+              <text>What's Not Done is as Important as What's Done</text>
+		   </navLabel>
+		   <content src="Text/whats-not-done-is-as-important-as-whats-done.html"/>
+		 </navPoint>
+     </navPoint>
+     <navPoint id="navPoint-25" playOrder="25">
+       <navLabel>
+		  	<text>Leadership Section</text>
+       </navLabel>
+       <content src="Text/leadership.html"/>
+		 <navPoint id="navPoint-26" playOrder="26">
+		   <navLabel>
+              <text>Entrepreneurial Leadership</text>
+		   </navLabel>
+		   <content src="Text/entrepreneurial-leadership.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-27" playOrder="27">
+		   <navLabel>
+              <text>Build Great Teams</text>
+		   </navLabel>
+		   <content src="Text/build-great-teams.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-28" playOrder="28">
+		   <navLabel>
+              <text>Govern Wisely</text>
+		   </navLabel>
+		   <content src="Text/govern-wisely.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-29" playOrder="29">
+		   <navLabel>
+              <text>Take a Long-Term Economic Perspective</text>
+		   </navLabel>
+		   <content src="Text/take-a-long-term-economic-perspective.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-30" playOrder="30">
+		   <navLabel>
+              <text>Consider What Might Go Wrong</text>
+		   </navLabel>
+		   <content src="Text/consider-what-might-go-wrong.html"/>
+		 </navPoint>
+     </navPoint>
+     <navPoint id="navPoint-31" playOrder="31">
+       <navLabel>
+		  	<text>People Section</text>
+       </navLabel>
+       <content src="Text/people.html"/>
+		 <navPoint id="navPoint-32" playOrder="32">
+		   <navLabel>
+              <text>Increase Developer Engagement</text>
+		   </navLabel>
+		   <content src="Text/increase-developer-engagement.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-33" playOrder="33">
+		   <navLabel>
+              <text>Developers are Always Growing</text>
+		   </navLabel>
+		   <content src="Text/developers-are-always-growing.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-34" playOrder="34">
+		   <navLabel>
+              <text>Developers Are Not Interchangeable</text>
+		   </navLabel>
+		   <content src="Text/developers-are-not-interchangeable.html"/>
+		 </navPoint>
+     </navPoint>
+     <navPoint id="navPoint-35" playOrder="35">
+       <navLabel>
+		  	<text>Initiation Section</text>
+       </navLabel>
+       <content src="Text/initiation.html"/>
+		 <navPoint id="navPoint-36" playOrder="36">
+		   <navLabel>
+              <text>Agree on Terms of Engagement</text>
+		   </navLabel>
+		   <content src="Text/agree-on-terms-of-engagement.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-37" playOrder="37">
+		   <navLabel>
+              <text>Pick the Right Sort of Customer Proxy</text>
+		   </navLabel>
+		   <content src="Text/pick-the-right-sort-of-customer-proxy.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-38" playOrder="38">
+		   <navLabel>
+              <text>Craft a Product Vision</text>
+		   </navLabel>
+		   <content src="Text/craft-a-product-vision.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-39" playOrder="39">
+		   <navLabel>
+              <text>Quality Requires Extra Effort</text>
+		   </navLabel>
+		   <content src="Text/quality-requires-extra-effort.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-40" playOrder="40">
+		   <navLabel>
+              <text>Plan Thoughtfully But Be Prepared for Change</text>
+		   </navLabel>
+		   <content src="Text/plan-thoughtfully-but-be-prepared-for-change.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-41" playOrder="41">
+		   <navLabel>
+              <text>Tailor Thoughtfully</text>
+		   </navLabel>
+		   <content src="Text/tailor-thoughtfully.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-42" playOrder="42">
+		   <navLabel>
+              <text>Sharpen Your Axe</text>
+		   </navLabel>
+		   <content src="Text/sharpen-your-axe.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-43" playOrder="43">
+		   <navLabel>
+              <text>When Estimating, the Whole is Definitely Greater than the Sum of its Parts</text>
+		   </navLabel>
+		   <content src="Text/when-estimating-the-whole-is-definitely-greater-than-the-sum-of-its-parts.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-44" playOrder="44">
+		   <navLabel>
+              <text>Seek First to Understand Your Customer</text>
+		   </navLabel>
+		   <content src="Text/seek-first-to-understand-your-customer.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-45" playOrder="45">
+		   <navLabel>
+              <text>Just Enough Design Up Front</text>
+		   </navLabel>
+		   <content src="Text/just-enough-design-up-front.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-46" playOrder="46">
+		   <navLabel>
+              <text>Deliver Early and Often</text>
+		   </navLabel>
+		   <content src="Text/deliver-early-and-often.html"/>
+		 </navPoint>
+     </navPoint>
+     <navPoint id="navPoint-47" playOrder="47">
+       <navLabel>
+		  	<text>Execution Section</text>
+       </navLabel>
+       <content src="Text/execution.html"/>
+		 <navPoint id="navPoint-48" playOrder="48">
+		   <navLabel>
+              <text>Self-Organizing Teams</text>
+		   </navLabel>
+		   <content src="Text/self-organizing-teams.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-49" playOrder="49">
+		   <navLabel>
+              <text>A Deliberate Approach to Decision-Making</text>
+		   </navLabel>
+		   <content src="Text/a-deliberate-approach-to-decision-making.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-50" playOrder="50">
+		   <navLabel>
+              <text>Decrease Friction, Increase Flow</text>
+		   </navLabel>
+		   <content src="Text/decrease-friction-increase-flow.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-51" playOrder="51">
+		   <navLabel>
+              <text>Configuration Management</text>
+		   </navLabel>
+		   <content src="Text/configuration-management.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-52" playOrder="52">
+		   <navLabel>
+              <text>Limit Work in Progress</text>
+		   </navLabel>
+		   <content src="Text/limit-work-in-progress.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-53" playOrder="53">
+		   <navLabel>
+              <text>Make Problems Visible</text>
+		   </navLabel>
+		   <content src="Text/make-problems-visible.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-54" playOrder="54">
+		   <navLabel>
+              <text>Remain Open to Fresh Learning</text>
+		   </navLabel>
+		   <content src="Text/remain-open-to-fresh-learning.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-55" playOrder="55">
+		   <navLabel>
+              <text>Don't Wait to Integrate</text>
+		   </navLabel>
+		   <content src="Text/dont-wait-to-integrate.html"/>
+		 </navPoint>
+     </navPoint>
+     <navPoint id="navPoint-56" playOrder="56">
+       <navLabel>
+		  	<text>Caution Section</text>
+       </navLabel>
+       <content src="Text/caution.html"/>
+		 <navPoint id="navPoint-57" playOrder="57">
+		   <navLabel>
+              <text>Software is Different</text>
+		   </navLabel>
+		   <content src="Text/software-is-different.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-58" playOrder="58">
+		   <navLabel>
+              <text>Software Development is a Craft</text>
+		   </navLabel>
+		   <content src="Text/software-development-is-a-craft.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-59" playOrder="59">
+		   <navLabel>
+              <text>Documentation Is Not an End Unto Itself</text>
+		   </navLabel>
+		   <content src="Text/documentation-is-not-an-end-unto-itself.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-60" playOrder="60">
+		   <navLabel>
+              <text>Do Not Place Excessive Faith in Project and Program Management</text>
+		   </navLabel>
+		   <content src="Text/do-not-place-excessive-faith-in-project-and-program-management.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-61" playOrder="61">
+		   <navLabel>
+              <text>Let the Buyer Beware</text>
+		   </navLabel>
+		   <content src="Text/let-the-buyer-beware.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-62" playOrder="62">
+		   <navLabel>
+              <text>Stay Focused on the Creation of Working Software for Real People</text>
+		   </navLabel>
+		   <content src="Text/stay-focused-on-the-creation-of-working-software-for-real-people.html"/>
+		 </navPoint>
+     </navPoint>
+     <navPoint id="navPoint-63" playOrder="63">
+       <navLabel>
+		  	<text>Reference Section</text>
+       </navLabel>
+       <content src="Text/reference.html"/>
+		 <navPoint id="navPoint-64" playOrder="64">
+		   <navLabel>
+              <text>About the Author</text>
+		   </navLabel>
+		   <content src="Text/about-the-author.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-65" playOrder="65">
+		   <navLabel>
+              <text>Version History</text>
+		   </navLabel>
+		   <content src="Text/version-history.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-66" playOrder="66">
+		   <navLabel>
+              <text>Glossary</text>
+		   </navLabel>
+		   <content src="Text/glossary.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-67" playOrder="67">
+		   <navLabel>
+              <text>Bibliography</text>
+		   </navLabel>
+		   <content src="Text/bibliography.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-68" playOrder="68">
+		   <navLabel>
+              <text>Colophon</text>
+		   </navLabel>
+		   <content src="Text/colophon.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-69" playOrder="69">
+		   <navLabel>
+              <text>Alphabetical List of All Ideas</text>
+		   </navLabel>
+		   <content src="Text/alphabetical-list-of-all-ideas.html"/>
+		 </navPoint>
+		 <navPoint id="navPoint-70" playOrder="70">
+		   <navLabel>
+              <text>Alphabetical Index</text>
+		   </navLabel>
+		   <content src="Text/alphabetical-index.html"/>
+		 </navPoint>
+     </navPoint>
+  </navMap>
+</ncx>

@@ -37,9 +37,9 @@ This doesn&#8217;t mean you shouldn&#8217;t have a well formed point of view, bu
 <p>
 What trait signified someone who was <em>wrong</em> a lot of the time? Someone obsessed with details that only support one point of view. If someone can&#8217;t climb out of the details, and see the bigger picture from multiple angles, they&#8217;re often wrong most of the time.</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Jeff_Bezos">Jeff Bezos</a> and <a href="http://en.wikipedia.org/wiki/Jason_Fried">Jason Fried</a> from the interview <cite><a href="https://m.signalvnoise.com/some-advice-from-jeff-bezos-28b3c2938968#.5mg9cq83q">Signal vs. Noise</a></cite>, &#8221;Some advice from Jeff Bezos&#8221; (Sep 21, 2015)
-</footer>
+</p>
 </blockquote>
 
 

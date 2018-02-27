@@ -13,7 +13,10 @@
 <?if "=$sourcelink$=" ?>
             <a href="=$sourcelink$=" target="ref">
 <?endif?>
-            <cite>=$source$=.</cite></a>
+            <cite>=$source$=.</cite>
+<?if "=$sourcelink$=" ?>
+            </a>
+<?endif?>
 <?if "=$publisher$=" ?>
 <?if "=$pubcity$=" ?>
             =$pubcity$=:
@@ -23,5 +26,3 @@
           </p>
 <?endif?>
 <?loop?>
-
-

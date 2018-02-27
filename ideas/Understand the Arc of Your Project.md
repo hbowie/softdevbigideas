@@ -1,9 +1,11 @@
 Title: Understand the Arc of Your Project
 
 Index: Ambler, Scott
+Index: Bezos, Jeff
 Index: Hitchcock, Alfred
 Index: Humphrey, Watts
 Index: Leffingwell, Dean
+Index: O'Reilly, Tim
 Index: Psycho
 Index: SDLC
 Index: Spolsky, Joel
@@ -45,9 +47,9 @@ Watts Humphrey noted this first problem in trying to establish a firm conclusion
 <p>
 A common misperception is that we must start with firm requirements. There is a widespread but fallacious view that requirements are the customers&#8217; job and that development should not start until they are explicitly defined. The fact is that the demand for firm and unchanging requirements is mostly wishful thinking....</p>
 
-<footer>
-<a href="http://en.wikipedia.org/wiki/Watts_Humphrey" class="reflink" target="ref">Watts Humphrey</a> from the book <cite><a href="bibliography.html#humphrey-1998">Managing the Software Process</a></cite> Copyright &copy; 1998 by Addison-Wesley Publishing Company, Inc.
-</footer>
+<p class="bq-footer">
+<a href="http://en.wikipedia.org/wiki/Watts_Humphrey" class="reflink" target="ref">Watts Humphrey</a> from the book <cite><a href="bibliography.html#humphrey-1989">Managing the Software Process</a></cite> Copyright &copy; 1998 by Addison-Wesley Publishing Company, Inc.
+</p>
 </blockquote>
 
 The Agile approach, on the other hand, often suffers because it assumes too blithely that all problems can be worked out during development iterations, with little up-front analysis and design work. As a result, I've heard frustrated executives declare that Agile is "just a way of producing crap faster."
@@ -66,7 +68,7 @@ Let's think about a book-length work of fiction: a novel.
 
 We can think of each chapter of a novel as comparable to an iteration in an agile development project: each chapter delivers some additional dialogue, some additional characterization, and some additional elements of the plot, just as each iteration delivers some working software. And each chapter is roughly the same length as the others, just as each development iteration is often time-boxed into a prescribed length.
 
-However, even though most of us wouldn't consciously mark the progress of a novel from one phase into another, we all have an instinctive understanding that a book is not an unending series of chapters, that as the story unfolds, we are proceeding along a narrative arc that should eventually bring us to a satisfying conclusion. And if that arc is interrupted, or perverted -- as it was very intentionally in Hitchcock's move *Psycho*, for example -- then we feel that something is wrong, we may even be shocked, without the need to resort to a particular model of narrative fiction in order to reach that conclusion.
+However, even though most of us wouldn't consciously mark the progress of a novel from one phase into another, we all have an instinctive understanding that a book is not an unending series of chapters, that as the story unfolds, we are proceeding along a narrative arc that should eventually bring us to a satisfying conclusion. And if that arc is interrupted, or perverted -- as it was very intentionally in Hitchcock's movie *Psycho*, for example -- then we feel that something is wrong, we may even be shocked, without the need to resort to a particular model of narrative fiction in order to reach that conclusion.
 
 Now even though we don't consciously think about these narrative stages as we're reading a novel -- and even though authors don't always consciously consider them as they're writing one -- we can construct various models of how a story typically proceeds. There are, for example, the twelve stages of a <a href="http://www.thewritersjourney.com/hero's_journey.htm" class="reflink" target="ref">hero's journey</a>, as identified by Joseph Campbell. Or we could look at the <a href="http://www.storyboardthat.com/articles/e/five-act-structure" class="reflink" target="ref">five act structure</a> used explicitly in many plays. For our purposes today, though, let's just consider the simplest of these, the <a href="https://en.wikipedia.org/wiki/Three-act_structure" class="reflink" target="ref">three act structure</a>.
 
@@ -106,9 +108,9 @@ Some projects skip the Drive to Decisions phase, sweeping all the difficult deci
 <p>
 In too many programming organizations, every time there&#8217;s a design debate, nobody ever manages to make a <em>decision</em>, usually for political reasons. So the programmers only work on uncontroversial stuff. As time goes on, all the hard decisions are pushed to the end. <em>These projects are the most likely to fail.</em></p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Joel_Spolsky" class="reflink" target="ref">Joel Spolsky</a> from the book <cite><a href="bibliography.html#spolsky-2004">Joel on Software</a></cite> Copyright &copy; 2004 by Joel Spolsky
-</footer>
+</p>
 </blockquote>
 
 And then there are the projects that try to go straight to the Deliver act in a misguided effort to complete faster.
@@ -130,6 +132,16 @@ Here is how such a list would be used in each of these three acts.
 If we focus on the details of a project, then we will often see subplots, red herrings, surprises, suspense and mystery, just as we do in any good novel. After all, any software development project is fundamentally a journey of discovery: our intent is always to discover the big things early on, and have fewer and smaller surprises as we continue, but any omniscience we can claim is only in hindsight. If we're trying to track progress according to a traditional project plan, then the project may appear to be in a state of chaos.
 
 If we step back and look at the overall arc of the project, though, proceeding through the three acts of *Discover*, *Drive to Decisions*, and *Deliver*, then we can often get a much better sense of whether a project is fundamentally on track or headed off the road and into the weeds. And a list of open questions, paired with a list of closed questions and their answers, can help key leaders navigate the roiling waters of any challenging project, ultimately leading their teams and stakeholders to a successful conclusion.
+
+----
+
+<blockquote>
+<p>As Bill Janeway said to me, it seems that Jeff [Bezos] &#8220;wanted rich discussion up front leading to Decision Time and then highly structured communication during Execution Time.&#8221;</p>
+
+<p class="bq-footer">
+<a href="https://en.wikipedia.org/wiki/Tim_O%27Reilly">Tim O'Reilly</a>
+</p>
+</blockquote>
 
 [hb]: about-the-author.html
 

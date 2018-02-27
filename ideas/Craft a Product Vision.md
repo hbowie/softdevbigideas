@@ -2,6 +2,7 @@ Title: Craft a Product Vision
 
 Index: Adams, Ansel
 Index: Brooks, Fred
+Index: Burgess, Mark
 Index: Chesterton, G. K.
 Index: Chief Engineer's Concept Paper
 Index: Cockburn, Alistair
@@ -49,9 +50,9 @@ Good missions, and Mission Statements, exclude alternatives. Useless ones try to
 <p>
 All are non-starters. Because the only statement you can make about software is that it will be high quality, don&#8217;t waste the paper and toner. </p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://issurvivor.com/" class="reflink" target="ref">Bob Lewis</a> from the book <cite><a href="bibliography.html#lewis-1999">IS Survival Guide</a></cite> Copyright &copy; 1999 by Sams Publishing
-</footer>
+</p>
 </blockquote>
 
 The Product Vision is similar in many respects to the Chief Engineer's Concept Paper used at Toyota, and described by Morgan and Liker in their book <cite><a href="bibliography.html#morgan-liker-2006">The Toyota Product Development System</a></cite>.
@@ -63,9 +64,9 @@ The Product Vision is similar in many respects to the Chief Engineer's Concept P
 There is nothing worse than a brilliant image of a fuzzy concept.
 </p>
 
-<footer>
+<p class="bq-footer">
   <a href="http://en.wikipedia.org/wiki/Ansel_Adams" class="reflink" target="ref">Ansel Adams</a>
-</footer>
+</p>
 </blockquote>
 
 ----
@@ -74,9 +75,9 @@ There is nothing worse than a brilliant image of a fuzzy concept.
 <p>
 I will contend that conceptual integrity is <em>the</em> most important consideration in system design. It is better to have a system omit certain anomalous features and improvements, but to reflect one set of design ideas, than to have one that contains many good but independent and uncoordinated ideas.</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Fred_Brooks" class="reflink" target="ref">Fred Brooks</a> from the book <cite><a href="bibliography.html#brooks-1975">The Mythical Man-Month: Essays on Software Engineering</a></cite> Copyright &copy; 1975 by Addison-Wesley Publishing Company, Inc.
-</footer>
+</p>
 </blockquote>
 
 ----
@@ -85,9 +86,9 @@ I will contend that conceptual integrity is <em>the</em> most important consider
 <p>
 In most people&#8217;s vocabularies, design means veneer. It&#8217;s interior decorating. It&#8217;s the fabric of the curtains and the sofa. But to me, nothing could be further from the meaning of design. Design is the fundamental soul of a man-made creation that ends up expressing itself in successive outer layers of the product or service.</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Steve_Jobs" class="reflink" target="ref">Steve Jobs</a> from the interview <cite><a href="bibliography.html#jobs-2000">Fortune Magazine</a></cite>, &#8221;Apple&#8217;s One-Dollar-a-Year Man&#8221; (Jan 24, 2000)
-</footer>
+</p>
 </blockquote>
 
 ----
@@ -96,9 +97,9 @@ In most people&#8217;s vocabularies, design means veneer. It&#8217;s interior de
 <p>
 The whole difference between construction and creation is exactly this: that a thing constructed can only be loved after it is constructed; but a thing created is loved before it exists, as the mother can love the unborn child. </p>
 
-<footer>
-<a href="http://en.wikipedia.org/wiki/G._K._Chesterton" class="reflink" target="ref">G. K. Chesterton</a> from <cite>Appreciations and Criticisms of the Works of Charles Dickens</a></cite>, &#8220;Pickwick Papers&#8221; (1911)
-</footer>
+<p class="bq-footer">
+<a href="http://en.wikipedia.org/wiki/G._K._Chesterton" class="reflink" target="ref">G. K. Chesterton</a> from <cite>Appreciations and Criticisms of the Works of Charles Dickens</cite>, &#8220;Pickwick Papers&#8221; (1911)
+</p>
 </blockquote>
 
 ----
@@ -107,9 +108,19 @@ The whole difference between construction and creation is exactly this: that a t
 <p>
 ...system architects act as storytellers. They keep alive the promise and vision of the future system, which is particularly valuable during the confusing early periods of a project.</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Alistair_Cockburn" class="reflink" target="ref">Alistair Cockburn</a> from the book <cite><a href="bibliography.html#cockburn-2002">Agile Software Development</a></cite> Copyright &copy; 2002 by Pearson Education, Inc
-</footer>
+</p>
+</blockquote>
+
+----
+
+<blockquote>
+<p>If you imagine a cookbook, each page usually starts with a promise of what the outcome will look like (in the form of a seductive picture), and then it includes a suggested recipe for making it. It does not merely throw a recipe at you, forcing you through the steps to discover the outcome on trust. It sets your expectations first. In computer programming, and in management, we are not always so helpful. </p>
+
+<p class="bq-footer">
+<a href="http://markburgess.org">Mark Burgess</a>
+</p>
 </blockquote>
 
 

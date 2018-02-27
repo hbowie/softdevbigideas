@@ -1,0 +1,107 @@
+module	action	modifier	object	value
+
+<!-- Generate the HTML content for the Bibliography -->
+
+input	set		normalization	0
+input	open	xls		#PATH#../lists/bibliography.xls
+sort	add	Ascending	Last Name First	
+sort	add	Ascending	Pub Date	
+sort	add	Ascending	Source	
+sort	set		params	
+filter	add	greater than	Bibliographic ID	
+filter	set		params	
+template	open	text		#PATH#../factory/epub_bibliography_template.html
+template	generate			
+
+<!-- Generate the index by title body -->
+
+input	set		normalization	0
+input	open	xls		#PATH#../lists/ideas.xls
+sort	clear			
+sort	set		params	
+filter	clear			
+filter	set		params	
+filter	add	equal to	Idea	Yes
+filter	set		params	
+sort	add	Ascending	Title	
+sort	set		params	
+template	open	text		#PATH#../factory/epub_index_by_title_template.html
+template	generate			
+
+<!-- Generate the Table of Contents for the Index by Term -->
+
+input	set		normalization	0
+input	open	notenik-index		#PATH#../ideas/
+sort	add	Ascending	Lower Case Term	
+sort	add	Ascending	Term	
+sort	add	Ascending	Page	
+sort	set		params	
+template	open	text		#PATH#../factory/index_by_term_index_template.html
+template	generate			
+
+<!-- Generate the HTML content for the Index by Term -->
+
+template	open	text		#PATH#../factory/epub_index_by_term_template.html
+template	generate			
+
+<!-- Generate the epub chapters -- Convert the Markdown source to HTML -->
+
+input	set		normalization	0
+input	open	notenik+		#PATH#../ideas/
+sort	clear			
+sort	set		params	
+filter	clear			
+filter	set		params	
+template	open	file		#PATH#../factory/epub_chapter_template.html
+template	generate			
+
+<!-- Generate the Content Manifest for all of the HTML files -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	xls		#PATH#../lists/ideas.xls
+filter	add	not equal to	Title	Search
+filter	set		params	
+template	open	file		#PATH#../factory/epub_content_manifest_template.xml
+template	generate
+
+<!-- Generate the Content Manifest for all of the Image files -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	set		dirdepth	1
+input	open	dir		#PATH#../epub/OEBPS/Images/
+template	open	text		#PATH#../factory/epub_image_manifest_template.xml
+template	generate			
+
+<!-- Generate epub content.opf --> 
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	xls		#PATH#../lists/ideas.xls
+filter	add	not equal to	Title	Search
+filter	add	not equal to	Title	Copyrights
+filter	set		params	
+template	open	file		#PATH#../factory/epub_content_template.opf
+template	generate
+
+<!-- Generate the Table of Contents -->
+
+input	set		normalization	0
+input	open	xls		#PATH#../lists/ideas.xls
+sort	clear			
+sort	set		params	
+filter	clear			
+filter	set		params	
+filter	add	not equal to	Title	Search
+filter	add	not equal to	Title	Copyrights
+filter	set		params	
+sort	add	Ascending	Seq	
+sort	set		params	
+template	open	file		#PATH#../factory/epub_toc_template.ncx
+template	generate			
+
+<!-- Now create the epub file -->
+
+input	epubin	dir		#PATH#../epub
+input	epubout	file		#PATH#../Big Ideas in Software Development.epub

@@ -31,9 +31,9 @@ Iterative development, on the other hand, means that a partially completed featu
 <p>
 It&#8217;s really hard to design products by focus groups. A lot of times, people don&#8217;t know what they want until you show it to them.</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Steve_Jobs" class="reflink" target="ref">Steve Jobs</a> from the article <cite><a href="bibliography.html#jobs-1998">Business Week</a></cite> (May 25, 1998)
-</footer>
+</p>
 </blockquote>
 
 

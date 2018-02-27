@@ -41,9 +41,9 @@ For more on this topic, see the Pagan Tuna post, &ldquo;<a href="http://www.paga
 <p>
 For years, app dev pros have been told to keep their heads down &#8212; that all you need to do is follow the project plan and write your code. Wrong. Lift your head up, find your passion, understand the business and then use your technical creativity to make beautiful applications that users find useful, usable, and desirable.</p>
 
-<footer>
+<p class="bq-footer">
 <a href="https://www.forrester.com/Mike-Gualtieri">Mike Gualtieri</a> from the article <cite><a href="bibliography.html#gualtieri-2009">Forrester Blogs</a></cite>, &#8221;Excuses, excuses: The Business Doesn&#8217;t Know What It Wants&#8221; Copyright &copy; Sep 9, 2009 by Forrester Research, Inc.
-</footer>
+</p>
 </blockquote>
 
 ----
@@ -52,9 +52,9 @@ For years, app dev pros have been told to keep their heads down &#8212; that all
 <p>
 In short, the software designer must learn to think like a communicator and to practice an artistic craft as well as an engineering one.</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Paul_Heckel">Paul Heckel</a> from the book <cite><a href="bibliography.html#heckel-1994">The Elements of Friendly Software Design</a></cite> Copyright &copy; 1982 by Paul Heckel
-</footer>
+</p>
 </blockquote>
 
 ----
@@ -63,9 +63,9 @@ In short, the software designer must learn to think like a communicator and to p
 <p>
 You [the software developer] will need humility to recognize that the users are always the final and most appropriate judges of your work. Even though you&#8217;re the expert in interpreting your users&#8217; comments and meeting their needs, their judgments of your work are final and without appeal. </p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Nathaniel_Borenstein">Nathaniel Borenstein</a> from the book <cite><a href="bibliography.html#borenstein-1991">Programming As If People Mattered: Friendly Programs, Software Engineering, and Other Noble Delusions</a></cite>Copyright &copy; 1991 by Princeton University Press
-</footer>
+</p>
 </blockquote>
 
 

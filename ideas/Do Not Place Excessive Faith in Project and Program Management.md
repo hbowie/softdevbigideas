@@ -27,9 +27,9 @@ Think of project management as something like a color-blind monitor trying to ma
 <p>
 There is probably no job on earth for which an ability to believe six impossible things before breakfast is more of a requirement than software project management. We are routinely expected to work ourselves into a state of believing in a deadline, a budget, or a performance factor that time subsequently may prove to be impossible.</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Tom_DeMarco" class="reflink" target="ref">Tom DeMarco</a> and <a href="http://en.wikipedia.org/wiki/Tim_Lister" class="reflink" target="ref">Timothy Lister</a> from the book <cite><a href="bibliography.html#demarco-lister-2003">Waltzing with Bears: Managing Risk on Software Projects</a></cite> (2003)
-</footer>
+</p>
 </blockquote>
 
 ----
@@ -41,9 +41,9 @@ One frequent analogy casts the manager in the role of an airplane pilot guided b
 <p>
 Mechanistic and organic analogies are flawed because they are too simplistic. Kaplan and Norton&#8217;s cockpit analogy would be more accurate if it included a multitude of tiny gremlins controlling wing flaps, fuel flow, and so on of a plane being buffeted by winds and generally struggling against nature, but with the gremlins always controlling information flow back to the cockpit instruments, for fear that the pilot might find gremlin replacements. It would not be surprising if airplanes guided this way occasionally flew into mountainsides when they seemed to be progressing smoothly toward their destinations.</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Robert_D._Austin" class="reflink" target="ref">Robert D. Austin</a> from the book <cite><a href="bibliography.html#austin-1996">Measuring and Managing Performance in Organizations</a></cite> Copyright &copy; 1996 by Robert D. Austin
-</footer>
+</p>
 </blockquote>
 
 

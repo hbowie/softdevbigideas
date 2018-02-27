@@ -9,7 +9,7 @@ Index: Wright Brothers
 
 Body:
 
-My intention in identifying the Big Ideas in Software Development is to provide food for thought -- but thought will still be necessary in order to apply these ideas fruitfully to any particular software development effort.
+My intention in identifying The Big Ideas in Software Development is to provide food for thought -- but thought will still be necessary in order to apply these ideas fruitfully to any particular software development effort.
 
 Unfortunately, I've been on too many projects that reminded me of this bit of dialogue from <a href="https://en.wikipedia.org/wiki/J._I._M._Stewart" class="reflink" target="ref">Michael Innes</a>, British detective author, in his book <cite>[Seven Suspects][innes-1936]</cite>, written in 1936:
 
@@ -51,7 +51,7 @@ I remember visiting the <a href="https://www.nps.gov/wrbr/index.htm" class="refl
 
 The same thinking "process" is required on all development projects. We have to break the big problem down into smaller ones. We have to question conventional wisdom. We have to identify design alternatives. And we have to use rational means to decide which of those alternatives will best suit our needs.
 
-I sincerely believe that knowledge, understanding and application of the Big Ideas in Software Development can help increase your chances of success on your next project, but this is not a cookbook to be followed mindlessly: software development is a tough, risky, creative process, and our results will always reflect the quality of the thought applied to the task before us.
+I sincerely believe that knowledge, understanding and application of The Big Ideas in Software Development can help increase your chances of success on your next project, but this is not a cookbook to be followed mindlessly: software development is a tough, risky, creative process, and our results will always reflect the quality of the thought applied to the task before us.
 
 
 [innes-1936]: bibliography.html#innes-1936

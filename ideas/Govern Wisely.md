@@ -57,9 +57,9 @@ Another important function of governance is to select and implement appropriate 
 <p>
 The Repeatable Process has one important strength that the Initial Process does not: It provides control over the way the organization establishes its plans and commitments.</p>
 
-<footer>
-<a href="http://en.wikipedia.org/wiki/Watts_Humphrey" class="reflink" target="ref">Watts Humphrey</a> from the book <cite><a href="bibliography.html#humphrey-1998">Managing the Software Process</a></cite> Copyright &copy; 1998 by Addison-Wesley Publishing Company, Inc.
-</footer>
+<p class="bq-footer">
+<a href="http://en.wikipedia.org/wiki/Watts_Humphrey" class="reflink" target="ref">Watts Humphrey</a> from the book <cite><a href="bibliography.html#humphrey-1989">Managing the Software Process</a></cite> Copyright &copy; 1998 by Addison-Wesley Publishing Company, Inc.
+</p>
 </blockquote>
 
 ----
@@ -68,9 +68,9 @@ The Repeatable Process has one important strength that the Initial Process does 
 <p>
 There&#8217;s an old Wayne Gretzky quote that I love. &#8216;I skate to where the puck is going to be, not where it has been.&#8217; And we&#8217;ve always tried to do that at Apple. Since the very very beginning. And we always will.</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Steve_Jobs" class="reflink" target="ref">Steve Jobs</a> from the speech <cite><a href="bibliography.html#jobs-2007">Macworld Keynote</a></cite> (2007)
-</footer>
+</p>
 </blockquote>
 
 

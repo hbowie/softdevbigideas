@@ -1,5 +1,7 @@
 Title: Execution
 
+Type:  Index
+
 Index: execution
 
 Body:

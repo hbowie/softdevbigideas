@@ -28,9 +28,9 @@ Of course, any consideration of alternatives will require [open and spirited dis
 <p>
 A critical aspect of all engineering disciplines is the elaboration of multiple approaches, trade-off analyses among them, and the eventual adoption of one. After requirements are agreed upon, you <em>must</em> examine a variety of architectures and algorithms.</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Alan_M._Davis" class="reflink" target="ref">Alan M. Davis</a> from the book <cite><a href="bibliography.html#davis-1995">201 Principles of Software Development</a></cite> Copyright &copy; 1995 by McGraw-Hill, Inc.
-</footer>
+</p>
 </blockquote>
 
 [arguments]: have-wonderful-arguments.html

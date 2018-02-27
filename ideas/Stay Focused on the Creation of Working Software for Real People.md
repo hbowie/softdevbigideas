@@ -49,9 +49,9 @@ Wired: In your experience, what&#8217;s the best process for design? </p>
 <p>
 Brooks: Great design does not come from great processes; it comes from great designers.</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Fred_Brooks" class="reflink" target="ref">Fred Brooks</a> from the interview <cite><a href="bibliography.html#brooks-2010">Wired Magazine</a></cite>, &#8221;Master Planner: Fred Brooks Shows How to Design Anything&#8221; (07/28/2010)
-</footer>
+</p>
 </blockquote>
 
 ----
@@ -60,9 +60,9 @@ Brooks: Great design does not come from great processes; it comes from great des
 <p>
 He continues, &#8220;Remember, outcomes are what matter—not the process, not controls, or, for that matter, what work you complete.&#8221;</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Gene_Kim">Gene Kim</a>, <a href="http://en.wikipedia.org/wiki/Kevin_Behr">Kevin Behr</a> and <a href="http://en.wikipedia.org/wiki/George_Spafford">George Spafford</a> from the book <cite><a href="bibliography.html#kim-et-al-2013">The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win</a></cite> (2013)
-</footer>
+</p>
 </blockquote>
 
 

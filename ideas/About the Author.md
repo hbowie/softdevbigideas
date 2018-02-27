@@ -4,9 +4,9 @@ Index: author
 
 Body:
 
-<img class="pic-right" src="images/herb-bowie.jpg" alt="Pic of Herb Bowie" title="Picture of Herb Bowie" />
+<img class="pic-right" src="images/herb-bowie.jpg" alt="Pic of Herb Bowie" title="Picture of Herb Bowie" ></img>
 
-Software Development Big Ideas (SoftDevBigIdeas.com) was written by Herb Bowie.
+The Big Ideas in Software Development (SoftDevBigIdeas.com) was written by Herb Bowie.
 
 ### Personal
 
@@ -36,4 +36,4 @@ Became interested in Web publishing early in the history of the World Wide Web, 
 
 Feel free to contact me via email at <a href="mailto:bigkahuna@pagantuna.com">bigkahuna@pagantuna.com</a>.
 
-<a href="http://www.linkedin.com/in/herbbowie" ><img src="http://www.linkedin.com/img/webpromo/btn_myprofile_160x33.gif" width="160" height="33" alt="View Herb Bowie's profile on LinkedIn"></a>
+<a href="http://www.linkedin.com/in/herbbowie" ><img src="images/btn_myprofile_160x33.gif" width="160" height="33" alt="View Herb Bowie's profile on LinkedIn"></img></a>

@@ -1,0 +1,13 @@
+<?output "../includes/epub_image_manifest.xml"?>
+<!-- Created by pstextmerge using template epub_content_manifest_template.xml -->
+<?nextrec?>
+<?if =$fileext$= eq jpg ?>
+      <item id="=$filenamewoext$=" href="Images/=$file-name$=" media-type="image/jpeg" />
+<?endif?>
+<?if =$fileext$= eq png ?>
+      <item id="=$filenamewoext$=" href="Images/=$file-name$=" media-type="image/png" />
+<?endif?>
+<?if =$fileext$= eq gif ?>
+      <item id="=$filenamewoext$=" href="Images/=$file-name$=" media-type="image/gif" />
+<?endif?>
+<?loop?>

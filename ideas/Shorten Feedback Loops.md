@@ -34,9 +34,9 @@ When developing a new piece of software, the best way to shorten your feedback l
 <p>
 A Minimal Viable Product is that version of a new product which allows a team to collect the maximum amount of validated learning about customers with the least effort.</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Eric_Ries">Eric Ries</a> from the book <cite><a href="bibliography.html#ries-2011">The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses</a></cite> Copyright &copy; 2011
-</footer>
+</p>
 </blockquote>
 
 When considering feedback loops, we must be careful to make a distinction between meaningful feedback and the other kind.
@@ -57,9 +57,9 @@ I call these items meaningful because they all should produce fairly clear and u
 
 Practices such as continuous build integration, automated testing, software prototyping, daily stand-up meetings, and short rapid delivery cycles are all ways to shorten loops that produce meaningful feedback.
 
-The other sort of feedback frequently sought on development projects comes from reviews of documents by management, management delegates, and/or professed experts. Before attempting to defend the significance of such reviews, you may wish to consider this text from <a href="http://en.wikipedia.org/wiki/Daniel_Kahneman" class="reflink" target="ref">Daniel Kahneman</a>&#8217;s 2011 book <cite><a href="bibliography.html#kahneman-2011">Thinking, Fast and Slow</a>:
+The other sort of feedback frequently sought on development projects comes from reviews of documents by management, management delegates, and/or professed experts. Before attempting to defend the significance of such reviews, you may wish to consider this text from <a href="http://en.wikipedia.org/wiki/Daniel_Kahneman" class="reflink" target="ref">Daniel Kahneman</a>&#8217;s 2011 book <cite><a href="bibliography.html#kahneman-2011">Thinking, Fast and Slow</a></cite>:
 
-> In the slim volume that he later called &#8216;my disturbing little book,&#8217; [Paul] Meehl reviewed the results of 20 studies that had analyzed whether clinical predictions based on the subjective impressions of trained professionals were more accurate than statistical predictions made by combining a few scores or ratings according to a rule. In a typical study, trained counselors predicted the grades of freshmen at the end of the school year. The counselors interviewed each student for forty-five minutes. They also had access to high school grades, several aptitude tests, and a four-page personal statement. The statistical algorithm used only a fraction of this information; high school grades and one aptitude test. Nevertheless, the formula was more accurate than 11 of the 14 counselors. Meehl reported generally similar results across a variety of other forecast outcomes, including violations of parole, success in pilot training, and criminal recidivism.</p>
+> In the slim volume that he later called &#8216;my disturbing little book,&#8217; [Paul] Meehl reviewed the results of 20 studies that had analyzed whether clinical predictions based on the subjective impressions of trained professionals were more accurate than statistical predictions made by combining a few scores or ratings according to a rule. In a typical study, trained counselors predicted the grades of freshmen at the end of the school year. The counselors interviewed each student for forty-five minutes. They also had access to high school grades, several aptitude tests, and a four-page personal statement. The statistical algorithm used only a fraction of this information; high school grades and one aptitude test. Nevertheless, the formula was more accurate than 11 of the 14 counselors. Meehl reported generally similar results across a variety of other forecast outcomes, including violations of parole, success in pilot training, and criminal recidivism.
 
 Kahneman goes on to point out that:
 
@@ -73,9 +73,9 @@ So take results from these sorts of reviews with a grain of salt. You may get so
 <p>
 The most powerful learning comes from direct experience. But what happens when we can no longer observe the consequences of our actions? Herein lies the core <em>learning dilemma</em> that confronts organizations:<em> we learn best from experience but we never directly experience the consequences of many of our most important decisions.</em> </p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Peter_Senge" class="reflink" target="ref">Peter Senge</a> from the book <cite><a href="bibliography.html#senge-1990">The Fifth Discipline: The Art and Practice of the Learning Organization</a></cite> Copyright &copy; 1990 by Peter M. Senge.
-</footer>
+</p>
 </blockquote>
 
 

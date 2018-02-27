@@ -35,9 +35,9 @@ Note, however, that detailed decomposition of requirements need not be done init
 <p>
 The bulleted list of requirements is by far the most cost-effective and beneficial approach. It is simple to create; it is simple to read, regardless of background; and, when stored in a spreadsheet, database, or requirements management tool and augmented with annotations, it has incredible benefits to project management.</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Alan_M._Davis" class="reflink" target="ref">Alan M. Davis</a> from the book <cite><a href="bibliography.html#davis-2005">Just Enough Requirements Management: Where Software Development Meets Marketing</a></cite> Copyright &copy; 2005 by Alan M. Davis
-</footer>
+</p>
 </blockquote>
 
 [cohesion]: cohesion.html

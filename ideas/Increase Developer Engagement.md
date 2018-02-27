@@ -31,9 +31,9 @@ Listen to these words from John Lennon, one of four equal members of The Beatles
 <blockquote>
 <p>Was it better to have a guy who was better than the people I had in? To make the group stronger, or to let me be stronger? Instead of going for an individual thing we went for the strongest format -- equals.</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/John_Lennon"  class="reflink" target="ref">John Lennon</a> from the book <cite><a href="bibliography.html#beatles-2000">The Beatles Anthology</a></cite> (2000)
-</footer>
+</p>
 </blockquote>
 
 But what, you may ask, does this have to do with the creation of technology products? Listen to what Steve Jobs had to say about the Apple management model:
@@ -43,9 +43,9 @@ But what, you may ask, does this have to do with the creation of technology prod
 
 <p>They sort of kept each other in check. And then when they split up, they never did anything as good. It was the chemistry of a small group of people, and that chemistry was greater than the sum of the parts. </p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Steve_Jobs"  class="reflink" target="ref">Steve Jobs</a> from the interview <cite><a href="bibliography.html#jobs-2004">Brent Schlender's Conversations with Steve Jobs</a></cite>Copyright &copy; October, 2004 by Mansueto Ventures
-</footer>
+</p>
 </blockquote>
 
 Still not convinced that the way artists create music has anything to do with the way developers create software?
@@ -55,9 +55,9 @@ Let's try another major branch of music from the 20th century. Listen to this de
 <blockquote>
 <p>Jazz is the most flexible art form ever because it believes in the good taste of individuals. It believes in our ability to make reasonable choices. It takes a chance on our decision-making skills instead of legislating our freedom away with written restrictions and restrictive hierarchies. In jazz, the size of your heart and your ability to play determine your position in the band. The philosophy of jazz is rooted in the elevation and enrichment of people, plain ol&#8217; folks.</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Wynton_Marsalis"  class="reflink" target="ref">Wynton Marsalis</a> from the book <cite><a href="bibliography.html#marsalis-2008">Moving to Higher Ground: How Jazz Can Change Your Life</a></cite> Copyright &copy; 2008 by Wynton Marsalis Enterprises
-</footer>
+</p>
 </blockquote>
 
 Now look at these elements of the Agile Manifesto and its accompanying principles (emphasis mine):
@@ -98,9 +98,9 @@ For more on the similarities between Jazz and Agile, see the Pagan Tuna post, &l
 <p>
 Traditional rigorous methodologies, and software engineering in general, focus on architecture, requirements and design; coding and testing are considered low-value &#8216;construction&#8217; activities. In these methodologies, the high-leverage activities are the up-front activities. Agilists reverse this emphasis.</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Jim_Highsmith"  class="reflink" target="ref">Jim Highsmith</a> from the book <cite><a href="bibliography.html#highsmith-2002">Agile Software Development Ecosystems</a></cite> Copyright &copy; 2002 by Pearson Education, Inc.
-</footer>
+</p>
 </blockquote>
 
 ----
@@ -109,9 +109,9 @@ Traditional rigorous methodologies, and software engineering in general, focus o
 <p>
 Without work, all life goes rotten. But when work is soulless, life stifles and dies.</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Albert_Camus"  class="reflink" target="ref">Albert Camus</a>
-</footer>
+</p>
 </blockquote>
 
 

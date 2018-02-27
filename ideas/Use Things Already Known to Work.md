@@ -38,9 +38,9 @@ As with [quality][], it often requires some forethought and extra effort to indu
 <p>
 Just as possessing a rich vocabulary of words enables you to write well, possessing a rich vocabulary of design patterns enables you to design well.</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Benjamin_L._Kovitz"  class="reflink" target="ref">Benjamin L. Kovitz</a> from the book <cite><a href="bibliography.html#kovitz-1999">Practical Software Requirements: A Manual of Content and Style</a></cite> Copyright &copy; 1999 by Manning Publications Co.
-</footer>
+</p>
 </blockquote>
 
 ----
@@ -60,9 +60,9 @@ The following is an exhaustive list of <em>all</em> problem-solving techniques, 
 <p>
 The third &#8212; enormous &#8212; category lumps functional decomposition together with whacks on the side of the head, thinking outside the box, and all the others because, compared to the first two techniques, they are nearly worthless.</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Benjamin_L._Kovitz"  class="reflink" target="ref">Benjamin L. Kovitz</a> from the book <cite><a href="bibliography.html#kovitz-1999">Practical Software Requirements: A Manual of Content and Style</a></cite> Copyright &copy; 1999 by Manning Publications Co.
-</footer>
+</p>
 </blockquote>
 
 [quality]: quality-requires-extra-effort.html

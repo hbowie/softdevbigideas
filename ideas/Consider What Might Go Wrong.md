@@ -27,9 +27,9 @@ Risk management should not be treated as a spectator sport -- too often it consi
 <p>
 The outcome of successful planning always looks like luck to saps.</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Dashiell_Hammett" class="reflink" target="ref">Dashiell Hammett</a> from the book <cite><a href="bibliography.html#hammett-1929">The Dain Curse</a></cite> Copyright &copy; 1957 by Dashiell Hammett
-</footer>
+</p>
 </blockquote>
 
 ----
@@ -38,9 +38,9 @@ The outcome of successful planning always looks like luck to saps.</p>
 <p>
 In retrospect, when we as project managers did not explicitly manage our risks, we were being childlike. Our whole industry has been childlike in this respect. Our infatuation with positive thinking and a can-do attitude has fixated us on the best outcomes as we ignored the various realities that could make such outcomes impossible. Considering only the rosy scenario and building it into the project plan is real kid stuff. </p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Tom_DeMarco" class="reflink" target="ref">Tom DeMarco</a> and <a href="http://en.wikipedia.org/wiki/Tim_Lister" class="reflink" target="ref">Timothy Lister</a> from the book <cite><a href="bibliography.html#demarco-lister-2003">Waltzing with Bears: Managing Risk on Software Projects</a></cite>Copyright &copy; 2003 by Tom DeMarco and Timothy Lister
-</footer>
+</p>
 </blockquote>
 
 

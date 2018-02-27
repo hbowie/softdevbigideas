@@ -1,5 +1,7 @@
 Title: Fundamental
 
+Type:  Index
+
 Index: fundamentals
 
 Body:

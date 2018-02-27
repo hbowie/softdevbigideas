@@ -1,0 +1,5 @@
+<?output "../includes/epub_content_manifest.xml"?>
+<!-- Created by pstextmerge using template epub_content_manifest_template.xml -->
+<?nextrec?>
+      <item id="=$title&f$=" href="Text/=$title&f$=.html" media-type="application/xhtml+xml" />
+<?loop?>

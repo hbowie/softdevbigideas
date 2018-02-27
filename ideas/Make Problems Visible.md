@@ -41,9 +41,9 @@ Note that making problems visible is a central tenet of <a href="https://en.wiki
 <p>
 …some executives like Mr. Konishi complain of managers at Toyota factories who have not adhered to some of the company&#8217;s most basic creeds, like allowing workers to stop factory lines when they spot defects. Empowering factory workers has long been central to Toyota&#8217;s quality control.</p>
 
-<footer>
+<p class="bq-footer">
 Martin Fackler from <cite><a href="bibliography.html#nytimes-2007">The New York Times</a></cite>, &#8221;The ‘Toyota Way’ Is Translated for a New Generation of Foreign Managers&#8221; (Feb 15, 2007)
-</footer>
+</p>
 </blockquote>
 
 As indicated in this quotation, people will not make problems visible if this results in them being punished for making mistakes. In order to surface problems, the organizational culture must support mutual ownership of problems, and focus on fixing the problems rather than assigning blame.

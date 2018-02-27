@@ -1,0 +1,46 @@
+<?epub "http://www.softdevbigideas.com" ?>
+<?output "../epub/OEBPS/Text/alphabetical-index.html" ?>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<!-- Created by pstextmerge using template epub_index_by_term_template.html -->
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>Alphabetical Index</title>
+    <link rel="stylesheet" type="text/css" href="../Styles/styles.css" />
+  </head>
+  <body>
+    <h1>Alphabetical Index</h1>
+<?include "../html/Alphabetical Index ToC.html" ?>
+<?nextrec?>
+<?definegroup 1 =$initialletter$= ?>
+<?definegroup 2 =$term$= ?>
+<?ifendgroup 2 ?>
+<?endif?>
+<?ifendgroup 1 ?>
+</dl>
+<?endif?>
+<?ifnewgroup 1 ?>
+<h3 id="letter-=$initialletter&l$=">&mdash; =$initialletter$= &mdash;</h3>
+<dl class="index">
+<?endif?>
+<?ifnewgroup 2 ?>
+	<dt>
+<?if "=$termlink$=" ?>
+		<a href="=$termlink$=" class="reflink" target="ref">
+<?endif?>
+			=$term$=
+<?if "=$termlink$=" ?>
+		</a>
+<?endif?>
+	</dt>
+<?endif?>
+		<dd>
+			<a href="=$page&f$=.html">
+				=$page$=
+			</a>
+		</dd>
+<?loop?>
+
+  </body>
+</html>

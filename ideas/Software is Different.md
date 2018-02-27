@@ -76,7 +76,7 @@ Humphrey has gone on to suggest strongly that practices that work well at the lo
 <p>
 The desire to treat software more like its hardware siblings began in earnest in the 1960s. Equal treatment was one motivation, at least at the start, but it was also an effort to make programming a more structured discipline like hardware engineering. Looking back, [David] Sayre observed that the Bald Peak conference had the regrettable effect of beginning a management mentality that served to &#8220;rigidify&#8221; programming at IBM. In the early days, he recalled that programming at IBM had an informal Silicon Valley flavor, which tended to encourage innovation. By the late 1960s, the working environment had become much more regimented. The disciplines of hardware engineering fit uneasily in the more ethereal realm of software. &#8220;Software is a much more plastic object than hardware,&#8221; Sayre said. &#8220;You whip it up, squeeze it, and you can dream.&#8221;</p>
 
-<footer>
+<p class="bq-footer">
 <a href="http://en.wikipedia.org/wiki/Steve_Lohr">Steve Lohr</a> from the book <cite><a href="bibliography.html#lohr-2002">Go To</a></cite> Copyright &copy; 2001 by Steve Lohr
-</footer>
+</p>
 </blockquote>

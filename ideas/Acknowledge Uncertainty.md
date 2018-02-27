@@ -12,7 +12,7 @@ However, there are situations in which we are none of these, and feigning certai
 
 Dan Snowden's <a href="https://en.wikipedia.org/wiki/Cynefin_framework" target="ref">Cynefin framework</a> offers a useful guide to differing approaches that are appropriate for situations with varying degrees of certainty. 
 
-<p><a href="http://cognitive-edge.com/" target="ref"><img src="http://www.softdevbigideas.com/images/cynefin-model.png"></a></p>
+<p><a href="http://cognitive-edge.com/" target="ref"><img alt="Cynefin Model" src="images/cynefin-model.png"></img></a></p>
 
 The Cynefin framework suggests four different approaches, starting with situations of high certainty, and proceeding to situations with progressively lower degrees of certainty. 
 

@@ -1,5 +1,7 @@
 Title: Initiation
 
+Type:  Index
+
 Index: initiation
 
 Body:

@@ -31,56 +31,56 @@ Note that the PDCA cycle can be used on elements of a product design, but also o
 
 The PDCA cycle can also be thought of as a compressed version of the <a href="https://en.wikipedia.org/wiki/Scientific_method" class="reflink" target="ref">Scientific Method</a>, as indicated in the following table.
 
-<table class="table table-bordered table-condensed table-dense">
-	<thead>
-	<tr>
-		<th>PDCA Step</th>
-		<th>Equivalent Scientific Method Step(s)</th>
-		<th>Other Terms</th>
-		<th>Example</th>
-	</tr>
-	</thead>
-	<tbody>
-	<tr>
-		<th rowspan="4">Plan</td>
-		<td>Ask a Question</td>
-		<td>&nbsp;</td>
-		<td>How can our users best navigate through our new web app?
-	</tr>
-	<tr>
-		<td>Conduct Background Research</td>
-		<td>See what others have done in similar circumstances</td>
-		<td>Review other successful web apps to see what they have done</td>
-	</tr>
-	<tr>
-		<td>Formulate a Hypothesis</td>
-		<td>Propose a Design</td>
-		<td>A Main Menu with one level of drop-downs</td>
-	</tr>
-	<tr>
-		<td>Design an Experiment</td>
-		<td>Construct a Test to validate or disprove the hypothesis</td>
-		<td>Let's perform a usability test and ask the users to perform these five key tasks</td>
-	</tr>
-	<tr>
-		<th>Do</td>
-		<td>Perform an Experiment</td>
-		<td>Test</td>
-		<td>Create a working prototype and conduct the usability test</td>
-	</tr>
-	<tr>
-		<th>Check</td>
-		<td>Analysis</td>
-		<td>Analyze results and draw conclusions</td>
-		<td>Overall approach worked but users struggled to find one particular function</td>
-	</tr>
-	<tr>
-		<th>Act</th>
-		<td>Determine Next Steps</td>
-		<td>Ask further related questions, or modify the hypothesis and perform further experiments</td>
-		<td>Either modify the prototype and re-test, or incorporate modified design into final product and proceed</td>
-	</tr>
-	</tbody>
+<table class="table table-bordered table-condensed table-dense shaded">
+<thead>
+<tr>
+<th class="shaded">PDCA Step</th>
+<th class="shaded">Equivalent Scientific Method Step(s)</th>
+<th class="shaded">Other Terms</th>
+<th class="shaded">Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="shaded" rowspan="4">Plan</th>
+<td class="shaded">Ask a Question</td>
+<td class="shaded">&nbsp;</td>
+<td class="shaded">How can our users best navigate through our new web app?</td>
+</tr>
+<tr>
+<td class="shaded">Conduct Background Research</td>
+<td class="shaded">See what others have done in similar circumstances</td>
+<td class="shaded">Review other successful web apps to see what they have done</td>
+</tr>
+<tr>
+<td class="shaded">Formulate a Hypothesis</td>
+<td class="shaded">Propose a Design</td>
+<td class="shaded">A Main Menu with one level of drop-downs</td>
+</tr>
+<tr>
+<td class="shaded">Design an Experiment</td>
+<td class="shaded">Construct a Test to validate or disprove the hypothesis</td>
+<td class="shaded">Let's perform a usability test and ask the users to perform these five key tasks</td>
+</tr>
+<tr>
+<th class="shaded">Do</th>
+<td class="shaded">Perform an Experiment</td>
+<td class="shaded">Test</td>
+<td class="shaded">Create a working prototype and conduct the usability test</td>
+</tr>
+<tr>
+<th class="shaded">Check</th>
+<td class="shaded">Analysis</td>
+<td class="shaded">Analyze results and draw conclusions</td>
+<td class="shaded">Overall approach worked but users struggled to find one particular function</td>
+</tr>
+<tr>
+<th class="shaded">Act</th>
+<td class="shaded">Determine Next Steps</td>
+<td class="shaded">Ask further related questions, or modify the hypothesis and perform further experiments</td>
+<td class="shaded">Either modify the prototype and re-test, or incorporate modified design into final product and proceed</td>
+</tr>
+</tbody>
 </table>
 
 The Build-Measure-Learn cycle, as defined in the <a href="http://theleanstartup.com/principles" target="ref">Lean Startup Method</a>, is another adaptation of this basic PDCA cycle.

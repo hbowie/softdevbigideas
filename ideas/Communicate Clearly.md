@@ -36,11 +36,7 @@ Consider the following factors:
 
 <blockquote>
 <p>Share early and share often.</p>
-<footer><a href="http://en.wikipedia.org/wiki/Alan_Mulally" class="reflink" target="ref">Alan Mulally</a> from the book <cite><a href="bibliography.html#poppendieck-2006">Implementing Lean Software Development: From Concept to Cash</a></cite> (2006)</footer>
+<p class="bq-footer"><a href="http://en.wikipedia.org/wiki/Alan_Mulally" class="reflink" target="ref">Alan Mulally</a> from the book <cite><a href="bibliography.html#poppendieck-2006">Implementing Lean Software Development: From Concept to Cash</a></cite> (2006)</p>
 </blockquote>
 
-[cockburn-2001]: bibliography#cockburn-2001
-
-
-
-
+[cockburn-2001]: bibliography.html#cockburn-2001
