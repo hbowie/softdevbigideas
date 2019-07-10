@@ -2,11 +2,12 @@ Title:  Self-Organizing Teams
 
 Index: organization
 Index: team organization
+Index: teams
 Index: self-organizing
 Index: hierarchy
 Index: project management
-Index: Definition of Done (https://www.scrumalliance.org/community/articles/2008/september/what-is-definition-of-done-(dod))
-Index: DoD (https://www.scrumalliance.org/community/articles/2008/september/what-is-definition-of-done-(dod))
+Index: Definition of Done (https://www.agilealliance.org/glossary/definition-of-done/)
+Index: DoD (https://www.agilealliance.org/glossary/definition-of-done/)
 Index: daily standup (http://martinfowler.com/articles/itsNotJustStandingUp.html)
 Index: standup (http://martinfowler.com/articles/itsNotJustStandingUp.html)
 Index: burn down chart (https://en.wikipedia.org/wiki/Burn_down_chart)
@@ -36,13 +37,14 @@ Such a team will generally use daily team meetings -- often known as <a href="ht
 
 Such a team will also typically use some sort of highly visible task board -- either a physical board or an electronic equivalent -- so that progress towards team goals is always easily available to all team members.
 
-Such a team will also typically work to a common set of completion criteria for its coding tasks, often referred to as a "<a href="https://www.scrumalliance.org/community/articles/2008/september/what-is-definition-of-done-(dod)" class="reflink" target="ref">Definition of Done</a>." Team members will then hold each other accountable to make sure that whey they say they are done with a task, that their work meets this DoD defined by the team.
+Such a team will also typically work to a common set of completion criteria for its coding tasks, often referred to as a "<a href="https://www.agilealliance.org/glossary/definition-of-done/" class="reflink" target="ref">Definition of Done</a>." Team members will then hold each other accountable to make sure that whey they say they are done with a task, that their work meets this DoD defined by the team.
 
 Progress of such a team, especially when delivering early and often, will generally be tracked using <a href="https://en.wikipedia.org/wiki/Burn_down_chart" class="reflink" target="ref">burn down charts</a>. Charts like these show the general progress of the team as a whole towards meeting its commitments for the current sprint, without getting bogged down in the details of who's working on what and actual vs. planned numbers for each individual task.
 
 The advantage of such a team is that, by leveraging the skills and wisdom of the team as a whole, and by leveraging peer-to-peer communication, the detailed work can be more quickly and effectively managed than could be done by the traditional hierarchical arrangement of communicating through a project manager.
 
 A self-organizing team also tends to produce higher levels of [developer engagement][engagement], since it tends to maximize feelings of purpose (meeting team goals), autonomy (freedom to accept team commitments and to move work and resources around to meet those commitments), and mastery (ability to complete challenging tasks on a frequent and regular basis).
+
 
 ----
 

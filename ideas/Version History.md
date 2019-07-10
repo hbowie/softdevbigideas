@@ -4,7 +4,11 @@ Index: version history
 
 Body:
 
-<cite>The Big Ideas in Software Development</cite> is written in <a href="https://daringfireball.net/projects/markdown/" class="reflink" target="ref">Markdown</a>. The Markdown source is stored on <a href="https://bitbucket.org/account/user/pspub/projects/SOF" class="reflink" target="ref">Bitbucket</a>.
+<cite>The Big Ideas in Software Development</cite> is written in <a href="https://daringfireball.net/projects/markdown/" class="reflink" target="ref">Markdown</a>. The Markdown source is stored on <a href="https://github.com/hbowie/softdevbigideas" class="reflink" target="ref">GitHub</a>.
+
+### Version 1.15 -- July 10, 2019
+
+Updated page on Teams to include reference to group Core Design Principles. 
 
 ### Version 1.14 -- Feb 22, 2018
 

@@ -87,6 +87,8 @@ And so it is often difficult for even the best-intentioned managers and coaches 
 
 However, when a small team is working together to achieve a common goal, and when they are committed to delivering working software within a short period of time, and when they are allowed to [self-organize][self-organizing], and when the idea of joint ownership of the software code is promoted, and when they agree on a definition of what it means to say they are "done" with a piece of software, then it turns out that the team itself is much more effective at enforcing common norms than is any outside agency.
 
+When considering team implementation, it would also be wise to consider the <a href="https://www.pagantuna.com/posts/agile-software-development-and-the-core-design-principles-for-teams.html" class="reflink" target="ref">Core Design Principles for Teams</a>, as defined by Nobel Prize Winner Elinor Ostrom and evolutionary biologist David Sloan Wilson.
+
 Another important team characteristic deserving of further emphasis is that of diversity. Research has demonstrated that teams with diverse perspectives and backgrounds tend to produce better results, even if the discussions within such a team tend to be a bit messier and less straightforward.
 
 <blockquote>
@@ -137,6 +139,15 @@ Let me return to my original assertion:
 If this is true, then you need to ask yourself: what is your organization doing today to create, nurture and sustain these sorts of teams?
 
 For more on this topic, see the Pagan Tuna post, &ldquo;<a href="http://www.pagantuna.com/posts/the-power-of-diverse-teams.html" class="reflink" target="ref">The Power of Diverse Teams</a>.&rdquo;
+
+ 
+
+For more on the topic of teams, see the following Pagan Tuna posts:
+
+<ul>
+<li>&ldquo;<a href="http://www.pagantuna.com/posts/the-power-of-diverse-teams.html" class="reflink" target="ref">The Power of Diverse Teams</a>.&rdquo;</li>
+<li>&ldquo;<a href="https://www.pagantuna.com/posts/agile-software-development-and-the-core-design-principles-for-teams.html" class="reflink" target="ref">Agile Software Development and the Core Design Principles for Teams</a>.&rdquo;</li>
+</ul>
 
 ----
 
