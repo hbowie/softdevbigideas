@@ -1,0 +1,71 @@
+Ref Link	Seq	Page Type	Section	Keyword	Idea?	Title	Message	lastmod	changefreq	priority
+	0	index	Intro			Intro		2016-09-05	monthly	0.1
+intro	1		Intro	Introduction		Introduction		2016-09-05	monthly	1.0
+thinking	2		Intro	Thinking	Yes	This Thinking Business		2016-09-05	monthly	1.0
+	10	index	Fundamental			Fundamental		2016-09-05	monthly	0.1
+uncertainty	11		Fundamental	Uncertainty	Yes	Acknowledge Uncertainty		2016-12-30	monthly	1.0
+inconvenient	12		Fundamental	Inconvenient	Yes	The Inconvenient Nature of Software Development		2016-09-05	monthly	1.0
+balance	13		Fundamental	Balance	Yes	Software Development is a Balancing Act		2016-09-05	monthly	1.0
+value	14		Fundamental	Value	Yes	Create Value for Customers		2016-09-05	monthly	1.0
+auto	15		Fundamental	Automation	Yes	Automate Repetitive Tasks		2016-09-05	monthly	1.0
+reuse	16		Fundamental	Reuse	Yes	Use Things Already Known to Work		2016-09-05	monthly	1.0
+simplify	17		Fundamental	Simplify	Yes	Simplify and Generalize		2016-09-05	monthly	1.0
+decomposition	18		Fundamental	Decomposition	Yes	Decomposition		2016-09-05	monthly	1.0
+cohesion	19		Fundamental	Cohesion	Yes	Cohesion		2016-09-05	monthly	1.0
+loose	20		Fundamental	Coupling	Yes	Loose Coupling		2016-09-05	monthly	1.0
+communicate	21		Fundamental	Communication	Yes	Communicate Clearly		2016-09-05	monthly	1.0
+alternatives	22		Fundamental	Alternatives	Yes	Consider Alternatives		2016-09-05	monthly	1.0
+arguments	23		Fundamental	Arguments	Yes	Have Wonderful Arguments		2016-09-05	monthly	1.0
+show	24		Fundamental	Show	Yes	Show Rather than Tell		2016-09-05	monthly	1.0
+pdca	25		Fundamental	Experiment	Yes	Plan-Do-Check-Act		2016-09-05	monthly	1.0
+loops	26		Fundamental	Feedback	Yes	Shorten Feedback Loops		2016-09-05	monthly	1.0
+arc	27		Fundamental	Arc	Yes	Understand the Arc of Your Project		2016-09-05	monthly	1.0
+not-done	28		Fundamental	Not Done	Yes	What's Not Done is as Important as What's Done		2016-09-05	monthly	1.0
+	30	index	Leadership			Leadership		2016-09-05	monthly	0.1
+entrepreneur	31		Leadership	Entrepreneur	Yes	Entrepreneurial Leadership		2016-09-05	monthly	1.0
+teams	32		Leadership	Teams	Yes	Build Great Teams		2016-09-05	monthly	1.0
+govern	33		Leadership	Govern	Yes	Govern Wisely		2016-09-05	monthly	1.0
+economic	34		Leadership	Economic	Yes	Take a Long-Term Economic Perspective		2016-09-05	monthly	1.0
+wrong	35		Leadership	Risk	Yes	Consider What Might Go Wrong		2016-09-05	monthly	1.0
+	40	index	People			People		2016-09-05	monthly	0.1
+engagement	41		People	Engagement	Yes	Increase Developer Engagement		2016-09-05	monthly	1.0
+growing	42		People	Growth	Yes	Developers are Always Growing		2016-09-05	monthly	1.0
+interchange	43		People	Interchangeable	Yes	Developers Are Not Interchangeable		2016-09-05	monthly	1.0
+	50	index	Initiation			Initiation		2016-09-05	monthly	0.1
+terms-of-engagement	51		Initiation	Terms of Engagement	Yes	Agree on Terms of Engagement		2016-09-05	monthly	1.0
+proxy	51.5		Initiation	Customer Proxy	Yes	Pick the Right Sort of Customer Proxy		2016-09-05	monthly	1.0
+vision	52		Initiation	Product Vision	Yes	Craft a Product Vision		2016-09-05	monthly	1.0
+quality	53		Initiation	Quality	Yes	Quality Requires Extra Effort		2016-09-05	monthly	1.0
+plan	54		Initiation	Change	Yes	Plan Thoughtfully But Be Prepared for Change		2016-09-05	monthly	1.0
+tailor	55		Initiation	Tailoring	Yes	Tailor Thoughtfully		2016-09-05	monthly	1.0
+tools	56		Initiation	Tools	Yes	Sharpen Your Axe		2016-09-05	monthly	1.0
+estimating	57		Initiation	Estimating	Yes	"When Estimating, the Whole is Definitely Greater than the Sum of its Parts"		2016-09-05	monthly	1.0
+understand-customer	58		Initiation	Customer	Yes	Seek First to Understand Your Customer		2016-09-05	monthly	1.0
+jeduf	59		Initiation	Design	Yes	Just Enough Design Up Front		2016-09-05	monthly	1.0
+deliver	60		Initiation	Deliver	Yes	Deliver Early and Often		2016-09-05	monthly	1.0
+	70	index	Execution			Execution		2016-09-05	monthly	0.1
+self-organizing	71		Execution	Team Organization	Yes	Self-Organizing Teams		2016-09-05	monthly	1.0
+decisions	72		Execution	Decisions	Yes	A Deliberate Approach to Decision-Making		2016-09-05	monthly	1.0
+flow	73		Execution	Friction and Flow	Yes	"Decrease Friction, Increase Flow"		2016-09-05	monthly	1.0
+cm	74		Execution	Configuration Management	Yes	Configuration Management		2016-09-05	monthly	1.0
+wip	75		Execution	WIP	Yes	Limit Work in Progress		2016-09-05	monthly	1.0
+problems	76		Execution	Problems	Yes	Make Problems Visible		2016-09-05	monthly	1.0
+learning	77		Execution	Learning	Yes	Remain Open to Fresh Learning		2016-09-05	monthly	1.0
+integration	78		Execution	Integration	Yes	Don't Wait to Integrate		2016-09-05	monthly	1.0
+	80	index	Caution			Caution		2016-09-05	monthly	0.1
+different	81		Caution	Software	Yes	Software is Different		2016-09-05	monthly	1.0
+craft	83		Caution	Craftsmanship	Yes	Software Development is a Craft		2016-09-05	monthly	1.0
+docs	84		Caution	Documentation	Yes	Documentation Is Not an End Unto Itself		2016-09-05	monthly	1.0
+pm	85		Caution	Project and Program Management	Yes	Do Not Place Excessive Faith in Project and Program Management		2016-09-05	monthly	1.0
+buyer	86		Caution	Suppliers	Yes	Let the Buyer Beware		2016-09-05	monthly	1.0
+focus	88		Caution	Working Software	Yes	Stay Focused on the Creation of Working Software for Real People		2016-09-05	monthly	1.0
+	90	index	Reference			Reference		2016-09-05	monthly	0.1
+author	91		Reference	Author		About the Author		2016-09-05	yearly	1.0
+copyrights	92		Reference			Copyrights		2016-09-05	monthly	0.2
+versions	93		Reference			Version History		2016-09-05	monthly	0.1
+glossary	94		Reference			Glossary		2016-09-05	monthly	1.0
+biblio	95		Reference			Bibliography		2016-09-05	monthly	0.3
+colophon	96		Reference			Colophon		2016-09-05	monthly	0.1
+all-ideas	97		Reference			Alphabetical List of All Ideas		2016-09-05	monthly	0.1
+index	98		Reference			Alphabetical Index		2016-09-05	monthly	0.5
+search	100		Search	Search		Search		2016-12-30	yearly	0.1
