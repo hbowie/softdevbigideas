@@ -1,0 +1,109 @@
+<?set author-number = 0 ?>
+<?set quote-number = 0 ?>
+<?nextrec?>
+<?if "=$bibliographicid$=" ?>
+<?definegroup 1 “=$lastnamefirst$="?>
+<?ifendgroup 1 ?>
+<?endif?>
+<?ifnewgroup 1 ?>
+<?output "../sdev-notes/=$lastnamefirst&fr$=.mdtext"?>
+Title: =$lastnamefirst$=
+
+AKA: =$author$=
+
+Class: author
+
+<?set author-number += 1 ?>
+<?set work-number = 0 ?>
+Seq: 8.6.=$author-number$=
+
+Level: 4 - Item
+
+<?if "=$authorwikimediapage$=" ?>
+Link: https://en.wikipedia.org/wiki/=$authorwikimediapage$=
+
+<?endif?>
+
+<?endif?>
+<?if "=$minor-title$=" ?>
+<?output "../sdev-notes/=$minor-title&fr$=.mdtext"?>
+Title: =$minortitle$=
+
+Work Larger Title:  =$source$=
+
+<?else?>
+<?output "../sdev-notes/=$source&fr$=.mdtext"?>
+Title: =$source$=
+
+Work Larger Title: 
+
+<?endif?>
+AKA: =$bibliographicid$=
+
+Class: work
+
+<?set work-number += 1 ?>
+Seq: 8.6.=$author-number$=.=$work-number$=
+
+Level: 5 - Subitem
+
+Author: =$lastnamefirst$=
+
+Attribution: by [[=$author$=]]
+
+Link: =$source-link$=
+
+Date: =$pubdate$=
+
+Work Type: =$sourcetype$=
+
+Work ID: =$sourceid$=
+
+Work Rights: =$rights$=
+
+Work Rights Holder: =$rightsowner$=
+
+Publisher: =$publisher$=
+
+Publisher City: =$pubcity$=
+
+<?output "../sdev-notes/=$title&fr$=.mdtext"?>
+Title: =$title$=
+
+<?set quote-number += 1 ?>
+Seq:  8.5.=$quote-number$=
+
+Level: 4 - Item
+
+Class: quote 
+
+Author: =$author$=
+
+Date:  =$pub-date$=
+
+<?if "=$minor-title$=" ?>
+Work Title: =$minortitle$=
+
+Work Larger Title:  =$source$=
+
+<?else?>
+Work Title: =$source$=
+
+<?endif?>
+Work Title:  
+
+Work Pages:   
+
+Attribution: 
+
+Timestamp:  
+
+Date Added:  
+
+Date Modified:  
+
+Body:  
+
+
+<?endif?>
+<?loop?>

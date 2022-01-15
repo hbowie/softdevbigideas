@@ -1,0 +1,9 @@
+module	action	modifier	object	value
+input	set		xpltags	false
+input	set		dirdepth	1
+input	open	file		/Users/hbowie/Sites/softdevbigideas/lists/bibliography.tsv
+filter	add	gt	Bibliographic ID
+filter	set		params
+template	webroot			/Users/hbowie/Sites/softdevbigideas
+template	open			/Users/hbowie/Sites/softdevbigideas/redo-22/gen-biblio-notes.mdtext
+template	generate

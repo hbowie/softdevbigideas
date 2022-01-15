@@ -1,0 +1,4 @@
+module	action	modifier	object	value
+input	open	file		/Users/hbowie/Sites/softdevbigideas/lists/bibliography.tsv
+filter	add	gt	Bibliographic ID	
+filter	set		params	
