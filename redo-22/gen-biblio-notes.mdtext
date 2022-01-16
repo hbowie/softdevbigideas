@@ -35,7 +35,7 @@ Work Larger Title:  =$source$=
 <?output "../sdev-notes/=$source&fr$=.mdtext"?>
 Title: =$source$=
 
-Work Larger Title: 
+Work Larger Title:
 
 <?endif?>
 AKA: =$bibliographicid$=
@@ -49,8 +49,10 @@ Level: 5 - Subitem
 
 Author: =$lastnamefirst$=
 
+<?if "=$author$=" ?>
 Attribution: by [[=$author$=]]
 
+<?endif?>
 Link: =$source-link$=
 
 Date: =$pubdate$=
@@ -67,6 +69,7 @@ Publisher: =$publisher$=
 
 Publisher City: =$pubcity$=
 
+<?if "=$title$=" ?>
 <?output "../sdev-notes/=$title&fr$=.mdtext"?>
 Title: =$title$=
 
@@ -75,7 +78,7 @@ Seq:  8.5.=$quote-number$=
 
 Level: 4 - Item
 
-Class: quote 
+Class: quote
 
 Author: =$author$=
 
@@ -90,20 +93,25 @@ Work Larger Title:  =$source$=
 Work Title: =$source$=
 
 <?endif?>
-Work Title:  
+Attribution:
 
-Work Pages:   
+<?if "=$author$=" ?>
+-- [[=$author$=]]
+<?if "=$pub-date$=" ?>
+=$pub-date$=
+<?endif?>
+<?if "=$minor-title$=" ?>
+"[[=$minortitle$=]]"
+<?else?>
+<?if "=$source$=" ?>
+*[[=$source$=]]*
+<?endif?>
+<?endif?>
+<?endif?>
 
-Attribution: 
+Body:
 
-Timestamp:  
-
-Date Added:  
-
-Date Modified:  
-
-Body:  
-
-
+=$body&t$=
+<?endif?>
 <?endif?>
 <?loop?>

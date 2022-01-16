@@ -1,50 +1,52 @@
-Title: <title> 
+Title: <title>
 
-Tags: <tags> 
+Tags: <tags>
 
-AKA: <aka> 
+AKA: <aka>
 
-Timestamp:  
+Timestamp:
 
-Link: <link> 
+Link: <link>
 
-Seq: <seq> 
+Seq: <seq>
 
-Level: <level: 1 - book; 2 - section; 3 - chapter; 4 - item; 5 - subitem; > 
+Level: <level: 1 - book; 2 - section; 3 - chapter; 4 - item; 5 - subitem; >
 
-Class: <class:  author, biblio, cover, def, quote, text, title, work > 
+Class: <class:  author, biblio, cover, def, quote, text, title, work >
 
-Include Children: <includechildren> 
+Include Children: <includechildren>
 
-Attribution: <attribution> 
+Attribution: <attribution>
 
-Author: <author> 
+Author: <author>
 
-Author Info:  
+Author Info:
 
-Author Years:  
+Author Years:
 
-Date: <date> 
+Date: <date>
 
-Work Pages:  
+Work Title:
 
-Work Type: <worktype> 
+Work Pages:
 
-Work Larger Title:  
+Work Type: <worktype>
 
-Work ID:  
+Work Larger Title:
 
-Work Rights:  
+Work ID:
 
-Work Rights Holder:  
+Work Rights:
 
-Publisher:  
+Work Rights Holder:
 
-Publisher City:  
+Publisher:
 
-Index: <index> 
+Publisher City:
 
-Teaser: <longtext> 
+Index: <index>
 
-Body:  
+Teaser: <longtext>
+
+Body:
 
